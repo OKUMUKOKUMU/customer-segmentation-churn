@@ -1,0 +1,4001 @@
+customer_id,channel,region,onboard_month,has_merchandiser,credit_terms_days
+C00001,Duka,Nyanza,2024-02,False,0
+C00002,Wholesaler,Central,2024-04,True,30
+C00003,Duka,Coast,2022-08,False,0
+C00004,Duka,Nairobi,2024-10,False,0
+C00005,Duka,Nyanza,2026-02,True,0
+C00006,HoReCa,Coast,2025-07,False,14
+C00007,Petrol Station,Central,2023-09,False,0
+C00008,Duka,Rift Valley,2023-08,True,0
+C00009,Wholesaler,Rift Valley,2025-08,True,30
+C00010,Duka,Nairobi,2025-07,True,0
+C00011,Petrol Station,Western,2022-01,False,0
+C00012,Petrol Station,Nyanza,2025-09,False,0
+C00013,Wholesaler,Coast,2022-09,True,30
+C00014,HoReCa,Western,2025-05,False,14
+C00015,Supermarket,Nairobi,2022-05,True,30
+C00016,HoReCa,Nairobi,2024-03,False,14
+C00017,Duka,Central,2023-08,False,0
+C00018,Duka,Western,2022-04,True,0
+C00019,Duka,Nairobi,2025-10,True,0
+C00020,Duka,Western,2026-03,False,0
+C00021,Supermarket,Rift Valley,2024-03,True,30
+C00022,Duka,Rift Valley,2023-06,True,0
+C00023,Wholesaler,Rift Valley,2026-02,True,30
+C00024,Duka,Nyanza,2023-12,True,0
+C00025,Duka,Coast,2024-01,False,0
+C00026,Duka,Nairobi,2026-03,True,0
+C00027,Duka,Nyanza,2025-11,True,0
+C00028,Supermarket,Coast,2022-06,True,30
+C00029,Duka,Nairobi,2025-05,False,0
+C00030,Duka,Nairobi,2023-11,True,0
+C00031,Duka,Nairobi,2026-01,True,0
+C00032,HoReCa,Central,2024-10,False,14
+C00033,HoReCa,Rift Valley,2024-10,True,14
+C00034,Wholesaler,Rift Valley,2025-11,True,30
+C00035,Duka,Nairobi,2024-07,True,0
+C00036,Petrol Station,Nairobi,2024-07,True,0
+C00037,Supermarket,Nairobi,2026-03,True,30
+C00038,Duka,Western,2025-07,True,0
+C00039,Petrol Station,Rift Valley,2025-01,False,0
+C00040,Duka,Nairobi,2023-11,True,0
+C00041,Wholesaler,Rift Valley,2022-06,True,30
+C00042,Duka,Nairobi,2024-10,False,0
+C00043,Duka,Western,2022-10,True,0
+C00044,HoReCa,Central,2025-04,False,14
+C00045,Duka,Rift Valley,2023-06,False,0
+C00046,Supermarket,Central,2024-10,True,30
+C00047,Supermarket,Western,2023-07,True,30
+C00048,Duka,Coast,2025-10,False,0
+C00049,HoReCa,Central,2024-07,False,14
+C00050,Supermarket,Western,2026-02,True,30
+C00051,Wholesaler,Central,2023-05,True,30
+C00052,Duka,Nairobi,2023-11,False,0
+C00053,Duka,Nairobi,2022-10,False,0
+C00054,Supermarket,Western,2024-02,False,30
+C00055,Duka,Coast,2023-04,True,0
+C00056,Wholesaler,Nairobi,2023-06,True,30
+C00057,Supermarket,Central,2023-02,True,30
+C00058,Duka,Rift Valley,2024-09,False,0
+C00059,Duka,Nairobi,2024-04,False,0
+C00060,HoReCa,Nyanza,2025-06,True,14
+C00061,Supermarket,Rift Valley,2023-04,False,30
+C00062,Duka,Western,2025-09,False,0
+C00063,Supermarket,Rift Valley,2025-12,True,30
+C00064,Duka,Rift Valley,2022-02,False,0
+C00065,Petrol Station,Western,2025-12,False,0
+C00066,Petrol Station,Coast,2024-01,False,0
+C00067,Duka,Nyanza,2025-09,False,0
+C00068,Duka,Western,2024-07,False,0
+C00069,HoReCa,Nyanza,2022-05,True,14
+C00070,Duka,Central,2023-11,False,0
+C00071,Supermarket,Coast,2025-11,False,30
+C00072,Duka,Nairobi,2022-07,True,0
+C00073,HoReCa,Rift Valley,2025-04,True,14
+C00074,Petrol Station,Coast,2024-11,False,0
+C00075,Petrol Station,Nairobi,2022-01,False,0
+C00076,Wholesaler,Nairobi,2025-07,True,30
+C00077,Duka,Central,2023-01,True,0
+C00078,Petrol Station,Coast,2023-07,False,0
+C00079,Duka,Central,2023-07,False,0
+C00080,Duka,Central,2025-09,True,0
+C00081,Duka,Nairobi,2022-07,False,0
+C00082,Wholesaler,Coast,2024-05,True,30
+C00083,Supermarket,Nyanza,2022-01,True,30
+C00084,Duka,Rift Valley,2023-07,True,0
+C00085,Duka,Western,2022-07,False,0
+C00086,Wholesaler,Rift Valley,2022-04,True,30
+C00087,Supermarket,Nyanza,2024-11,True,30
+C00088,Wholesaler,Central,2024-10,True,30
+C00089,Supermarket,Coast,2024-09,True,30
+C00090,Petrol Station,Nairobi,2022-06,True,0
+C00091,Petrol Station,Nairobi,2026-03,True,0
+C00092,Duka,Nyanza,2023-05,False,0
+C00093,Petrol Station,Central,2024-11,False,0
+C00094,HoReCa,Nairobi,2023-01,True,14
+C00095,Wholesaler,Nairobi,2024-12,True,30
+C00096,Wholesaler,Nyanza,2025-06,True,30
+C00097,Supermarket,Nyanza,2022-07,True,30
+C00098,Petrol Station,Western,2022-06,False,0
+C00099,Duka,Nyanza,2023-01,False,0
+C00100,Supermarket,Nyanza,2025-01,True,30
+C00101,HoReCa,Nairobi,2023-07,False,14
+C00102,Duka,Rift Valley,2024-02,False,0
+C00103,Wholesaler,Nyanza,2026-02,True,30
+C00104,Duka,Nyanza,2022-04,True,0
+C00105,HoReCa,Western,2022-01,False,14
+C00106,Duka,Central,2022-03,True,0
+C00107,Wholesaler,Western,2024-04,True,30
+C00108,HoReCa,Western,2025-01,True,14
+C00109,Wholesaler,Nairobi,2023-05,True,30
+C00110,Duka,Nairobi,2025-06,True,0
+C00111,Wholesaler,Central,2023-04,True,30
+C00112,Duka,Coast,2024-07,False,0
+C00113,Wholesaler,Central,2024-02,True,30
+C00114,Duka,Central,2026-03,True,0
+C00115,Duka,Rift Valley,2022-02,True,0
+C00116,Duka,Western,2025-07,True,0
+C00117,Duka,Nairobi,2024-04,True,0
+C00118,Supermarket,Nairobi,2024-02,True,30
+C00119,Duka,Nyanza,2022-03,False,0
+C00120,Supermarket,Nairobi,2023-01,True,30
+C00121,Wholesaler,Coast,2022-03,True,30
+C00122,Petrol Station,Nairobi,2025-11,False,0
+C00123,Duka,Nairobi,2023-03,False,0
+C00124,Duka,Central,2024-06,False,0
+C00125,Duka,Nairobi,2023-12,True,0
+C00126,Duka,Western,2024-06,False,0
+C00127,Wholesaler,Western,2024-06,False,30
+C00128,HoReCa,Nairobi,2024-04,False,14
+C00129,Duka,Nairobi,2025-10,False,0
+C00130,Supermarket,Western,2023-11,True,30
+C00131,Petrol Station,Coast,2022-07,True,0
+C00132,Wholesaler,Central,2024-01,True,30
+C00133,HoReCa,Nyanza,2025-04,False,14
+C00134,Petrol Station,Rift Valley,2022-07,True,0
+C00135,Duka,Nairobi,2025-06,False,0
+C00136,Wholesaler,Nairobi,2022-05,False,30
+C00137,HoReCa,Nyanza,2024-09,True,14
+C00138,HoReCa,Nyanza,2025-06,False,14
+C00139,Duka,Rift Valley,2024-08,True,0
+C00140,Wholesaler,Rift Valley,2022-05,True,30
+C00141,Wholesaler,Central,2024-02,True,30
+C00142,Duka,Nairobi,2024-02,False,0
+C00143,Duka,Rift Valley,2023-12,False,0
+C00144,Duka,Central,2023-07,True,0
+C00145,Petrol Station,Nairobi,2023-11,True,0
+C00146,Duka,Central,2023-10,False,0
+C00147,Duka,Rift Valley,2024-02,False,0
+C00148,Duka,Nairobi,2023-04,False,0
+C00149,Duka,Coast,2025-04,False,0
+C00150,Duka,Central,2023-03,True,0
+C00151,Petrol Station,Rift Valley,2023-10,False,0
+C00152,Duka,Rift Valley,2023-03,False,0
+C00153,Supermarket,Nairobi,2025-01,False,30
+C00154,Duka,Rift Valley,2024-12,False,0
+C00155,Wholesaler,Central,2023-05,False,30
+C00156,Duka,Central,2023-07,True,0
+C00157,HoReCa,Rift Valley,2026-03,False,14
+C00158,Duka,Rift Valley,2023-08,False,0
+C00159,Duka,Central,2023-09,False,0
+C00160,HoReCa,Nyanza,2022-02,True,14
+C00161,Supermarket,Rift Valley,2025-06,True,30
+C00162,Duka,Nyanza,2026-03,False,0
+C00163,Duka,Rift Valley,2024-08,False,0
+C00164,HoReCa,Central,2023-10,False,14
+C00165,Duka,Nyanza,2025-09,False,0
+C00166,Duka,Rift Valley,2025-09,True,0
+C00167,Petrol Station,Coast,2023-05,True,0
+C00168,Duka,Western,2025-08,True,0
+C00169,Duka,Nyanza,2022-06,True,0
+C00170,Duka,Western,2025-07,False,0
+C00171,Duka,Western,2023-11,False,0
+C00172,Duka,Central,2025-11,False,0
+C00173,Supermarket,Nyanza,2024-08,True,30
+C00174,Petrol Station,Coast,2023-10,False,0
+C00175,Petrol Station,Central,2025-03,False,0
+C00176,Duka,Nairobi,2024-12,True,0
+C00177,HoReCa,Nairobi,2024-08,True,14
+C00178,Duka,Nairobi,2025-09,True,0
+C00179,HoReCa,Central,2024-02,False,14
+C00180,Duka,Nairobi,2024-08,False,0
+C00181,HoReCa,Nairobi,2024-12,False,14
+C00182,HoReCa,Rift Valley,2026-02,False,14
+C00183,HoReCa,Nairobi,2022-12,True,14
+C00184,Petrol Station,Rift Valley,2025-07,False,0
+C00185,Duka,Nyanza,2025-11,False,0
+C00186,Wholesaler,Nairobi,2024-09,True,30
+C00187,HoReCa,Nairobi,2022-02,False,14
+C00188,Duka,Western,2024-12,True,0
+C00189,Wholesaler,Nairobi,2026-01,False,30
+C00190,Duka,Western,2024-04,True,0
+C00191,Duka,Rift Valley,2024-03,True,0
+C00192,Supermarket,Nairobi,2022-07,True,30
+C00193,Duka,Western,2023-03,False,0
+C00194,Supermarket,Western,2026-01,True,30
+C00195,Wholesaler,Rift Valley,2025-10,True,30
+C00196,Supermarket,Coast,2022-03,False,30
+C00197,Petrol Station,Nairobi,2025-07,True,0
+C00198,Duka,Nyanza,2023-10,False,0
+C00199,Duka,Western,2025-11,False,0
+C00200,Duka,Nairobi,2026-01,False,0
+C00201,HoReCa,Nyanza,2025-12,True,14
+C00202,Wholesaler,Rift Valley,2023-03,True,30
+C00203,Duka,Nairobi,2022-09,False,0
+C00204,HoReCa,Coast,2023-10,False,14
+C00205,HoReCa,Rift Valley,2024-04,True,14
+C00206,HoReCa,Central,2024-04,True,14
+C00207,Duka,Nyanza,2023-11,False,0
+C00208,Duka,Rift Valley,2022-02,False,0
+C00209,Petrol Station,Western,2026-02,False,0
+C00210,HoReCa,Coast,2022-04,False,14
+C00211,Duka,Coast,2025-03,False,0
+C00212,Supermarket,Nairobi,2022-05,True,30
+C00213,Duka,Rift Valley,2025-08,False,0
+C00214,Duka,Central,2022-06,False,0
+C00215,Duka,Central,2024-08,False,0
+C00216,Duka,Nairobi,2022-01,True,0
+C00217,Duka,Nairobi,2026-02,False,0
+C00218,Petrol Station,Nyanza,2025-09,False,0
+C00219,Supermarket,Nyanza,2022-08,False,30
+C00220,Duka,Nairobi,2023-02,False,0
+C00221,Duka,Western,2022-01,False,0
+C00222,Supermarket,Rift Valley,2022-03,True,30
+C00223,Wholesaler,Coast,2022-01,True,30
+C00224,Supermarket,Central,2025-10,True,30
+C00225,Duka,Nairobi,2025-12,False,0
+C00226,Duka,Nairobi,2024-03,False,0
+C00227,Supermarket,Nairobi,2025-10,True,30
+C00228,Petrol Station,Nairobi,2025-10,True,0
+C00229,Supermarket,Central,2025-05,True,30
+C00230,Petrol Station,Nairobi,2022-04,True,0
+C00231,Duka,Central,2023-07,False,0
+C00232,Duka,Nairobi,2024-09,False,0
+C00233,HoReCa,Rift Valley,2024-04,True,14
+C00234,Supermarket,Rift Valley,2022-11,True,30
+C00235,Supermarket,Central,2023-04,True,30
+C00236,Duka,Nairobi,2026-01,True,0
+C00237,Duka,Western,2024-06,False,0
+C00238,Wholesaler,Nyanza,2023-12,True,30
+C00239,Duka,Central,2024-06,True,0
+C00240,Duka,Western,2023-03,False,0
+C00241,HoReCa,Coast,2026-02,False,14
+C00242,Petrol Station,Western,2023-03,False,0
+C00243,Petrol Station,Nyanza,2024-06,False,0
+C00244,Supermarket,Coast,2023-10,True,30
+C00245,Duka,Rift Valley,2024-10,False,0
+C00246,Duka,Coast,2022-06,False,0
+C00247,Supermarket,Nairobi,2025-12,True,30
+C00248,Duka,Rift Valley,2023-06,False,0
+C00249,Duka,Central,2024-01,False,0
+C00250,Duka,Rift Valley,2025-01,False,0
+C00251,Petrol Station,Nairobi,2022-01,True,0
+C00252,Duka,Coast,2022-12,False,0
+C00253,Duka,Nairobi,2025-07,True,0
+C00254,Petrol Station,Nairobi,2025-03,False,0
+C00255,Wholesaler,Nyanza,2024-04,True,30
+C00256,HoReCa,Nyanza,2023-02,True,14
+C00257,Duka,Central,2025-06,False,0
+C00258,Petrol Station,Rift Valley,2023-07,False,0
+C00259,Petrol Station,Nyanza,2024-01,False,0
+C00260,Supermarket,Coast,2023-07,True,30
+C00261,Petrol Station,Nairobi,2022-05,True,0
+C00262,Supermarket,Western,2025-01,True,30
+C00263,Duka,Rift Valley,2022-11,False,0
+C00264,HoReCa,Coast,2025-09,False,14
+C00265,Wholesaler,Rift Valley,2022-12,False,30
+C00266,Duka,Nairobi,2024-05,False,0
+C00267,Supermarket,Coast,2023-12,True,30
+C00268,Duka,Coast,2022-03,False,0
+C00269,HoReCa,Nairobi,2023-06,True,14
+C00270,Supermarket,Nairobi,2024-05,True,30
+C00271,Duka,Nairobi,2023-10,True,0
+C00272,Petrol Station,Rift Valley,2026-03,False,0
+C00273,Petrol Station,Nairobi,2025-10,False,0
+C00274,HoReCa,Nyanza,2025-08,False,14
+C00275,Duka,Central,2024-06,False,0
+C00276,Supermarket,Western,2024-12,True,30
+C00277,Duka,Rift Valley,2025-01,False,0
+C00278,Duka,Coast,2024-11,False,0
+C00279,Duka,Nyanza,2023-06,True,0
+C00280,Duka,Nyanza,2022-06,True,0
+C00281,HoReCa,Nairobi,2024-09,False,14
+C00282,Duka,Central,2024-05,False,0
+C00283,Duka,Western,2022-01,False,0
+C00284,Wholesaler,Central,2023-04,False,30
+C00285,Petrol Station,Nairobi,2023-09,False,0
+C00286,HoReCa,Nairobi,2024-10,False,14
+C00287,HoReCa,Western,2023-03,False,14
+C00288,Petrol Station,Nairobi,2024-03,True,0
+C00289,Supermarket,Rift Valley,2025-08,False,30
+C00290,HoReCa,Central,2023-06,False,14
+C00291,Duka,Nairobi,2025-05,False,0
+C00292,Duka,Nyanza,2023-06,False,0
+C00293,Petrol Station,Western,2022-09,True,0
+C00294,Duka,Coast,2023-11,False,0
+C00295,HoReCa,Western,2023-02,False,14
+C00296,Supermarket,Nyanza,2022-06,True,30
+C00297,Duka,Western,2022-06,False,0
+C00298,Duka,Nairobi,2026-01,False,0
+C00299,Supermarket,Rift Valley,2024-08,True,30
+C00300,HoReCa,Western,2024-06,False,14
+C00301,HoReCa,Western,2024-10,False,14
+C00302,Duka,Nairobi,2024-02,False,0
+C00303,Duka,Western,2023-06,False,0
+C00304,Supermarket,Coast,2024-05,True,30
+C00305,Duka,Central,2025-08,False,0
+C00306,Duka,Western,2024-03,True,0
+C00307,Supermarket,Nairobi,2025-03,True,30
+C00308,Duka,Nairobi,2024-09,False,0
+C00309,Duka,Nyanza,2025-10,False,0
+C00310,Duka,Nairobi,2024-08,False,0
+C00311,Duka,Central,2023-10,False,0
+C00312,HoReCa,Nairobi,2025-07,False,14
+C00313,Supermarket,Rift Valley,2024-01,True,30
+C00314,Petrol Station,Rift Valley,2023-06,True,0
+C00315,HoReCa,Rift Valley,2023-08,True,14
+C00316,Duka,Nairobi,2026-02,False,0
+C00317,Duka,Rift Valley,2023-02,False,0
+C00318,Supermarket,Nairobi,2023-06,False,30
+C00319,Duka,Nyanza,2025-01,True,0
+C00320,Duka,Central,2025-11,True,0
+C00321,HoReCa,Nairobi,2024-04,True,14
+C00322,HoReCa,Rift Valley,2025-07,False,14
+C00323,Duka,Nyanza,2025-11,True,0
+C00324,HoReCa,Rift Valley,2022-05,False,14
+C00325,Supermarket,Nyanza,2022-10,True,30
+C00326,HoReCa,Nairobi,2024-01,False,14
+C00327,Duka,Coast,2023-02,True,0
+C00328,Duka,Nairobi,2023-06,True,0
+C00329,Petrol Station,Rift Valley,2025-03,False,0
+C00330,HoReCa,Western,2025-05,False,14
+C00331,Duka,Rift Valley,2025-02,False,0
+C00332,Petrol Station,Central,2023-11,False,0
+C00333,Duka,Coast,2025-07,False,0
+C00334,Wholesaler,Nairobi,2022-03,True,30
+C00335,HoReCa,Western,2026-01,False,14
+C00336,Duka,Nairobi,2022-08,True,0
+C00337,HoReCa,Nairobi,2022-08,False,14
+C00338,Duka,Nairobi,2023-10,True,0
+C00339,Petrol Station,Western,2024-05,True,0
+C00340,Petrol Station,Nairobi,2023-03,False,0
+C00341,Petrol Station,Rift Valley,2023-03,False,0
+C00342,Petrol Station,Western,2022-10,True,0
+C00343,Duka,Rift Valley,2024-01,True,0
+C00344,Wholesaler,Nairobi,2025-02,False,30
+C00345,HoReCa,Nairobi,2024-11,True,14
+C00346,Supermarket,Central,2025-03,True,30
+C00347,Supermarket,Coast,2024-05,True,30
+C00348,Duka,Nairobi,2023-11,True,0
+C00349,Duka,Rift Valley,2025-07,True,0
+C00350,HoReCa,Nairobi,2023-12,True,14
+C00351,Duka,Nairobi,2025-12,False,0
+C00352,HoReCa,Central,2025-02,False,14
+C00353,Duka,Rift Valley,2025-01,True,0
+C00354,Duka,Nairobi,2025-10,False,0
+C00355,Duka,Coast,2025-05,False,0
+C00356,Wholesaler,Coast,2023-12,False,30
+C00357,Duka,Nairobi,2025-02,False,0
+C00358,Duka,Nyanza,2024-11,True,0
+C00359,Duka,Nairobi,2023-02,True,0
+C00360,Supermarket,Central,2022-02,True,30
+C00361,Wholesaler,Western,2025-11,True,30
+C00362,Duka,Central,2023-05,True,0
+C00363,HoReCa,Western,2024-06,True,14
+C00364,HoReCa,Rift Valley,2023-04,False,14
+C00365,Petrol Station,Coast,2024-05,False,0
+C00366,Duka,Nairobi,2023-01,True,0
+C00367,HoReCa,Coast,2023-08,False,14
+C00368,Duka,Nyanza,2022-08,True,0
+C00369,Petrol Station,Western,2024-02,False,0
+C00370,Duka,Western,2022-10,False,0
+C00371,Duka,Rift Valley,2025-03,False,0
+C00372,Duka,Nairobi,2025-03,False,0
+C00373,HoReCa,Nairobi,2023-12,False,14
+C00374,Supermarket,Rift Valley,2025-02,True,30
+C00375,Petrol Station,Nairobi,2023-07,False,0
+C00376,Duka,Central,2026-02,True,0
+C00377,Petrol Station,Nairobi,2023-05,False,0
+C00378,Duka,Rift Valley,2023-08,True,0
+C00379,Duka,Central,2022-05,True,0
+C00380,Wholesaler,Western,2024-03,False,30
+C00381,Duka,Nairobi,2024-01,False,0
+C00382,Supermarket,Nairobi,2022-04,True,30
+C00383,Duka,Nairobi,2023-01,False,0
+C00384,Duka,Coast,2022-08,False,0
+C00385,Duka,Western,2022-05,True,0
+C00386,Duka,Nyanza,2023-08,False,0
+C00387,Duka,Nairobi,2025-11,False,0
+C00388,Petrol Station,Nairobi,2026-03,False,0
+C00389,Supermarket,Western,2023-12,True,30
+C00390,Duka,Nairobi,2022-01,False,0
+C00391,HoReCa,Central,2025-09,False,14
+C00392,Duka,Central,2023-05,False,0
+C00393,Supermarket,Central,2024-04,True,30
+C00394,Duka,Nairobi,2022-06,False,0
+C00395,Wholesaler,Coast,2024-07,True,30
+C00396,Wholesaler,Rift Valley,2022-04,True,30
+C00397,Duka,Coast,2024-07,True,0
+C00398,HoReCa,Rift Valley,2025-01,False,14
+C00399,Wholesaler,Nairobi,2024-04,True,30
+C00400,Wholesaler,Coast,2024-10,True,30
+C00401,Duka,Western,2023-01,False,0
+C00402,Duka,Nyanza,2023-04,False,0
+C00403,Duka,Western,2022-06,True,0
+C00404,Duka,Nairobi,2025-05,False,0
+C00405,Duka,Coast,2023-04,False,0
+C00406,Wholesaler,Nairobi,2023-11,True,30
+C00407,Duka,Nairobi,2022-12,True,0
+C00408,HoReCa,Central,2025-08,True,14
+C00409,Duka,Central,2025-12,False,0
+C00410,HoReCa,Rift Valley,2022-10,False,14
+C00411,Duka,Rift Valley,2024-07,False,0
+C00412,HoReCa,Nyanza,2022-12,True,14
+C00413,Petrol Station,Coast,2022-05,False,0
+C00414,Wholesaler,Nyanza,2024-07,True,30
+C00415,Duka,Coast,2025-08,True,0
+C00416,Duka,Coast,2026-02,False,0
+C00417,HoReCa,Rift Valley,2023-10,True,14
+C00418,Supermarket,Nairobi,2023-12,True,30
+C00419,Duka,Nairobi,2026-01,True,0
+C00420,Supermarket,Nairobi,2023-09,False,30
+C00421,Duka,Rift Valley,2022-03,False,0
+C00422,Duka,Coast,2024-02,True,0
+C00423,Wholesaler,Western,2024-04,True,30
+C00424,HoReCa,Rift Valley,2026-03,False,14
+C00425,Duka,Coast,2024-12,True,0
+C00426,Duka,Western,2024-05,True,0
+C00427,Duka,Central,2024-02,False,0
+C00428,Duka,Nyanza,2024-12,False,0
+C00429,Petrol Station,Nyanza,2022-02,False,0
+C00430,Petrol Station,Coast,2025-12,False,0
+C00431,Wholesaler,Nyanza,2025-08,True,30
+C00432,Duka,Central,2022-10,False,0
+C00433,Duka,Coast,2025-12,False,0
+C00434,Petrol Station,Rift Valley,2025-12,False,0
+C00435,Duka,Nairobi,2026-03,True,0
+C00436,Duka,Western,2022-11,True,0
+C00437,HoReCa,Central,2025-11,True,14
+C00438,Duka,Rift Valley,2022-02,True,0
+C00439,Duka,Nyanza,2022-05,True,0
+C00440,Duka,Rift Valley,2024-01,False,0
+C00441,HoReCa,Central,2025-08,False,14
+C00442,Duka,Nairobi,2024-09,False,0
+C00443,HoReCa,Rift Valley,2023-05,True,14
+C00444,Supermarket,Rift Valley,2025-12,True,30
+C00445,Duka,Nairobi,2023-05,True,0
+C00446,Duka,Central,2024-05,True,0
+C00447,HoReCa,Nyanza,2023-05,False,14
+C00448,Duka,Coast,2023-06,True,0
+C00449,Wholesaler,Western,2023-08,True,30
+C00450,Wholesaler,Nyanza,2023-08,True,30
+C00451,Petrol Station,Central,2026-01,False,0
+C00452,Duka,Nairobi,2025-04,False,0
+C00453,Duka,Central,2023-02,True,0
+C00454,Wholesaler,Central,2024-12,True,30
+C00455,Duka,Western,2022-06,False,0
+C00456,Duka,Rift Valley,2024-12,False,0
+C00457,Petrol Station,Western,2022-09,False,0
+C00458,HoReCa,Western,2024-11,True,14
+C00459,Duka,Central,2025-11,True,0
+C00460,Duka,Nairobi,2022-10,False,0
+C00461,HoReCa,Nyanza,2022-05,False,14
+C00462,Supermarket,Nyanza,2023-05,True,30
+C00463,Petrol Station,Nairobi,2023-12,True,0
+C00464,Supermarket,Central,2022-05,True,30
+C00465,Duka,Rift Valley,2022-09,False,0
+C00466,Duka,Nairobi,2022-07,True,0
+C00467,Duka,Central,2024-10,True,0
+C00468,Wholesaler,Nyanza,2023-08,True,30
+C00469,Duka,Central,2026-03,True,0
+C00470,Duka,Western,2023-07,False,0
+C00471,Duka,Nairobi,2022-08,True,0
+C00472,Wholesaler,Coast,2025-04,True,30
+C00473,Duka,Nyanza,2022-08,True,0
+C00474,HoReCa,Rift Valley,2025-08,False,14
+C00475,Duka,Coast,2023-07,False,0
+C00476,HoReCa,Coast,2023-08,False,14
+C00477,HoReCa,Rift Valley,2022-01,True,14
+C00478,Petrol Station,Nyanza,2024-03,False,0
+C00479,Duka,Nyanza,2025-07,False,0
+C00480,HoReCa,Nyanza,2023-04,False,14
+C00481,Duka,Western,2022-03,False,0
+C00482,Duka,Rift Valley,2022-06,True,0
+C00483,Duka,Rift Valley,2023-04,False,0
+C00484,Supermarket,Central,2026-02,True,30
+C00485,Duka,Central,2025-09,True,0
+C00486,Petrol Station,Central,2023-09,False,0
+C00487,Duka,Nairobi,2023-07,True,0
+C00488,Supermarket,Nairobi,2023-06,True,30
+C00489,HoReCa,Rift Valley,2025-06,False,14
+C00490,Duka,Rift Valley,2022-01,False,0
+C00491,Supermarket,Nyanza,2022-09,True,30
+C00492,Supermarket,Western,2022-03,True,30
+C00493,HoReCa,Central,2025-10,True,14
+C00494,Wholesaler,Rift Valley,2025-02,True,30
+C00495,HoReCa,Nairobi,2025-05,False,14
+C00496,HoReCa,Nairobi,2022-01,False,14
+C00497,Supermarket,Rift Valley,2022-05,True,30
+C00498,Duka,Nyanza,2024-05,False,0
+C00499,Duka,Rift Valley,2022-07,True,0
+C00500,Duka,Nairobi,2024-12,False,0
+C00501,HoReCa,Coast,2023-03,False,14
+C00502,Duka,Central,2024-10,False,0
+C00503,Petrol Station,Nairobi,2022-03,False,0
+C00504,Duka,Nyanza,2024-05,False,0
+C00505,Duka,Western,2023-04,True,0
+C00506,Duka,Nairobi,2024-07,False,0
+C00507,Duka,Rift Valley,2024-12,False,0
+C00508,Duka,Western,2022-01,False,0
+C00509,Duka,Coast,2025-04,False,0
+C00510,HoReCa,Rift Valley,2022-12,True,14
+C00511,Duka,Central,2023-05,False,0
+C00512,Supermarket,Central,2023-05,True,30
+C00513,Petrol Station,Nairobi,2025-11,False,0
+C00514,Duka,Nairobi,2023-05,True,0
+C00515,Supermarket,Nairobi,2023-09,True,30
+C00516,Petrol Station,Nairobi,2022-02,True,0
+C00517,Supermarket,Western,2023-10,True,30
+C00518,Supermarket,Nyanza,2024-07,False,30
+C00519,Supermarket,Coast,2022-11,True,30
+C00520,Duka,Central,2024-05,False,0
+C00521,HoReCa,Central,2025-10,False,14
+C00522,Petrol Station,Nairobi,2022-09,False,0
+C00523,Petrol Station,Coast,2025-05,False,0
+C00524,Supermarket,Western,2025-11,False,30
+C00525,Duka,Nyanza,2024-05,False,0
+C00526,Wholesaler,Coast,2022-12,False,30
+C00527,Petrol Station,Central,2024-04,False,0
+C00528,Petrol Station,Rift Valley,2022-05,False,0
+C00529,Duka,Central,2026-03,True,0
+C00530,Petrol Station,Coast,2022-02,False,0
+C00531,HoReCa,Western,2024-05,True,14
+C00532,HoReCa,Nairobi,2023-07,False,14
+C00533,Duka,Rift Valley,2024-12,False,0
+C00534,Petrol Station,Nairobi,2022-04,False,0
+C00535,HoReCa,Nairobi,2022-10,True,14
+C00536,Duka,Nyanza,2023-12,False,0
+C00537,Supermarket,Western,2026-01,True,30
+C00538,Duka,Coast,2022-01,False,0
+C00539,HoReCa,Nairobi,2025-10,False,14
+C00540,Supermarket,Coast,2022-12,False,30
+C00541,Supermarket,Central,2024-05,True,30
+C00542,HoReCa,Nairobi,2022-12,True,14
+C00543,HoReCa,Coast,2022-10,True,14
+C00544,Duka,Nairobi,2022-01,False,0
+C00545,HoReCa,Nairobi,2022-08,True,14
+C00546,Supermarket,Nairobi,2023-01,True,30
+C00547,Duka,Nyanza,2022-03,False,0
+C00548,Duka,Rift Valley,2026-02,True,0
+C00549,Supermarket,Nyanza,2025-08,True,30
+C00550,HoReCa,Western,2023-11,False,14
+C00551,Petrol Station,Coast,2023-07,False,0
+C00552,Duka,Coast,2024-01,False,0
+C00553,Duka,Rift Valley,2024-07,True,0
+C00554,HoReCa,Nyanza,2023-10,False,14
+C00555,Wholesaler,Nyanza,2024-08,True,30
+C00556,HoReCa,Nairobi,2023-11,False,14
+C00557,Supermarket,Western,2024-04,True,30
+C00558,Duka,Central,2024-08,True,0
+C00559,Supermarket,Nairobi,2024-05,False,30
+C00560,Supermarket,Central,2024-02,True,30
+C00561,Petrol Station,Nairobi,2024-02,False,0
+C00562,Duka,Central,2025-08,False,0
+C00563,Duka,Nairobi,2024-12,False,0
+C00564,HoReCa,Nyanza,2024-03,False,14
+C00565,Duka,Nairobi,2023-07,True,0
+C00566,Supermarket,Nairobi,2025-12,True,30
+C00567,Petrol Station,Coast,2026-02,True,0
+C00568,Wholesaler,Central,2022-11,True,30
+C00569,Wholesaler,Nairobi,2024-10,True,30
+C00570,Petrol Station,Nairobi,2026-02,True,0
+C00571,HoReCa,Rift Valley,2025-04,False,14
+C00572,Petrol Station,Nyanza,2025-04,False,0
+C00573,Wholesaler,Nairobi,2022-11,True,30
+C00574,Supermarket,Coast,2024-04,True,30
+C00575,Duka,Nairobi,2022-11,True,0
+C00576,Duka,Rift Valley,2025-02,True,0
+C00577,Supermarket,Nairobi,2024-01,True,30
+C00578,Duka,Western,2023-03,False,0
+C00579,Duka,Nyanza,2023-08,True,0
+C00580,HoReCa,Nairobi,2022-01,True,14
+C00581,Wholesaler,Western,2024-02,True,30
+C00582,Duka,Western,2022-02,True,0
+C00583,Duka,Coast,2024-10,False,0
+C00584,Wholesaler,Rift Valley,2023-08,True,30
+C00585,Duka,Central,2024-02,True,0
+C00586,Supermarket,Nairobi,2022-01,True,30
+C00587,Duka,Nairobi,2023-07,False,0
+C00588,HoReCa,Nairobi,2024-01,False,14
+C00589,Duka,Nairobi,2025-02,False,0
+C00590,Duka,Rift Valley,2024-12,False,0
+C00591,Duka,Nyanza,2022-02,False,0
+C00592,Supermarket,Nyanza,2022-06,True,30
+C00593,Petrol Station,Nairobi,2024-06,False,0
+C00594,Duka,Central,2022-04,True,0
+C00595,Duka,Nyanza,2026-01,False,0
+C00596,Duka,Nairobi,2022-07,False,0
+C00597,HoReCa,Central,2023-03,False,14
+C00598,Duka,Central,2024-03,False,0
+C00599,Petrol Station,Coast,2023-12,True,0
+C00600,Duka,Rift Valley,2023-10,False,0
+C00601,Supermarket,Western,2024-02,True,30
+C00602,HoReCa,Coast,2022-12,False,14
+C00603,Supermarket,Nairobi,2024-02,True,30
+C00604,Duka,Nairobi,2022-10,True,0
+C00605,HoReCa,Nyanza,2023-02,False,14
+C00606,Supermarket,Rift Valley,2023-02,True,30
+C00607,Petrol Station,Rift Valley,2024-10,False,0
+C00608,Duka,Central,2022-09,True,0
+C00609,Supermarket,Nyanza,2025-06,True,30
+C00610,Wholesaler,Nyanza,2022-01,True,30
+C00611,Petrol Station,Western,2023-04,True,0
+C00612,Duka,Central,2022-01,True,0
+C00613,HoReCa,Nairobi,2025-04,False,14
+C00614,Wholesaler,Nyanza,2024-02,True,30
+C00615,HoReCa,Nairobi,2024-04,False,14
+C00616,Wholesaler,Rift Valley,2022-01,True,30
+C00617,Duka,Central,2023-08,False,0
+C00618,HoReCa,Nairobi,2024-04,False,14
+C00619,Duka,Nairobi,2025-12,True,0
+C00620,Duka,Rift Valley,2024-04,True,0
+C00621,HoReCa,Western,2022-06,True,14
+C00622,HoReCa,Rift Valley,2022-07,False,14
+C00623,HoReCa,Nyanza,2022-03,False,14
+C00624,Duka,Nairobi,2023-09,False,0
+C00625,HoReCa,Nairobi,2022-02,True,14
+C00626,HoReCa,Nairobi,2024-05,True,14
+C00627,Duka,Nairobi,2023-01,True,0
+C00628,HoReCa,Central,2022-02,False,14
+C00629,Petrol Station,Nairobi,2026-02,False,0
+C00630,Duka,Coast,2024-12,True,0
+C00631,Duka,Nairobi,2024-11,False,0
+C00632,Supermarket,Nairobi,2023-05,True,30
+C00633,HoReCa,Nyanza,2026-02,True,14
+C00634,Wholesaler,Nairobi,2023-11,True,30
+C00635,Petrol Station,Nairobi,2024-04,False,0
+C00636,Petrol Station,Nairobi,2023-06,False,0
+C00637,HoReCa,Nyanza,2023-05,False,14
+C00638,HoReCa,Central,2023-08,False,14
+C00639,Duka,Nairobi,2024-11,False,0
+C00640,Duka,Western,2022-06,True,0
+C00641,HoReCa,Western,2024-09,True,14
+C00642,Duka,Central,2025-11,False,0
+C00643,Duka,Nairobi,2022-03,False,0
+C00644,Duka,Nairobi,2022-05,True,0
+C00645,Duka,Western,2026-02,False,0
+C00646,Supermarket,Western,2025-11,True,30
+C00647,Petrol Station,Rift Valley,2023-10,False,0
+C00648,Duka,Nairobi,2022-05,True,0
+C00649,HoReCa,Central,2022-09,True,14
+C00650,Duka,Western,2024-12,False,0
+C00651,HoReCa,Nyanza,2024-11,False,14
+C00652,Petrol Station,Nyanza,2023-01,False,0
+C00653,Supermarket,Central,2025-04,True,30
+C00654,Duka,Nyanza,2023-05,True,0
+C00655,Petrol Station,Nyanza,2024-07,False,0
+C00656,Duka,Coast,2024-04,True,0
+C00657,Petrol Station,Nairobi,2022-04,True,0
+C00658,Petrol Station,Nairobi,2024-09,True,0
+C00659,Petrol Station,Rift Valley,2023-04,True,0
+C00660,Petrol Station,Western,2026-01,False,0
+C00661,Supermarket,Central,2022-12,True,30
+C00662,Wholesaler,Nairobi,2025-02,True,30
+C00663,Supermarket,Nyanza,2022-06,True,30
+C00664,Duka,Central,2023-03,False,0
+C00665,Petrol Station,Nairobi,2024-12,False,0
+C00666,Duka,Nairobi,2025-08,True,0
+C00667,Duka,Rift Valley,2026-01,False,0
+C00668,Petrol Station,Nairobi,2022-09,False,0
+C00669,Petrol Station,Western,2025-02,True,0
+C00670,Duka,Nairobi,2024-03,False,0
+C00671,Petrol Station,Nairobi,2024-11,True,0
+C00672,HoReCa,Central,2023-07,True,14
+C00673,HoReCa,Central,2022-05,True,14
+C00674,Supermarket,Central,2023-12,False,30
+C00675,Duka,Rift Valley,2023-06,False,0
+C00676,Duka,Western,2022-04,True,0
+C00677,Duka,Nairobi,2023-01,True,0
+C00678,Duka,Nairobi,2022-09,False,0
+C00679,Duka,Coast,2024-07,False,0
+C00680,Duka,Rift Valley,2023-05,False,0
+C00681,Duka,Nairobi,2022-06,True,0
+C00682,Supermarket,Rift Valley,2022-11,False,30
+C00683,HoReCa,Central,2024-07,True,14
+C00684,Supermarket,Nyanza,2025-12,True,30
+C00685,Supermarket,Nairobi,2023-06,True,30
+C00686,HoReCa,Nyanza,2025-02,False,14
+C00687,HoReCa,Nairobi,2025-08,False,14
+C00688,Duka,Nairobi,2022-03,False,0
+C00689,Wholesaler,Central,2023-08,True,30
+C00690,Petrol Station,Western,2023-08,False,0
+C00691,Duka,Rift Valley,2023-02,True,0
+C00692,Wholesaler,Central,2024-05,True,30
+C00693,HoReCa,Nyanza,2022-07,False,14
+C00694,Duka,Western,2023-11,True,0
+C00695,HoReCa,Rift Valley,2025-07,False,14
+C00696,HoReCa,Western,2022-10,True,14
+C00697,HoReCa,Nyanza,2026-01,False,14
+C00698,Supermarket,Western,2022-08,True,30
+C00699,HoReCa,Nairobi,2024-05,False,14
+C00700,HoReCa,Coast,2023-12,True,14
+C00701,Duka,Western,2022-09,False,0
+C00702,Duka,Nairobi,2023-04,True,0
+C00703,Petrol Station,Western,2022-01,False,0
+C00704,Duka,Western,2024-07,True,0
+C00705,Duka,Nyanza,2024-09,False,0
+C00706,Duka,Nairobi,2024-07,False,0
+C00707,Duka,Nairobi,2023-06,False,0
+C00708,Supermarket,Western,2022-09,True,30
+C00709,Supermarket,Central,2025-03,False,30
+C00710,Duka,Rift Valley,2022-07,False,0
+C00711,Duka,Coast,2024-09,False,0
+C00712,Petrol Station,Central,2022-04,True,0
+C00713,Duka,Nairobi,2024-06,False,0
+C00714,Petrol Station,Nairobi,2022-09,False,0
+C00715,Duka,Coast,2022-04,False,0
+C00716,Supermarket,Nairobi,2024-08,True,30
+C00717,HoReCa,Nyanza,2024-06,False,14
+C00718,Wholesaler,Nairobi,2024-04,True,30
+C00719,HoReCa,Nyanza,2025-08,False,14
+C00720,Duka,Rift Valley,2023-05,False,0
+C00721,HoReCa,Rift Valley,2026-02,False,14
+C00722,Wholesaler,Nairobi,2022-01,True,30
+C00723,Petrol Station,Rift Valley,2023-11,False,0
+C00724,Petrol Station,Western,2024-06,False,0
+C00725,HoReCa,Central,2025-06,False,14
+C00726,HoReCa,Nairobi,2023-10,True,14
+C00727,Petrol Station,Western,2022-06,False,0
+C00728,HoReCa,Nairobi,2024-01,False,14
+C00729,Wholesaler,Western,2023-08,True,30
+C00730,Supermarket,Central,2025-03,True,30
+C00731,Supermarket,Rift Valley,2025-02,True,30
+C00732,Wholesaler,Nairobi,2022-03,True,30
+C00733,Wholesaler,Central,2025-12,False,30
+C00734,Duka,Nairobi,2023-10,False,0
+C00735,Duka,Nairobi,2025-10,True,0
+C00736,Duka,Rift Valley,2025-11,True,0
+C00737,Duka,Nairobi,2025-06,True,0
+C00738,Wholesaler,Nairobi,2024-09,True,30
+C00739,Petrol Station,Nairobi,2026-01,True,0
+C00740,Duka,Western,2024-08,False,0
+C00741,HoReCa,Nairobi,2025-03,False,14
+C00742,Duka,Nyanza,2023-07,False,0
+C00743,HoReCa,Central,2025-04,True,14
+C00744,Duka,Central,2022-08,True,0
+C00745,Wholesaler,Nyanza,2022-08,True,30
+C00746,Supermarket,Nairobi,2022-04,False,30
+C00747,HoReCa,Central,2024-03,True,14
+C00748,Duka,Nairobi,2024-05,False,0
+C00749,Supermarket,Rift Valley,2025-11,True,30
+C00750,HoReCa,Nyanza,2025-02,False,14
+C00751,Wholesaler,Nyanza,2024-04,True,30
+C00752,Duka,Nairobi,2024-11,False,0
+C00753,HoReCa,Rift Valley,2023-04,True,14
+C00754,Duka,Nyanza,2024-02,False,0
+C00755,Duka,Rift Valley,2022-06,False,0
+C00756,Duka,Western,2024-04,True,0
+C00757,HoReCa,Nairobi,2024-03,True,14
+C00758,HoReCa,Rift Valley,2022-01,False,14
+C00759,Petrol Station,Nairobi,2025-04,True,0
+C00760,HoReCa,Central,2022-11,False,14
+C00761,Petrol Station,Nairobi,2025-02,False,0
+C00762,Petrol Station,Central,2024-03,False,0
+C00763,Supermarket,Rift Valley,2025-12,True,30
+C00764,Wholesaler,Coast,2024-12,True,30
+C00765,Petrol Station,Coast,2023-04,False,0
+C00766,Supermarket,Central,2025-03,True,30
+C00767,Duka,Nairobi,2024-02,False,0
+C00768,Petrol Station,Rift Valley,2022-04,False,0
+C00769,Duka,Western,2024-11,True,0
+C00770,Supermarket,Western,2024-12,True,30
+C00771,Petrol Station,Central,2022-05,False,0
+C00772,HoReCa,Rift Valley,2023-05,False,14
+C00773,Wholesaler,Coast,2026-02,True,30
+C00774,Supermarket,Nairobi,2023-08,False,30
+C00775,Duka,Nyanza,2025-03,False,0
+C00776,Supermarket,Nairobi,2025-07,True,30
+C00777,HoReCa,Rift Valley,2022-03,False,14
+C00778,Supermarket,Coast,2022-07,True,30
+C00779,HoReCa,Nyanza,2022-12,False,14
+C00780,Petrol Station,Nairobi,2025-02,False,0
+C00781,Wholesaler,Coast,2025-07,True,30
+C00782,HoReCa,Rift Valley,2024-04,False,14
+C00783,HoReCa,Nairobi,2024-12,True,14
+C00784,Supermarket,Nairobi,2025-01,True,30
+C00785,Duka,Rift Valley,2025-06,True,0
+C00786,HoReCa,Nairobi,2024-10,False,14
+C00787,HoReCa,Nairobi,2023-07,False,14
+C00788,Petrol Station,Nyanza,2024-03,False,0
+C00789,Duka,Nairobi,2025-01,True,0
+C00790,Supermarket,Nyanza,2023-11,True,30
+C00791,Duka,Rift Valley,2022-07,False,0
+C00792,Supermarket,Nairobi,2023-02,True,30
+C00793,Duka,Nyanza,2022-06,False,0
+C00794,Duka,Nairobi,2025-02,False,0
+C00795,Petrol Station,Nairobi,2024-09,True,0
+C00796,HoReCa,Coast,2025-09,True,14
+C00797,Duka,Central,2026-02,False,0
+C00798,HoReCa,Nyanza,2023-05,False,14
+C00799,Duka,Western,2023-03,False,0
+C00800,Duka,Western,2026-01,False,0
+C00801,HoReCa,Central,2022-10,True,14
+C00802,Wholesaler,Nairobi,2024-09,True,30
+C00803,HoReCa,Rift Valley,2024-07,False,14
+C00804,Duka,Rift Valley,2025-02,False,0
+C00805,Duka,Western,2024-04,False,0
+C00806,Duka,Rift Valley,2023-01,True,0
+C00807,HoReCa,Rift Valley,2025-03,False,14
+C00808,HoReCa,Coast,2022-12,True,14
+C00809,Petrol Station,Central,2023-01,False,0
+C00810,Petrol Station,Nairobi,2023-03,False,0
+C00811,Duka,Coast,2023-04,False,0
+C00812,HoReCa,Western,2022-07,False,14
+C00813,Petrol Station,Rift Valley,2024-10,False,0
+C00814,Duka,Nairobi,2024-10,False,0
+C00815,Duka,Nyanza,2023-03,True,0
+C00816,Duka,Rift Valley,2022-11,False,0
+C00817,HoReCa,Rift Valley,2023-09,True,14
+C00818,HoReCa,Rift Valley,2024-07,True,14
+C00819,Duka,Nairobi,2022-01,True,0
+C00820,Petrol Station,Nairobi,2024-04,False,0
+C00821,Duka,Rift Valley,2022-04,False,0
+C00822,HoReCa,Nairobi,2024-08,True,14
+C00823,Duka,Nyanza,2026-02,False,0
+C00824,HoReCa,Western,2022-12,False,14
+C00825,Duka,Nairobi,2023-08,False,0
+C00826,Supermarket,Nairobi,2023-05,False,30
+C00827,Duka,Coast,2024-11,False,0
+C00828,Wholesaler,Nairobi,2024-03,True,30
+C00829,Petrol Station,Nyanza,2023-10,False,0
+C00830,Duka,Rift Valley,2024-06,False,0
+C00831,Petrol Station,Coast,2022-03,False,0
+C00832,Duka,Rift Valley,2023-09,True,0
+C00833,Duka,Nairobi,2022-02,False,0
+C00834,Duka,Central,2022-08,True,0
+C00835,Duka,Western,2024-08,True,0
+C00836,Duka,Nairobi,2024-02,True,0
+C00837,HoReCa,Nairobi,2024-08,False,14
+C00838,Duka,Nairobi,2025-07,False,0
+C00839,Wholesaler,Coast,2024-05,True,30
+C00840,Wholesaler,Central,2022-12,True,30
+C00841,Supermarket,Nairobi,2025-03,True,30
+C00842,Duka,Coast,2025-12,True,0
+C00843,Duka,Coast,2026-03,True,0
+C00844,Duka,Western,2023-06,False,0
+C00845,Wholesaler,Nairobi,2022-01,True,30
+C00846,Petrol Station,Rift Valley,2025-10,True,0
+C00847,Supermarket,Coast,2022-06,True,30
+C00848,Duka,Nyanza,2024-06,True,0
+C00849,HoReCa,Nyanza,2022-11,False,14
+C00850,Duka,Central,2024-12,True,0
+C00851,Supermarket,Coast,2024-03,False,30
+C00852,Petrol Station,Nairobi,2023-03,True,0
+C00853,Duka,Rift Valley,2023-06,False,0
+C00854,Duka,Coast,2026-02,False,0
+C00855,Duka,Nyanza,2024-08,False,0
+C00856,Supermarket,Rift Valley,2024-07,True,30
+C00857,Petrol Station,Rift Valley,2024-06,False,0
+C00858,HoReCa,Rift Valley,2025-09,True,14
+C00859,Duka,Rift Valley,2022-05,True,0
+C00860,Duka,Nairobi,2023-05,True,0
+C00861,Wholesaler,Rift Valley,2022-12,True,30
+C00862,Wholesaler,Western,2025-11,True,30
+C00863,Duka,Western,2025-03,True,0
+C00864,Supermarket,Nairobi,2023-08,True,30
+C00865,HoReCa,Central,2024-11,False,14
+C00866,Duka,Rift Valley,2022-01,False,0
+C00867,HoReCa,Western,2023-03,False,14
+C00868,Duka,Central,2023-12,False,0
+C00869,Duka,Coast,2025-11,False,0
+C00870,Supermarket,Rift Valley,2022-07,False,30
+C00871,HoReCa,Rift Valley,2024-04,False,14
+C00872,Wholesaler,Nairobi,2025-11,True,30
+C00873,Wholesaler,Nyanza,2022-05,True,30
+C00874,Duka,Central,2025-10,False,0
+C00875,Supermarket,Nairobi,2023-06,True,30
+C00876,Supermarket,Nairobi,2026-01,True,30
+C00877,Duka,Western,2025-09,False,0
+C00878,HoReCa,Rift Valley,2025-03,True,14
+C00879,Duka,Coast,2024-08,False,0
+C00880,Duka,Nairobi,2023-08,False,0
+C00881,Duka,Coast,2023-05,False,0
+C00882,Wholesaler,Nairobi,2024-03,True,30
+C00883,HoReCa,Nyanza,2025-05,True,14
+C00884,HoReCa,Nairobi,2025-04,True,14
+C00885,Duka,Western,2024-09,False,0
+C00886,Duka,Rift Valley,2022-11,True,0
+C00887,Duka,Nairobi,2025-07,False,0
+C00888,Duka,Coast,2023-12,False,0
+C00889,HoReCa,Central,2024-10,True,14
+C00890,Supermarket,Coast,2022-07,True,30
+C00891,Duka,Nairobi,2024-04,True,0
+C00892,Wholesaler,Nairobi,2022-11,True,30
+C00893,Duka,Western,2022-02,False,0
+C00894,HoReCa,Nairobi,2024-02,False,14
+C00895,HoReCa,Rift Valley,2025-10,False,14
+C00896,HoReCa,Nairobi,2023-09,True,14
+C00897,Petrol Station,Nyanza,2024-08,False,0
+C00898,Wholesaler,Central,2022-05,True,30
+C00899,Wholesaler,Rift Valley,2023-12,True,30
+C00900,HoReCa,Nyanza,2025-11,True,14
+C00901,Wholesaler,Coast,2024-11,True,30
+C00902,Petrol Station,Nairobi,2025-07,False,0
+C00903,Duka,Nairobi,2024-10,False,0
+C00904,Duka,Nyanza,2024-12,False,0
+C00905,Duka,Rift Valley,2023-12,True,0
+C00906,Petrol Station,Western,2025-12,False,0
+C00907,Duka,Rift Valley,2022-03,False,0
+C00908,Petrol Station,Nairobi,2022-06,True,0
+C00909,Duka,Western,2023-10,False,0
+C00910,Petrol Station,Western,2025-07,False,0
+C00911,Duka,Western,2024-02,True,0
+C00912,Duka,Central,2022-09,True,0
+C00913,HoReCa,Nairobi,2025-03,False,14
+C00914,Duka,Rift Valley,2024-02,False,0
+C00915,Duka,Western,2022-01,True,0
+C00916,Duka,Coast,2024-10,False,0
+C00917,Duka,Nairobi,2022-05,False,0
+C00918,HoReCa,Western,2025-04,False,14
+C00919,Supermarket,Nairobi,2022-07,False,30
+C00920,HoReCa,Central,2025-05,False,14
+C00921,Duka,Central,2024-10,False,0
+C00922,Supermarket,Coast,2024-05,True,30
+C00923,Petrol Station,Nairobi,2023-09,False,0
+C00924,Petrol Station,Nairobi,2023-11,True,0
+C00925,Supermarket,Central,2022-09,True,30
+C00926,Wholesaler,Nairobi,2022-11,True,30
+C00927,Duka,Rift Valley,2024-07,True,0
+C00928,Duka,Coast,2023-11,False,0
+C00929,Supermarket,Western,2024-11,False,30
+C00930,Duka,Nyanza,2024-06,False,0
+C00931,Duka,Nairobi,2024-02,False,0
+C00932,HoReCa,Central,2023-10,False,14
+C00933,Duka,Nairobi,2022-04,True,0
+C00934,Petrol Station,Nyanza,2025-03,True,0
+C00935,Duka,Nairobi,2023-08,True,0
+C00936,HoReCa,Nairobi,2025-11,True,14
+C00937,Supermarket,Rift Valley,2026-01,True,30
+C00938,HoReCa,Nyanza,2022-03,True,14
+C00939,Duka,Nairobi,2024-06,False,0
+C00940,Duka,Central,2023-02,True,0
+C00941,Wholesaler,Central,2023-02,True,30
+C00942,Petrol Station,Nairobi,2023-09,False,0
+C00943,Wholesaler,Nairobi,2022-02,True,30
+C00944,Duka,Central,2022-08,False,0
+C00945,Duka,Coast,2023-10,False,0
+C00946,Duka,Nyanza,2024-01,False,0
+C00947,Duka,Rift Valley,2024-02,False,0
+C00948,Duka,Coast,2023-11,False,0
+C00949,Petrol Station,Rift Valley,2025-03,False,0
+C00950,Duka,Central,2023-11,False,0
+C00951,Duka,Nyanza,2026-03,True,0
+C00952,Duka,Coast,2025-09,False,0
+C00953,Duka,Rift Valley,2022-12,False,0
+C00954,Supermarket,Nairobi,2022-12,True,30
+C00955,Duka,Rift Valley,2023-07,False,0
+C00956,Duka,Nairobi,2024-01,False,0
+C00957,HoReCa,Coast,2023-07,False,14
+C00958,Petrol Station,Central,2025-12,True,0
+C00959,Duka,Rift Valley,2024-02,False,0
+C00960,Duka,Nairobi,2025-09,False,0
+C00961,HoReCa,Rift Valley,2023-09,True,14
+C00962,Duka,Coast,2026-01,False,0
+C00963,Duka,Nyanza,2025-07,True,0
+C00964,Duka,Rift Valley,2025-10,True,0
+C00965,Petrol Station,Coast,2024-11,True,0
+C00966,HoReCa,Central,2023-12,False,14
+C00967,Supermarket,Western,2024-12,True,30
+C00968,Duka,Rift Valley,2025-10,False,0
+C00969,Petrol Station,Rift Valley,2025-08,False,0
+C00970,Duka,Nairobi,2022-06,True,0
+C00971,Duka,Nairobi,2025-06,False,0
+C00972,HoReCa,Nairobi,2025-06,True,14
+C00973,HoReCa,Central,2022-12,True,14
+C00974,Duka,Nairobi,2025-03,False,0
+C00975,Supermarket,Nyanza,2023-11,True,30
+C00976,Duka,Coast,2024-11,True,0
+C00977,Petrol Station,Central,2023-06,False,0
+C00978,Duka,Nyanza,2023-01,False,0
+C00979,Duka,Nyanza,2025-02,False,0
+C00980,Wholesaler,Rift Valley,2025-04,True,30
+C00981,Petrol Station,Coast,2025-03,False,0
+C00982,Wholesaler,Coast,2024-07,True,30
+C00983,Supermarket,Nairobi,2023-09,True,30
+C00984,Duka,Rift Valley,2026-01,False,0
+C00985,Duka,Coast,2022-02,True,0
+C00986,HoReCa,Western,2023-03,True,14
+C00987,Duka,Nairobi,2024-10,False,0
+C00988,Petrol Station,Rift Valley,2023-06,True,0
+C00989,Petrol Station,Central,2024-03,False,0
+C00990,Wholesaler,Nairobi,2025-06,True,30
+C00991,Duka,Western,2024-10,True,0
+C00992,Petrol Station,Nairobi,2025-01,True,0
+C00993,HoReCa,Western,2022-01,True,14
+C00994,HoReCa,Central,2022-05,True,14
+C00995,Duka,Rift Valley,2023-05,True,0
+C00996,Wholesaler,Nairobi,2024-10,True,30
+C00997,HoReCa,Central,2024-09,False,14
+C00998,Duka,Coast,2024-05,True,0
+C00999,Duka,Western,2022-04,True,0
+C01000,Duka,Coast,2025-06,False,0
+C01001,HoReCa,Nyanza,2024-05,True,14
+C01002,Duka,Western,2026-02,False,0
+C01003,HoReCa,Nairobi,2025-03,True,14
+C01004,Supermarket,Western,2022-02,True,30
+C01005,HoReCa,Central,2025-04,True,14
+C01006,Duka,Nyanza,2024-01,True,0
+C01007,Petrol Station,Rift Valley,2024-09,False,0
+C01008,Duka,Nairobi,2025-06,False,0
+C01009,HoReCa,Central,2024-05,True,14
+C01010,Duka,Nairobi,2023-01,False,0
+C01011,HoReCa,Nyanza,2022-09,True,14
+C01012,Duka,Central,2025-05,False,0
+C01013,Duka,Coast,2022-06,False,0
+C01014,HoReCa,Nairobi,2023-08,False,14
+C01015,Duka,Central,2025-11,False,0
+C01016,Supermarket,Nairobi,2026-03,True,30
+C01017,Wholesaler,Nairobi,2022-12,False,30
+C01018,Duka,Nairobi,2026-01,False,0
+C01019,Wholesaler,Nairobi,2025-07,True,30
+C01020,Petrol Station,Nairobi,2024-01,False,0
+C01021,Duka,Rift Valley,2022-09,False,0
+C01022,HoReCa,Central,2023-09,False,14
+C01023,Duka,Nairobi,2024-11,False,0
+C01024,Supermarket,Nairobi,2022-12,False,30
+C01025,Duka,Nairobi,2022-11,True,0
+C01026,Duka,Western,2024-07,False,0
+C01027,Wholesaler,Nairobi,2023-09,True,30
+C01028,Duka,Nyanza,2024-02,False,0
+C01029,Petrol Station,Central,2023-10,False,0
+C01030,HoReCa,Western,2024-02,True,14
+C01031,Duka,Western,2022-09,False,0
+C01032,Wholesaler,Nyanza,2023-07,True,30
+C01033,Duka,Rift Valley,2022-01,True,0
+C01034,Wholesaler,Central,2023-09,True,30
+C01035,HoReCa,Nairobi,2022-02,True,14
+C01036,HoReCa,Nairobi,2023-05,False,14
+C01037,Duka,Rift Valley,2025-07,False,0
+C01038,Duka,Nyanza,2023-06,False,0
+C01039,Wholesaler,Nairobi,2023-01,True,30
+C01040,Duka,Nyanza,2025-06,True,0
+C01041,Petrol Station,Central,2025-08,True,0
+C01042,Supermarket,Coast,2024-09,True,30
+C01043,Supermarket,Nyanza,2026-03,True,30
+C01044,HoReCa,Nairobi,2025-10,False,14
+C01045,Petrol Station,Western,2024-11,False,0
+C01046,Duka,Coast,2025-12,False,0
+C01047,Supermarket,Nairobi,2025-05,True,30
+C01048,Duka,Rift Valley,2026-01,False,0
+C01049,Petrol Station,Nyanza,2022-05,False,0
+C01050,Petrol Station,Rift Valley,2024-08,False,0
+C01051,Duka,Nyanza,2022-07,False,0
+C01052,Duka,Nairobi,2022-09,False,0
+C01053,Petrol Station,Coast,2023-04,False,0
+C01054,Supermarket,Nairobi,2024-10,True,30
+C01055,Duka,Nairobi,2026-03,False,0
+C01056,Duka,Western,2022-03,True,0
+C01057,Wholesaler,Central,2022-12,True,30
+C01058,Wholesaler,Coast,2025-12,True,30
+C01059,Duka,Central,2024-06,False,0
+C01060,Duka,Nairobi,2023-12,True,0
+C01061,HoReCa,Nyanza,2023-07,False,14
+C01062,HoReCa,Western,2022-09,False,14
+C01063,Wholesaler,Nairobi,2024-05,True,30
+C01064,HoReCa,Nairobi,2025-06,True,14
+C01065,Wholesaler,Central,2022-10,True,30
+C01066,HoReCa,Central,2025-08,True,14
+C01067,Duka,Coast,2022-04,False,0
+C01068,Duka,Coast,2022-01,True,0
+C01069,Duka,Rift Valley,2023-11,False,0
+C01070,Supermarket,Coast,2025-10,True,30
+C01071,Duka,Central,2024-02,False,0
+C01072,HoReCa,Rift Valley,2022-01,False,14
+C01073,Duka,Nairobi,2023-05,False,0
+C01074,HoReCa,Nairobi,2023-12,True,14
+C01075,Duka,Nairobi,2025-01,False,0
+C01076,Duka,Nairobi,2022-08,True,0
+C01077,Duka,Nairobi,2025-02,False,0
+C01078,Duka,Coast,2024-11,False,0
+C01079,Duka,Nairobi,2023-10,False,0
+C01080,Duka,Nyanza,2024-02,False,0
+C01081,Petrol Station,Coast,2024-11,False,0
+C01082,Duka,Rift Valley,2023-12,False,0
+C01083,Supermarket,Rift Valley,2025-06,False,30
+C01084,Duka,Western,2022-01,False,0
+C01085,Duka,Nairobi,2024-04,False,0
+C01086,Wholesaler,Nairobi,2023-02,True,30
+C01087,Duka,Nairobi,2025-02,False,0
+C01088,Duka,Nairobi,2023-01,False,0
+C01089,Duka,Rift Valley,2023-03,False,0
+C01090,HoReCa,Nairobi,2024-12,False,14
+C01091,Petrol Station,Nyanza,2023-07,False,0
+C01092,Duka,Nyanza,2024-09,False,0
+C01093,Duka,Central,2022-10,False,0
+C01094,Duka,Western,2026-03,True,0
+C01095,Duka,Nyanza,2022-05,True,0
+C01096,Duka,Nyanza,2023-10,False,0
+C01097,HoReCa,Coast,2023-03,False,14
+C01098,Duka,Nairobi,2024-11,True,0
+C01099,HoReCa,Rift Valley,2025-04,False,14
+C01100,Duka,Central,2022-12,False,0
+C01101,Supermarket,Nairobi,2024-02,False,30
+C01102,HoReCa,Western,2024-09,False,14
+C01103,Duka,Nairobi,2022-08,True,0
+C01104,HoReCa,Nairobi,2022-01,False,14
+C01105,HoReCa,Western,2022-06,False,14
+C01106,Wholesaler,Coast,2022-09,True,30
+C01107,Duka,Western,2022-11,True,0
+C01108,Duka,Coast,2025-10,False,0
+C01109,Supermarket,Rift Valley,2025-05,True,30
+C01110,Duka,Rift Valley,2022-02,True,0
+C01111,HoReCa,Nairobi,2023-03,False,14
+C01112,HoReCa,Nairobi,2022-01,True,14
+C01113,Supermarket,Nairobi,2024-05,True,30
+C01114,Wholesaler,Nairobi,2024-09,True,30
+C01115,HoReCa,Nyanza,2023-09,True,14
+C01116,Duka,Nairobi,2023-10,False,0
+C01117,Duka,Central,2022-10,False,0
+C01118,Duka,Coast,2022-03,True,0
+C01119,Supermarket,Coast,2024-07,False,30
+C01120,Wholesaler,Nairobi,2022-06,True,30
+C01121,Wholesaler,Western,2023-07,False,30
+C01122,Duka,Nyanza,2023-01,False,0
+C01123,Petrol Station,Nairobi,2025-05,False,0
+C01124,Duka,Nairobi,2025-07,False,0
+C01125,Duka,Western,2022-08,False,0
+C01126,Duka,Western,2022-07,False,0
+C01127,Supermarket,Nyanza,2024-09,False,30
+C01128,Petrol Station,Central,2025-01,True,0
+C01129,Wholesaler,Nairobi,2023-07,True,30
+C01130,Supermarket,Coast,2023-08,True,30
+C01131,HoReCa,Nairobi,2025-08,False,14
+C01132,Petrol Station,Western,2022-10,False,0
+C01133,Supermarket,Coast,2025-08,True,30
+C01134,HoReCa,Rift Valley,2023-10,True,14
+C01135,Petrol Station,Rift Valley,2022-03,False,0
+C01136,Duka,Nairobi,2023-01,True,0
+C01137,Supermarket,Nairobi,2022-02,True,30
+C01138,Wholesaler,Nairobi,2025-08,False,30
+C01139,Supermarket,Western,2022-09,True,30
+C01140,Duka,Nairobi,2024-08,False,0
+C01141,Duka,Rift Valley,2024-05,False,0
+C01142,Petrol Station,Rift Valley,2023-07,False,0
+C01143,Petrol Station,Coast,2023-11,False,0
+C01144,Duka,Rift Valley,2024-11,True,0
+C01145,HoReCa,Rift Valley,2025-02,False,14
+C01146,Wholesaler,Nyanza,2025-03,True,30
+C01147,Duka,Nairobi,2025-03,False,0
+C01148,Duka,Western,2023-12,True,0
+C01149,Duka,Nairobi,2023-07,False,0
+C01150,HoReCa,Nairobi,2024-01,True,14
+C01151,Duka,Coast,2022-06,False,0
+C01152,Wholesaler,Nairobi,2024-07,True,30
+C01153,Wholesaler,Central,2024-12,True,30
+C01154,Petrol Station,Nairobi,2023-04,True,0
+C01155,Wholesaler,Nairobi,2023-06,True,30
+C01156,Duka,Coast,2025-02,False,0
+C01157,Duka,Coast,2022-05,False,0
+C01158,Supermarket,Rift Valley,2025-09,True,30
+C01159,Duka,Nairobi,2022-07,True,0
+C01160,Duka,Coast,2022-11,False,0
+C01161,Duka,Nyanza,2023-12,False,0
+C01162,Duka,Nairobi,2023-03,False,0
+C01163,Duka,Western,2024-09,False,0
+C01164,Duka,Central,2022-11,False,0
+C01165,Duka,Nairobi,2026-01,True,0
+C01166,Petrol Station,Nairobi,2023-11,False,0
+C01167,Duka,Rift Valley,2024-07,False,0
+C01168,Petrol Station,Rift Valley,2025-09,True,0
+C01169,Duka,Coast,2026-02,False,0
+C01170,Wholesaler,Central,2023-10,True,30
+C01171,Supermarket,Central,2023-08,True,30
+C01172,Wholesaler,Coast,2022-09,True,30
+C01173,HoReCa,Rift Valley,2025-11,False,14
+C01174,Duka,Rift Valley,2024-04,False,0
+C01175,Wholesaler,Nairobi,2025-09,True,30
+C01176,Duka,Nyanza,2025-04,False,0
+C01177,HoReCa,Nyanza,2022-10,False,14
+C01178,Supermarket,Rift Valley,2023-07,False,30
+C01179,Duka,Central,2025-01,True,0
+C01180,Duka,Rift Valley,2024-03,False,0
+C01181,Duka,Nyanza,2022-06,True,0
+C01182,HoReCa,Western,2026-01,False,14
+C01183,Duka,Coast,2023-11,False,0
+C01184,Supermarket,Central,2023-12,True,30
+C01185,Wholesaler,Western,2022-08,False,30
+C01186,Duka,Rift Valley,2023-06,False,0
+C01187,Petrol Station,Western,2022-10,False,0
+C01188,HoReCa,Rift Valley,2024-09,True,14
+C01189,Wholesaler,Rift Valley,2022-10,True,30
+C01190,Duka,Central,2022-01,False,0
+C01191,Duka,Rift Valley,2024-09,True,0
+C01192,Duka,Nairobi,2023-01,False,0
+C01193,HoReCa,Coast,2024-10,False,14
+C01194,Duka,Central,2024-07,False,0
+C01195,Duka,Nyanza,2022-01,False,0
+C01196,HoReCa,Nyanza,2022-04,False,14
+C01197,Duka,Western,2025-12,False,0
+C01198,Duka,Rift Valley,2022-09,False,0
+C01199,Duka,Nyanza,2025-05,True,0
+C01200,Duka,Western,2026-01,False,0
+C01201,Duka,Rift Valley,2022-12,False,0
+C01202,Duka,Nairobi,2022-06,False,0
+C01203,Petrol Station,Central,2022-01,False,0
+C01204,Wholesaler,Central,2022-06,True,30
+C01205,Duka,Coast,2024-04,True,0
+C01206,Wholesaler,Central,2022-10,False,30
+C01207,Duka,Western,2026-01,False,0
+C01208,HoReCa,Nairobi,2024-07,False,14
+C01209,Duka,Coast,2022-12,True,0
+C01210,Wholesaler,Coast,2022-07,True,30
+C01211,Petrol Station,Rift Valley,2023-03,True,0
+C01212,Petrol Station,Coast,2025-02,True,0
+C01213,Supermarket,Central,2023-02,True,30
+C01214,Duka,Nairobi,2022-04,True,0
+C01215,Duka,Coast,2022-02,False,0
+C01216,Duka,Nairobi,2023-05,False,0
+C01217,Duka,Rift Valley,2023-07,True,0
+C01218,Duka,Coast,2023-02,False,0
+C01219,Petrol Station,Nairobi,2026-02,False,0
+C01220,Duka,Rift Valley,2026-01,True,0
+C01221,Duka,Rift Valley,2026-02,False,0
+C01222,HoReCa,Rift Valley,2023-01,False,14
+C01223,HoReCa,Rift Valley,2024-02,False,14
+C01224,Duka,Central,2022-04,True,0
+C01225,Supermarket,Central,2023-06,False,30
+C01226,Supermarket,Western,2024-04,True,30
+C01227,HoReCa,Coast,2024-01,True,14
+C01228,Duka,Coast,2024-03,True,0
+C01229,HoReCa,Central,2026-01,False,14
+C01230,Duka,Nairobi,2025-09,True,0
+C01231,Supermarket,Rift Valley,2025-02,True,30
+C01232,Petrol Station,Nyanza,2025-01,False,0
+C01233,Duka,Western,2025-08,True,0
+C01234,HoReCa,Nairobi,2023-09,False,14
+C01235,Duka,Coast,2023-07,False,0
+C01236,Duka,Central,2026-01,True,0
+C01237,Supermarket,Nairobi,2026-01,True,30
+C01238,Duka,Rift Valley,2022-01,True,0
+C01239,Duka,Central,2025-11,False,0
+C01240,Supermarket,Western,2022-12,True,30
+C01241,HoReCa,Western,2024-07,False,14
+C01242,HoReCa,Nyanza,2025-03,False,14
+C01243,Petrol Station,Nyanza,2026-01,False,0
+C01244,Supermarket,Coast,2025-11,True,30
+C01245,Petrol Station,Nairobi,2024-04,True,0
+C01246,Petrol Station,Rift Valley,2022-05,False,0
+C01247,Supermarket,Central,2022-12,True,30
+C01248,Duka,Nyanza,2025-09,False,0
+C01249,Duka,Western,2024-04,False,0
+C01250,HoReCa,Rift Valley,2024-11,True,14
+C01251,Supermarket,Western,2024-05,True,30
+C01252,Duka,Central,2022-03,True,0
+C01253,HoReCa,Coast,2024-07,True,14
+C01254,Wholesaler,Central,2024-02,True,30
+C01255,Duka,Central,2025-10,True,0
+C01256,HoReCa,Rift Valley,2022-09,False,14
+C01257,Supermarket,Central,2022-04,True,30
+C01258,Duka,Rift Valley,2024-06,False,0
+C01259,Supermarket,Western,2024-06,False,30
+C01260,Supermarket,Central,2025-09,True,30
+C01261,Petrol Station,Rift Valley,2024-08,True,0
+C01262,Wholesaler,Nairobi,2024-02,False,30
+C01263,Duka,Western,2023-09,False,0
+C01264,Duka,Coast,2025-09,False,0
+C01265,Duka,Western,2024-04,False,0
+C01266,Duka,Nyanza,2022-11,True,0
+C01267,HoReCa,Central,2025-05,False,14
+C01268,Duka,Coast,2023-12,False,0
+C01269,HoReCa,Nairobi,2022-08,True,14
+C01270,Duka,Coast,2022-03,True,0
+C01271,Wholesaler,Coast,2025-08,True,30
+C01272,Duka,Coast,2026-02,True,0
+C01273,Duka,Central,2023-05,False,0
+C01274,Duka,Nairobi,2025-04,False,0
+C01275,Petrol Station,Nyanza,2025-03,True,0
+C01276,HoReCa,Nairobi,2024-12,False,14
+C01277,Duka,Western,2026-02,True,0
+C01278,Duka,Central,2025-11,False,0
+C01279,Duka,Nairobi,2024-07,False,0
+C01280,Wholesaler,Nairobi,2022-02,True,30
+C01281,Petrol Station,Nairobi,2022-01,False,0
+C01282,Wholesaler,Rift Valley,2022-08,True,30
+C01283,HoReCa,Nairobi,2024-07,True,14
+C01284,Duka,Nairobi,2024-01,True,0
+C01285,HoReCa,Nairobi,2023-02,True,14
+C01286,Supermarket,Western,2023-10,True,30
+C01287,HoReCa,Nyanza,2022-08,False,14
+C01288,Duka,Rift Valley,2025-02,True,0
+C01289,HoReCa,Rift Valley,2024-04,False,14
+C01290,Duka,Western,2022-05,False,0
+C01291,Duka,Coast,2023-08,False,0
+C01292,Duka,Nyanza,2023-08,False,0
+C01293,Duka,Rift Valley,2024-05,False,0
+C01294,Duka,Coast,2024-12,True,0
+C01295,Wholesaler,Western,2023-01,True,30
+C01296,Wholesaler,Central,2022-03,False,30
+C01297,Duka,Western,2023-04,False,0
+C01298,HoReCa,Western,2022-11,False,14
+C01299,Wholesaler,Coast,2023-03,True,30
+C01300,Petrol Station,Rift Valley,2022-06,False,0
+C01301,HoReCa,Central,2024-09,False,14
+C01302,Petrol Station,Nairobi,2023-06,True,0
+C01303,Petrol Station,Rift Valley,2024-04,False,0
+C01304,Petrol Station,Nairobi,2022-11,False,0
+C01305,Petrol Station,Nyanza,2024-01,False,0
+C01306,Petrol Station,Coast,2023-12,True,0
+C01307,Duka,Coast,2025-06,True,0
+C01308,Duka,Nairobi,2024-11,False,0
+C01309,Petrol Station,Rift Valley,2024-05,True,0
+C01310,Duka,Western,2026-03,True,0
+C01311,HoReCa,Nairobi,2024-09,False,14
+C01312,Petrol Station,Rift Valley,2022-02,False,0
+C01313,Wholesaler,Rift Valley,2023-04,True,30
+C01314,Duka,Nairobi,2025-08,False,0
+C01315,Wholesaler,Central,2023-09,True,30
+C01316,HoReCa,Nyanza,2022-11,False,14
+C01317,Duka,Nairobi,2023-07,False,0
+C01318,HoReCa,Coast,2024-02,True,14
+C01319,HoReCa,Rift Valley,2023-10,False,14
+C01320,Petrol Station,Coast,2022-07,False,0
+C01321,Duka,Rift Valley,2024-08,True,0
+C01322,Petrol Station,Western,2023-04,False,0
+C01323,Duka,Nyanza,2023-09,True,0
+C01324,HoReCa,Nairobi,2022-04,True,14
+C01325,Petrol Station,Coast,2022-10,True,0
+C01326,Supermarket,Nairobi,2025-03,True,30
+C01327,Duka,Western,2024-03,False,0
+C01328,Petrol Station,Rift Valley,2023-04,True,0
+C01329,Supermarket,Coast,2022-06,True,30
+C01330,Duka,Rift Valley,2023-06,False,0
+C01331,Petrol Station,Western,2022-12,False,0
+C01332,HoReCa,Central,2025-11,False,14
+C01333,Petrol Station,Central,2024-12,False,0
+C01334,Wholesaler,Western,2022-04,True,30
+C01335,Duka,Nairobi,2023-05,False,0
+C01336,Supermarket,Nairobi,2023-06,True,30
+C01337,Supermarket,Rift Valley,2023-07,True,30
+C01338,Supermarket,Nyanza,2025-05,True,30
+C01339,Duka,Rift Valley,2023-03,False,0
+C01340,Duka,Nairobi,2023-05,False,0
+C01341,Duka,Coast,2025-06,False,0
+C01342,Duka,Central,2022-02,False,0
+C01343,Duka,Nairobi,2024-06,False,0
+C01344,Duka,Western,2023-10,False,0
+C01345,Wholesaler,Western,2024-04,True,30
+C01346,Supermarket,Nairobi,2024-07,True,30
+C01347,Duka,Nyanza,2026-02,False,0
+C01348,Duka,Central,2023-01,True,0
+C01349,Duka,Nairobi,2022-09,False,0
+C01350,Duka,Western,2022-11,True,0
+C01351,Duka,Rift Valley,2024-11,False,0
+C01352,Duka,Western,2023-06,True,0
+C01353,Duka,Coast,2024-04,False,0
+C01354,Duka,Nairobi,2023-10,True,0
+C01355,Duka,Nairobi,2023-10,False,0
+C01356,HoReCa,Western,2022-02,False,14
+C01357,Duka,Western,2022-11,False,0
+C01358,Duka,Nairobi,2022-12,True,0
+C01359,HoReCa,Nairobi,2026-01,True,14
+C01360,HoReCa,Rift Valley,2023-09,True,14
+C01361,HoReCa,Coast,2022-09,False,14
+C01362,Supermarket,Nyanza,2024-04,True,30
+C01363,Duka,Coast,2024-01,False,0
+C01364,HoReCa,Central,2022-12,False,14
+C01365,Wholesaler,Nyanza,2024-06,True,30
+C01366,Petrol Station,Coast,2022-03,True,0
+C01367,Duka,Central,2026-01,True,0
+C01368,Duka,Coast,2024-09,False,0
+C01369,Petrol Station,Central,2022-06,False,0
+C01370,Duka,Central,2025-03,False,0
+C01371,Petrol Station,Nairobi,2022-03,False,0
+C01372,HoReCa,Nairobi,2024-11,True,14
+C01373,Duka,Rift Valley,2025-06,False,0
+C01374,Wholesaler,Nyanza,2023-04,False,30
+C01375,Duka,Nyanza,2023-07,True,0
+C01376,HoReCa,Coast,2023-05,False,14
+C01377,Wholesaler,Nairobi,2022-06,True,30
+C01378,HoReCa,Nyanza,2026-02,True,14
+C01379,Duka,Western,2022-12,False,0
+C01380,Duka,Coast,2023-04,False,0
+C01381,Duka,Nairobi,2025-12,True,0
+C01382,HoReCa,Central,2025-11,True,14
+C01383,Petrol Station,Nairobi,2022-08,False,0
+C01384,Duka,Nairobi,2023-06,False,0
+C01385,Duka,Rift Valley,2022-01,True,0
+C01386,Petrol Station,Western,2023-02,False,0
+C01387,Duka,Nyanza,2024-10,False,0
+C01388,Wholesaler,Coast,2024-10,True,30
+C01389,Petrol Station,Nairobi,2022-02,False,0
+C01390,Wholesaler,Nairobi,2023-09,True,30
+C01391,Duka,Rift Valley,2024-08,False,0
+C01392,Wholesaler,Coast,2025-09,True,30
+C01393,Duka,Coast,2026-01,False,0
+C01394,Duka,Nairobi,2024-09,False,0
+C01395,Petrol Station,Nairobi,2022-05,True,0
+C01396,HoReCa,Rift Valley,2023-04,True,14
+C01397,Duka,Nyanza,2024-01,False,0
+C01398,Wholesaler,Nyanza,2022-09,True,30
+C01399,Supermarket,Nairobi,2023-10,True,30
+C01400,HoReCa,Central,2026-02,False,14
+C01401,Wholesaler,Nairobi,2022-04,True,30
+C01402,HoReCa,Coast,2025-10,False,14
+C01403,HoReCa,Nairobi,2022-01,True,14
+C01404,Duka,Central,2022-01,True,0
+C01405,Duka,Coast,2024-04,False,0
+C01406,Duka,Western,2022-09,True,0
+C01407,Duka,Nairobi,2025-12,False,0
+C01408,Duka,Nairobi,2022-07,False,0
+C01409,Duka,Coast,2025-11,True,0
+C01410,Duka,Western,2022-09,True,0
+C01411,Duka,Coast,2023-02,False,0
+C01412,HoReCa,Nyanza,2023-06,False,14
+C01413,Duka,Nairobi,2023-12,True,0
+C01414,Duka,Central,2024-01,False,0
+C01415,Wholesaler,Rift Valley,2022-11,True,30
+C01416,Duka,Nairobi,2022-09,False,0
+C01417,Duka,Central,2025-05,False,0
+C01418,Duka,Coast,2022-03,False,0
+C01419,HoReCa,Western,2025-02,False,14
+C01420,Duka,Coast,2023-03,False,0
+C01421,Duka,Nairobi,2022-11,True,0
+C01422,Duka,Coast,2022-07,True,0
+C01423,HoReCa,Nairobi,2023-04,False,14
+C01424,HoReCa,Rift Valley,2022-03,False,14
+C01425,Supermarket,Western,2023-01,True,30
+C01426,Petrol Station,Nairobi,2022-09,False,0
+C01427,Wholesaler,Rift Valley,2024-08,True,30
+C01428,Petrol Station,Coast,2024-06,True,0
+C01429,HoReCa,Western,2024-08,True,14
+C01430,Petrol Station,Nairobi,2022-11,False,0
+C01431,Duka,Nairobi,2025-05,False,0
+C01432,Petrol Station,Nairobi,2022-02,False,0
+C01433,Wholesaler,Nyanza,2022-03,True,30
+C01434,Duka,Nairobi,2023-01,False,0
+C01435,Duka,Nairobi,2026-03,True,0
+C01436,Duka,Nairobi,2024-11,False,0
+C01437,Supermarket,Nairobi,2023-03,True,30
+C01438,Duka,Nairobi,2024-10,False,0
+C01439,Duka,Nairobi,2024-05,False,0
+C01440,Duka,Central,2024-06,False,0
+C01441,Duka,Nyanza,2023-09,True,0
+C01442,Duka,Nyanza,2024-12,False,0
+C01443,Duka,Rift Valley,2024-10,False,0
+C01444,Petrol Station,Nairobi,2025-10,False,0
+C01445,Wholesaler,Coast,2023-12,False,30
+C01446,Wholesaler,Rift Valley,2024-03,True,30
+C01447,Petrol Station,Nairobi,2025-10,False,0
+C01448,Supermarket,Western,2025-12,True,30
+C01449,Petrol Station,Coast,2025-10,False,0
+C01450,Wholesaler,Coast,2024-05,True,30
+C01451,Duka,Central,2024-11,False,0
+C01452,Wholesaler,Nairobi,2022-04,True,30
+C01453,Duka,Coast,2022-01,True,0
+C01454,Duka,Rift Valley,2025-11,False,0
+C01455,Duka,Coast,2024-11,True,0
+C01456,Petrol Station,Western,2023-01,False,0
+C01457,Duka,Western,2026-03,False,0
+C01458,HoReCa,Coast,2025-03,True,14
+C01459,Duka,Coast,2023-02,True,0
+C01460,Duka,Coast,2023-11,False,0
+C01461,Supermarket,Nairobi,2026-01,True,30
+C01462,Duka,Nyanza,2025-06,True,0
+C01463,HoReCa,Nairobi,2022-09,True,14
+C01464,Duka,Coast,2024-11,False,0
+C01465,HoReCa,Western,2022-02,False,14
+C01466,Duka,Rift Valley,2023-03,False,0
+C01467,Duka,Nairobi,2025-02,False,0
+C01468,Duka,Central,2022-01,False,0
+C01469,Petrol Station,Nairobi,2023-01,False,0
+C01470,Duka,Coast,2023-11,True,0
+C01471,Supermarket,Rift Valley,2025-10,False,30
+C01472,Duka,Nairobi,2023-06,False,0
+C01473,Duka,Central,2026-02,False,0
+C01474,Duka,Nairobi,2022-11,False,0
+C01475,Supermarket,Western,2023-04,True,30
+C01476,Duka,Western,2022-06,True,0
+C01477,Petrol Station,Nairobi,2024-01,False,0
+C01478,HoReCa,Central,2025-02,True,14
+C01479,HoReCa,Nairobi,2023-09,False,14
+C01480,Duka,Western,2022-04,True,0
+C01481,Duka,Central,2022-10,True,0
+C01482,Duka,Nairobi,2023-10,True,0
+C01483,HoReCa,Nairobi,2022-10,True,14
+C01484,Duka,Nyanza,2026-01,False,0
+C01485,Duka,Coast,2023-10,True,0
+C01486,Duka,Nairobi,2022-01,True,0
+C01487,Duka,Nyanza,2023-06,False,0
+C01488,Petrol Station,Rift Valley,2024-06,False,0
+C01489,Supermarket,Western,2025-10,True,30
+C01490,Duka,Nyanza,2024-10,False,0
+C01491,HoReCa,Nairobi,2024-10,False,14
+C01492,Supermarket,Nairobi,2023-05,True,30
+C01493,HoReCa,Nairobi,2023-09,True,14
+C01494,HoReCa,Nyanza,2024-11,True,14
+C01495,Duka,Nairobi,2023-07,True,0
+C01496,Supermarket,Nyanza,2023-03,True,30
+C01497,Duka,Rift Valley,2024-05,True,0
+C01498,Duka,Rift Valley,2022-05,True,0
+C01499,Duka,Nairobi,2022-05,False,0
+C01500,HoReCa,Western,2023-01,False,14
+C01501,Duka,Rift Valley,2022-07,False,0
+C01502,Supermarket,Western,2023-12,True,30
+C01503,Duka,Central,2023-10,False,0
+C01504,HoReCa,Rift Valley,2022-07,False,14
+C01505,HoReCa,Nairobi,2025-05,False,14
+C01506,Duka,Central,2025-08,True,0
+C01507,HoReCa,Nairobi,2024-04,True,14
+C01508,Duka,Coast,2023-05,False,0
+C01509,Wholesaler,Nyanza,2024-11,True,30
+C01510,Duka,Coast,2022-10,False,0
+C01511,Duka,Central,2022-07,False,0
+C01512,Petrol Station,Nairobi,2022-04,False,0
+C01513,HoReCa,Rift Valley,2022-04,True,14
+C01514,Duka,Rift Valley,2025-12,False,0
+C01515,Duka,Nairobi,2024-10,False,0
+C01516,Duka,Rift Valley,2023-02,True,0
+C01517,Duka,Nairobi,2022-10,False,0
+C01518,Duka,Coast,2025-04,True,0
+C01519,Duka,Nairobi,2025-01,False,0
+C01520,Duka,Coast,2023-02,True,0
+C01521,Duka,Rift Valley,2023-08,True,0
+C01522,Duka,Western,2024-03,True,0
+C01523,HoReCa,Rift Valley,2022-01,False,14
+C01524,Wholesaler,Nairobi,2023-11,True,30
+C01525,HoReCa,Western,2022-10,True,14
+C01526,Wholesaler,Rift Valley,2025-02,True,30
+C01527,Duka,Nairobi,2022-12,False,0
+C01528,Wholesaler,Western,2024-06,True,30
+C01529,Petrol Station,Coast,2024-12,False,0
+C01530,Petrol Station,Central,2024-09,False,0
+C01531,Duka,Nyanza,2025-03,False,0
+C01532,Petrol Station,Nairobi,2025-09,False,0
+C01533,HoReCa,Central,2023-05,False,14
+C01534,Duka,Coast,2023-04,False,0
+C01535,Supermarket,Central,2022-03,True,30
+C01536,Duka,Rift Valley,2023-12,False,0
+C01537,Duka,Nairobi,2025-07,True,0
+C01538,Supermarket,Coast,2025-07,False,30
+C01539,Wholesaler,Rift Valley,2022-03,True,30
+C01540,Duka,Nairobi,2025-12,False,0
+C01541,Duka,Rift Valley,2022-12,False,0
+C01542,Duka,Coast,2025-09,False,0
+C01543,Duka,Nairobi,2026-03,False,0
+C01544,HoReCa,Nairobi,2024-03,False,14
+C01545,Duka,Nairobi,2025-03,False,0
+C01546,Supermarket,Nairobi,2023-07,False,30
+C01547,HoReCa,Western,2025-12,False,14
+C01548,Petrol Station,Nyanza,2025-04,True,0
+C01549,Duka,Nairobi,2025-09,True,0
+C01550,Duka,Coast,2024-03,False,0
+C01551,Duka,Central,2023-07,False,0
+C01552,Duka,Coast,2026-03,False,0
+C01553,Duka,Coast,2022-07,False,0
+C01554,HoReCa,Central,2026-01,True,14
+C01555,Duka,Rift Valley,2023-06,True,0
+C01556,Duka,Nairobi,2024-08,False,0
+C01557,Duka,Coast,2025-07,False,0
+C01558,Duka,Coast,2026-02,False,0
+C01559,HoReCa,Nairobi,2024-03,True,14
+C01560,Duka,Nyanza,2025-07,False,0
+C01561,Duka,Nairobi,2022-02,True,0
+C01562,Wholesaler,Western,2026-01,True,30
+C01563,Duka,Western,2022-07,False,0
+C01564,HoReCa,Nairobi,2023-02,False,14
+C01565,Duka,Rift Valley,2024-02,False,0
+C01566,Wholesaler,Nyanza,2022-02,True,30
+C01567,Duka,Coast,2022-06,False,0
+C01568,Duka,Nyanza,2024-05,False,0
+C01569,Wholesaler,Coast,2025-10,True,30
+C01570,Duka,Nairobi,2023-08,True,0
+C01571,HoReCa,Central,2022-07,True,14
+C01572,Petrol Station,Nyanza,2023-05,True,0
+C01573,Duka,Nyanza,2023-11,True,0
+C01574,Supermarket,Central,2022-07,False,30
+C01575,HoReCa,Central,2025-03,True,14
+C01576,Duka,Nairobi,2023-05,False,0
+C01577,Supermarket,Western,2024-05,False,30
+C01578,Duka,Nairobi,2022-08,True,0
+C01579,Duka,Rift Valley,2022-11,True,0
+C01580,Duka,Western,2022-02,False,0
+C01581,Wholesaler,Rift Valley,2022-11,False,30
+C01582,Wholesaler,Central,2022-07,True,30
+C01583,Wholesaler,Nairobi,2023-10,True,30
+C01584,HoReCa,Nyanza,2026-01,True,14
+C01585,Petrol Station,Western,2022-06,True,0
+C01586,Duka,Central,2022-11,False,0
+C01587,Wholesaler,Central,2022-03,True,30
+C01588,Duka,Western,2024-10,False,0
+C01589,Duka,Nairobi,2025-04,False,0
+C01590,HoReCa,Nairobi,2024-09,False,14
+C01591,Supermarket,Nairobi,2025-03,True,30
+C01592,Duka,Nyanza,2023-04,False,0
+C01593,Duka,Nyanza,2023-08,False,0
+C01594,HoReCa,Central,2024-02,False,14
+C01595,HoReCa,Nairobi,2022-06,False,14
+C01596,Wholesaler,Nyanza,2024-05,False,30
+C01597,HoReCa,Western,2022-09,False,14
+C01598,Duka,Western,2025-09,True,0
+C01599,Duka,Western,2025-11,False,0
+C01600,Duka,Western,2025-06,True,0
+C01601,HoReCa,Nairobi,2024-09,True,14
+C01602,Duka,Central,2025-02,True,0
+C01603,Duka,Central,2023-07,False,0
+C01604,Petrol Station,Coast,2022-10,False,0
+C01605,Duka,Nairobi,2024-03,False,0
+C01606,HoReCa,Rift Valley,2024-09,False,14
+C01607,Duka,Nairobi,2023-12,True,0
+C01608,HoReCa,Central,2022-10,False,14
+C01609,Duka,Central,2022-06,True,0
+C01610,HoReCa,Rift Valley,2023-10,False,14
+C01611,Petrol Station,Coast,2024-07,True,0
+C01612,HoReCa,Nairobi,2024-02,True,14
+C01613,Duka,Rift Valley,2022-05,True,0
+C01614,Petrol Station,Coast,2022-09,False,0
+C01615,HoReCa,Western,2024-07,False,14
+C01616,Wholesaler,Central,2023-09,False,30
+C01617,Duka,Western,2025-06,False,0
+C01618,HoReCa,Western,2022-04,False,14
+C01619,Petrol Station,Central,2024-10,True,0
+C01620,Wholesaler,Nairobi,2024-06,True,30
+C01621,Duka,Rift Valley,2023-01,False,0
+C01622,Petrol Station,Western,2022-08,False,0
+C01623,Duka,Central,2025-02,False,0
+C01624,Duka,Coast,2022-09,False,0
+C01625,Petrol Station,Rift Valley,2023-09,True,0
+C01626,Wholesaler,Central,2025-03,True,30
+C01627,Duka,Rift Valley,2023-05,False,0
+C01628,Supermarket,Rift Valley,2024-04,False,30
+C01629,Petrol Station,Nairobi,2023-05,True,0
+C01630,Petrol Station,Coast,2023-01,False,0
+C01631,Duka,Nairobi,2022-06,True,0
+C01632,Duka,Rift Valley,2022-12,True,0
+C01633,Duka,Coast,2024-10,False,0
+C01634,Duka,Nairobi,2025-02,False,0
+C01635,Duka,Nairobi,2025-06,False,0
+C01636,Duka,Coast,2022-12,True,0
+C01637,HoReCa,Nairobi,2023-01,False,14
+C01638,Supermarket,Rift Valley,2025-01,True,30
+C01639,Duka,Coast,2023-04,True,0
+C01640,HoReCa,Nairobi,2024-10,True,14
+C01641,Duka,Nairobi,2025-07,False,0
+C01642,Duka,Nairobi,2022-07,False,0
+C01643,Wholesaler,Nairobi,2023-06,True,30
+C01644,Duka,Nairobi,2026-01,True,0
+C01645,Duka,Rift Valley,2023-12,True,0
+C01646,HoReCa,Central,2023-12,False,14
+C01647,Duka,Coast,2025-05,False,0
+C01648,Wholesaler,Coast,2022-03,True,30
+C01649,Duka,Nairobi,2023-05,False,0
+C01650,Petrol Station,Central,2022-10,False,0
+C01651,Duka,Nairobi,2022-04,False,0
+C01652,Petrol Station,Central,2023-08,True,0
+C01653,Wholesaler,Central,2025-10,True,30
+C01654,Petrol Station,Rift Valley,2022-10,True,0
+C01655,Duka,Nairobi,2024-11,True,0
+C01656,Duka,Coast,2025-09,False,0
+C01657,Duka,Rift Valley,2026-02,False,0
+C01658,Petrol Station,Nairobi,2024-12,True,0
+C01659,Duka,Central,2022-09,True,0
+C01660,Duka,Nyanza,2025-12,False,0
+C01661,Supermarket,Central,2023-06,True,30
+C01662,Petrol Station,Rift Valley,2025-05,False,0
+C01663,Supermarket,Nyanza,2025-04,True,30
+C01664,Duka,Nairobi,2026-03,False,0
+C01665,Duka,Coast,2026-01,False,0
+C01666,Wholesaler,Coast,2022-03,True,30
+C01667,Duka,Nairobi,2023-04,False,0
+C01668,Duka,Nairobi,2024-05,True,0
+C01669,Duka,Rift Valley,2023-02,False,0
+C01670,Duka,Coast,2022-11,False,0
+C01671,Duka,Nairobi,2024-12,False,0
+C01672,Wholesaler,Central,2023-06,True,30
+C01673,HoReCa,Coast,2026-02,False,14
+C01674,Duka,Coast,2024-07,True,0
+C01675,HoReCa,Western,2025-12,False,14
+C01676,Duka,Central,2024-12,False,0
+C01677,Duka,Nairobi,2026-03,False,0
+C01678,Supermarket,Coast,2023-07,True,30
+C01679,Duka,Rift Valley,2026-03,False,0
+C01680,Duka,Coast,2024-02,False,0
+C01681,HoReCa,Nyanza,2023-03,False,14
+C01682,Duka,Central,2023-11,False,0
+C01683,Petrol Station,Nairobi,2022-01,True,0
+C01684,Duka,Central,2024-04,True,0
+C01685,Duka,Nyanza,2023-02,True,0
+C01686,Supermarket,Coast,2024-03,True,30
+C01687,HoReCa,Central,2025-06,True,14
+C01688,HoReCa,Nyanza,2024-05,False,14
+C01689,Duka,Nairobi,2023-03,False,0
+C01690,Duka,Coast,2022-01,False,0
+C01691,Duka,Nairobi,2024-11,False,0
+C01692,Duka,Central,2023-05,False,0
+C01693,Duka,Western,2025-09,False,0
+C01694,Duka,Nyanza,2024-04,False,0
+C01695,HoReCa,Nairobi,2023-06,False,14
+C01696,Duka,Rift Valley,2022-05,False,0
+C01697,Petrol Station,Rift Valley,2022-09,False,0
+C01698,Supermarket,Nyanza,2024-05,True,30
+C01699,Duka,Rift Valley,2024-04,False,0
+C01700,HoReCa,Nairobi,2022-12,False,14
+C01701,Duka,Nairobi,2023-08,False,0
+C01702,Duka,Central,2023-10,False,0
+C01703,Duka,Nairobi,2023-11,False,0
+C01704,Duka,Nyanza,2024-05,True,0
+C01705,Petrol Station,Rift Valley,2022-10,False,0
+C01706,Duka,Rift Valley,2024-08,True,0
+C01707,Wholesaler,Nairobi,2024-11,True,30
+C01708,Duka,Nyanza,2023-06,False,0
+C01709,Supermarket,Nyanza,2024-01,False,30
+C01710,HoReCa,Nairobi,2022-07,False,14
+C01711,Duka,Coast,2022-09,False,0
+C01712,Duka,Central,2022-06,False,0
+C01713,Supermarket,Nairobi,2024-04,True,30
+C01714,Duka,Nairobi,2025-10,True,0
+C01715,Supermarket,Western,2023-12,True,30
+C01716,Petrol Station,Nairobi,2022-10,False,0
+C01717,HoReCa,Western,2022-01,False,14
+C01718,Supermarket,Western,2022-08,True,30
+C01719,Duka,Nairobi,2024-11,False,0
+C01720,Duka,Nyanza,2024-06,False,0
+C01721,HoReCa,Nyanza,2024-02,True,14
+C01722,HoReCa,Central,2023-08,True,14
+C01723,HoReCa,Western,2023-10,False,14
+C01724,Duka,Rift Valley,2022-09,False,0
+C01725,Duka,Rift Valley,2025-07,False,0
+C01726,Supermarket,Nairobi,2023-01,True,30
+C01727,Supermarket,Rift Valley,2023-06,True,30
+C01728,Duka,Nairobi,2022-12,False,0
+C01729,Duka,Nyanza,2022-02,True,0
+C01730,Wholesaler,Nairobi,2025-01,True,30
+C01731,Duka,Rift Valley,2023-02,False,0
+C01732,Duka,Nyanza,2025-06,False,0
+C01733,Duka,Coast,2022-12,False,0
+C01734,HoReCa,Rift Valley,2024-09,True,14
+C01735,Duka,Central,2024-06,False,0
+C01736,Wholesaler,Rift Valley,2023-09,True,30
+C01737,Duka,Coast,2023-05,True,0
+C01738,Duka,Nyanza,2022-08,False,0
+C01739,Duka,Rift Valley,2026-03,False,0
+C01740,Duka,Coast,2023-03,False,0
+C01741,Petrol Station,Nairobi,2023-11,False,0
+C01742,HoReCa,Nairobi,2022-08,False,14
+C01743,Wholesaler,Coast,2024-10,True,30
+C01744,HoReCa,Nyanza,2024-12,False,14
+C01745,Duka,Rift Valley,2022-02,True,0
+C01746,HoReCa,Nairobi,2025-07,True,14
+C01747,HoReCa,Western,2025-11,False,14
+C01748,Wholesaler,Western,2024-03,True,30
+C01749,Petrol Station,Nairobi,2025-10,False,0
+C01750,Duka,Nairobi,2024-03,True,0
+C01751,Duka,Nairobi,2022-05,False,0
+C01752,Petrol Station,Coast,2024-08,False,0
+C01753,Duka,Nairobi,2023-04,False,0
+C01754,Petrol Station,Nairobi,2025-09,False,0
+C01755,Duka,Nairobi,2025-02,False,0
+C01756,Duka,Central,2025-10,True,0
+C01757,HoReCa,Central,2023-12,False,14
+C01758,Duka,Central,2024-05,False,0
+C01759,Duka,Rift Valley,2025-05,False,0
+C01760,Duka,Central,2024-11,False,0
+C01761,Duka,Rift Valley,2022-11,True,0
+C01762,Petrol Station,Rift Valley,2024-03,True,0
+C01763,HoReCa,Central,2023-10,False,14
+C01764,Duka,Nairobi,2023-05,False,0
+C01765,Duka,Nairobi,2026-01,False,0
+C01766,HoReCa,Nairobi,2023-04,True,14
+C01767,Duka,Coast,2024-02,True,0
+C01768,Duka,Coast,2023-04,False,0
+C01769,Duka,Nairobi,2023-11,False,0
+C01770,Petrol Station,Coast,2025-05,False,0
+C01771,Supermarket,Nairobi,2025-08,True,30
+C01772,Duka,Nairobi,2023-10,True,0
+C01773,Duka,Nairobi,2023-03,True,0
+C01774,Duka,Nairobi,2024-10,False,0
+C01775,Supermarket,Nairobi,2023-12,False,30
+C01776,Duka,Nairobi,2023-03,True,0
+C01777,Wholesaler,Coast,2024-09,True,30
+C01778,Petrol Station,Coast,2025-11,False,0
+C01779,Wholesaler,Nyanza,2022-01,False,30
+C01780,Duka,Western,2024-06,True,0
+C01781,Duka,Central,2023-05,True,0
+C01782,Duka,Nairobi,2024-08,True,0
+C01783,Supermarket,Central,2024-06,True,30
+C01784,Duka,Rift Valley,2023-01,False,0
+C01785,Duka,Rift Valley,2025-12,False,0
+C01786,HoReCa,Rift Valley,2023-05,False,14
+C01787,Supermarket,Central,2023-02,True,30
+C01788,HoReCa,Nairobi,2025-03,False,14
+C01789,Duka,Rift Valley,2025-05,False,0
+C01790,Duka,Western,2022-03,False,0
+C01791,Wholesaler,Coast,2024-04,True,30
+C01792,Duka,Nyanza,2024-04,False,0
+C01793,Duka,Rift Valley,2023-09,False,0
+C01794,HoReCa,Rift Valley,2022-07,False,14
+C01795,Petrol Station,Nairobi,2025-10,True,0
+C01796,HoReCa,Rift Valley,2023-09,False,14
+C01797,Petrol Station,Nairobi,2023-02,False,0
+C01798,Supermarket,Central,2022-07,True,30
+C01799,Duka,Nairobi,2024-04,True,0
+C01800,HoReCa,Coast,2023-02,False,14
+C01801,HoReCa,Western,2022-06,False,14
+C01802,Duka,Nairobi,2025-09,True,0
+C01803,Petrol Station,Nyanza,2023-02,True,0
+C01804,Petrol Station,Central,2024-03,False,0
+C01805,Duka,Central,2022-07,True,0
+C01806,Duka,Rift Valley,2022-04,False,0
+C01807,Duka,Nairobi,2024-07,True,0
+C01808,Supermarket,Nairobi,2023-07,True,30
+C01809,Duka,Rift Valley,2025-05,False,0
+C01810,Duka,Nyanza,2022-08,False,0
+C01811,Petrol Station,Nairobi,2023-09,False,0
+C01812,Wholesaler,Central,2022-05,True,30
+C01813,Petrol Station,Nairobi,2025-10,False,0
+C01814,Wholesaler,Coast,2026-03,True,30
+C01815,Duka,Nairobi,2024-11,True,0
+C01816,HoReCa,Western,2026-02,False,14
+C01817,Duka,Central,2022-06,False,0
+C01818,Petrol Station,Nairobi,2023-06,True,0
+C01819,Duka,Coast,2023-08,False,0
+C01820,Duka,Nairobi,2026-03,True,0
+C01821,Wholesaler,Nairobi,2025-11,True,30
+C01822,Duka,Central,2023-05,True,0
+C01823,Duka,Nairobi,2025-07,False,0
+C01824,Duka,Western,2022-05,True,0
+C01825,Duka,Coast,2025-05,False,0
+C01826,Supermarket,Nairobi,2022-07,True,30
+C01827,Supermarket,Nyanza,2023-07,True,30
+C01828,Duka,Rift Valley,2022-05,False,0
+C01829,Duka,Nairobi,2022-07,True,0
+C01830,Duka,Central,2023-09,False,0
+C01831,Duka,Rift Valley,2026-01,True,0
+C01832,HoReCa,Nairobi,2023-09,False,14
+C01833,Supermarket,Nairobi,2024-09,True,30
+C01834,Duka,Rift Valley,2023-02,False,0
+C01835,Duka,Nyanza,2022-06,True,0
+C01836,Supermarket,Central,2025-06,True,30
+C01837,Duka,Nairobi,2023-07,False,0
+C01838,Duka,Rift Valley,2022-05,True,0
+C01839,Supermarket,Coast,2024-05,True,30
+C01840,Duka,Coast,2026-01,True,0
+C01841,Duka,Nyanza,2025-01,False,0
+C01842,Duka,Nairobi,2023-03,False,0
+C01843,Wholesaler,Rift Valley,2023-11,True,30
+C01844,Duka,Rift Valley,2026-03,False,0
+C01845,HoReCa,Nairobi,2022-06,True,14
+C01846,HoReCa,Nairobi,2024-11,False,14
+C01847,Duka,Rift Valley,2023-12,False,0
+C01848,Duka,Nairobi,2022-10,True,0
+C01849,HoReCa,Coast,2023-09,True,14
+C01850,Wholesaler,Central,2022-06,True,30
+C01851,HoReCa,Nairobi,2023-01,True,14
+C01852,Duka,Central,2025-07,True,0
+C01853,Supermarket,Western,2022-08,True,30
+C01854,Duka,Nairobi,2023-01,False,0
+C01855,Duka,Nairobi,2022-01,False,0
+C01856,Wholesaler,Central,2025-11,False,30
+C01857,Supermarket,Nairobi,2025-11,True,30
+C01858,HoReCa,Nairobi,2023-03,False,14
+C01859,Duka,Coast,2025-04,True,0
+C01860,Duka,Western,2022-08,False,0
+C01861,Duka,Nyanza,2024-02,False,0
+C01862,Supermarket,Western,2026-02,True,30
+C01863,Duka,Nairobi,2024-03,False,0
+C01864,Duka,Rift Valley,2022-03,False,0
+C01865,Petrol Station,Rift Valley,2022-09,True,0
+C01866,HoReCa,Nairobi,2022-12,False,14
+C01867,HoReCa,Central,2025-10,True,14
+C01868,Supermarket,Central,2025-07,True,30
+C01869,Duka,Coast,2023-11,True,0
+C01870,HoReCa,Nyanza,2025-03,True,14
+C01871,Petrol Station,Nairobi,2022-12,False,0
+C01872,HoReCa,Nairobi,2023-08,True,14
+C01873,Duka,Rift Valley,2025-02,False,0
+C01874,HoReCa,Nairobi,2025-10,False,14
+C01875,Duka,Coast,2025-12,True,0
+C01876,Duka,Coast,2022-08,False,0
+C01877,Duka,Central,2025-02,False,0
+C01878,Petrol Station,Nairobi,2025-07,True,0
+C01879,Supermarket,Western,2024-10,True,30
+C01880,HoReCa,Nyanza,2024-11,True,14
+C01881,Duka,Rift Valley,2022-01,False,0
+C01882,Duka,Nyanza,2024-10,False,0
+C01883,Wholesaler,Western,2023-04,True,30
+C01884,Duka,Nairobi,2023-02,True,0
+C01885,Duka,Rift Valley,2023-05,False,0
+C01886,Wholesaler,Central,2025-06,True,30
+C01887,Wholesaler,Coast,2026-02,True,30
+C01888,Duka,Western,2023-10,True,0
+C01889,Duka,Nairobi,2024-05,False,0
+C01890,HoReCa,Central,2022-02,True,14
+C01891,Wholesaler,Central,2022-05,True,30
+C01892,Duka,Coast,2023-10,False,0
+C01893,HoReCa,Western,2025-02,False,14
+C01894,Duka,Nyanza,2022-02,True,0
+C01895,HoReCa,Nairobi,2022-10,False,14
+C01896,HoReCa,Rift Valley,2022-02,False,14
+C01897,Duka,Western,2022-01,True,0
+C01898,Supermarket,Nairobi,2024-12,True,30
+C01899,HoReCa,Coast,2026-02,True,14
+C01900,Petrol Station,Nairobi,2024-08,True,0
+C01901,Wholesaler,Nyanza,2024-04,True,30
+C01902,Wholesaler,Nyanza,2024-10,True,30
+C01903,Petrol Station,Coast,2024-11,False,0
+C01904,Duka,Nyanza,2025-09,False,0
+C01905,Wholesaler,Western,2023-09,True,30
+C01906,HoReCa,Rift Valley,2025-06,False,14
+C01907,Duka,Nairobi,2023-01,True,0
+C01908,Supermarket,Nairobi,2022-08,True,30
+C01909,Duka,Central,2023-06,False,0
+C01910,Duka,Central,2023-10,True,0
+C01911,Duka,Central,2024-05,False,0
+C01912,Duka,Central,2026-02,True,0
+C01913,HoReCa,Central,2022-08,False,14
+C01914,Petrol Station,Nairobi,2025-01,False,0
+C01915,Duka,Western,2022-08,True,0
+C01916,Petrol Station,Nairobi,2023-02,False,0
+C01917,Duka,Central,2023-12,False,0
+C01918,Duka,Nyanza,2022-02,True,0
+C01919,Duka,Nairobi,2022-03,False,0
+C01920,Duka,Nyanza,2025-01,False,0
+C01921,HoReCa,Coast,2025-09,False,14
+C01922,Supermarket,Rift Valley,2023-09,True,30
+C01923,Duka,Rift Valley,2022-01,False,0
+C01924,Duka,Nairobi,2022-01,False,0
+C01925,HoReCa,Nairobi,2022-09,False,14
+C01926,Supermarket,Rift Valley,2025-05,True,30
+C01927,Wholesaler,Nairobi,2023-12,True,30
+C01928,Duka,Coast,2024-06,False,0
+C01929,Supermarket,Nairobi,2022-04,True,30
+C01930,Duka,Nyanza,2024-12,True,0
+C01931,Duka,Nairobi,2024-01,False,0
+C01932,Duka,Coast,2023-10,False,0
+C01933,Supermarket,Nairobi,2023-10,True,30
+C01934,Supermarket,Central,2023-05,True,30
+C01935,Duka,Nairobi,2022-03,True,0
+C01936,Duka,Central,2025-09,False,0
+C01937,Duka,Nyanza,2025-05,True,0
+C01938,Duka,Nairobi,2022-12,True,0
+C01939,HoReCa,Nairobi,2023-07,False,14
+C01940,Wholesaler,Rift Valley,2023-01,True,30
+C01941,Duka,Nyanza,2024-03,False,0
+C01942,Duka,Western,2024-12,True,0
+C01943,Duka,Western,2022-10,False,0
+C01944,HoReCa,Nyanza,2022-01,True,14
+C01945,Duka,Nyanza,2023-07,False,0
+C01946,Wholesaler,Rift Valley,2024-07,True,30
+C01947,Duka,Rift Valley,2022-12,False,0
+C01948,Duka,Western,2024-01,False,0
+C01949,HoReCa,Rift Valley,2023-06,False,14
+C01950,Wholesaler,Central,2025-09,True,30
+C01951,Duka,Central,2025-09,False,0
+C01952,Petrol Station,Nairobi,2025-09,True,0
+C01953,HoReCa,Coast,2025-10,True,14
+C01954,Supermarket,Rift Valley,2023-11,True,30
+C01955,Duka,Nairobi,2025-05,False,0
+C01956,Duka,Coast,2022-02,False,0
+C01957,Duka,Western,2025-08,True,0
+C01958,Wholesaler,Coast,2025-04,True,30
+C01959,Duka,Nairobi,2022-08,False,0
+C01960,HoReCa,Central,2024-01,False,14
+C01961,Petrol Station,Nairobi,2025-09,False,0
+C01962,HoReCa,Central,2022-02,False,14
+C01963,Duka,Nairobi,2024-01,True,0
+C01964,Duka,Nairobi,2022-06,False,0
+C01965,Duka,Rift Valley,2023-10,True,0
+C01966,Supermarket,Nairobi,2023-12,True,30
+C01967,Duka,Central,2026-01,True,0
+C01968,Duka,Central,2022-04,True,0
+C01969,Duka,Coast,2022-05,True,0
+C01970,Wholesaler,Rift Valley,2025-05,True,30
+C01971,Wholesaler,Nairobi,2024-12,True,30
+C01972,Supermarket,Nairobi,2024-04,True,30
+C01973,Duka,Nyanza,2023-12,False,0
+C01974,HoReCa,Nyanza,2023-01,True,14
+C01975,Petrol Station,Rift Valley,2022-11,False,0
+C01976,Petrol Station,Western,2022-06,True,0
+C01977,Petrol Station,Rift Valley,2024-08,False,0
+C01978,HoReCa,Coast,2026-02,False,14
+C01979,HoReCa,Coast,2024-10,True,14
+C01980,Duka,Coast,2026-01,False,0
+C01981,Petrol Station,Rift Valley,2022-07,False,0
+C01982,Duka,Nairobi,2022-03,False,0
+C01983,Duka,Rift Valley,2025-08,False,0
+C01984,Petrol Station,Western,2025-02,True,0
+C01985,Petrol Station,Central,2023-08,False,0
+C01986,Duka,Western,2024-10,False,0
+C01987,Petrol Station,Nairobi,2025-11,True,0
+C01988,Duka,Central,2023-03,True,0
+C01989,Duka,Nairobi,2024-06,False,0
+C01990,Duka,Rift Valley,2023-10,True,0
+C01991,Wholesaler,Nairobi,2025-01,True,30
+C01992,Duka,Nairobi,2023-01,False,0
+C01993,Supermarket,Nyanza,2025-08,True,30
+C01994,Duka,Nyanza,2022-10,False,0
+C01995,Duka,Nyanza,2023-09,False,0
+C01996,HoReCa,Rift Valley,2022-08,False,14
+C01997,Wholesaler,Nairobi,2025-08,True,30
+C01998,Duka,Nairobi,2024-07,False,0
+C01999,Duka,Nairobi,2024-05,False,0
+C02000,HoReCa,Coast,2024-05,False,14
+C02001,Wholesaler,Central,2026-02,False,30
+C02002,Petrol Station,Western,2025-01,True,0
+C02003,Duka,Rift Valley,2024-07,False,0
+C02004,Petrol Station,Nyanza,2024-08,False,0
+C02005,Petrol Station,Rift Valley,2022-07,True,0
+C02006,Petrol Station,Western,2025-10,False,0
+C02007,Duka,Rift Valley,2024-08,True,0
+C02008,HoReCa,Nairobi,2024-06,False,14
+C02009,Supermarket,Rift Valley,2022-09,True,30
+C02010,HoReCa,Rift Valley,2025-06,False,14
+C02011,Duka,Coast,2022-12,False,0
+C02012,HoReCa,Western,2025-09,True,14
+C02013,Duka,Rift Valley,2022-02,True,0
+C02014,Duka,Rift Valley,2025-11,True,0
+C02015,Duka,Rift Valley,2025-10,False,0
+C02016,Duka,Nyanza,2025-07,False,0
+C02017,Duka,Western,2025-05,False,0
+C02018,HoReCa,Rift Valley,2022-06,False,14
+C02019,HoReCa,Central,2025-12,True,14
+C02020,HoReCa,Western,2022-06,False,14
+C02021,Petrol Station,Rift Valley,2023-12,True,0
+C02022,Duka,Nairobi,2023-12,True,0
+C02023,HoReCa,Central,2025-12,False,14
+C02024,Duka,Nairobi,2023-05,False,0
+C02025,Wholesaler,Nairobi,2025-08,True,30
+C02026,Duka,Coast,2023-05,True,0
+C02027,Duka,Nyanza,2023-12,False,0
+C02028,HoReCa,Nairobi,2023-12,False,14
+C02029,HoReCa,Nairobi,2023-03,True,14
+C02030,Duka,Nairobi,2023-06,False,0
+C02031,HoReCa,Nairobi,2024-09,True,14
+C02032,Duka,Nyanza,2024-07,False,0
+C02033,Supermarket,Nairobi,2025-04,False,30
+C02034,HoReCa,Nairobi,2024-12,True,14
+C02035,Duka,Western,2024-03,False,0
+C02036,Duka,Nyanza,2023-02,False,0
+C02037,Duka,Nyanza,2023-04,True,0
+C02038,Wholesaler,Coast,2024-06,True,30
+C02039,Duka,Rift Valley,2026-02,False,0
+C02040,Wholesaler,Western,2024-07,True,30
+C02041,HoReCa,Coast,2023-03,True,14
+C02042,Duka,Coast,2023-04,False,0
+C02043,Duka,Nairobi,2024-11,False,0
+C02044,Duka,Western,2023-03,False,0
+C02045,Supermarket,Western,2023-05,True,30
+C02046,Supermarket,Nyanza,2022-08,False,30
+C02047,Wholesaler,Nairobi,2025-03,True,30
+C02048,Supermarket,Western,2025-09,True,30
+C02049,HoReCa,Coast,2024-02,False,14
+C02050,HoReCa,Nairobi,2024-03,False,14
+C02051,Duka,Nairobi,2025-06,False,0
+C02052,Supermarket,Central,2025-04,True,30
+C02053,Wholesaler,Nyanza,2026-01,True,30
+C02054,Duka,Coast,2025-09,False,0
+C02055,Duka,Central,2024-08,False,0
+C02056,Duka,Coast,2023-10,False,0
+C02057,HoReCa,Nyanza,2023-03,False,14
+C02058,Duka,Nairobi,2024-12,True,0
+C02059,Supermarket,Coast,2025-09,False,30
+C02060,Petrol Station,Nairobi,2025-04,False,0
+C02061,HoReCa,Nairobi,2023-11,False,14
+C02062,Duka,Rift Valley,2023-03,False,0
+C02063,HoReCa,Nairobi,2024-09,True,14
+C02064,Wholesaler,Central,2025-05,True,30
+C02065,HoReCa,Nyanza,2022-04,True,14
+C02066,Duka,Nairobi,2023-12,False,0
+C02067,Petrol Station,Western,2024-05,False,0
+C02068,Wholesaler,Coast,2024-07,True,30
+C02069,Duka,Coast,2023-01,True,0
+C02070,Duka,Nyanza,2022-10,True,0
+C02071,Duka,Western,2025-06,False,0
+C02072,Duka,Nyanza,2025-11,False,0
+C02073,Duka,Nairobi,2024-12,False,0
+C02074,Duka,Rift Valley,2025-07,True,0
+C02075,HoReCa,Coast,2024-09,False,14
+C02076,Wholesaler,Coast,2025-01,True,30
+C02077,Duka,Rift Valley,2024-02,False,0
+C02078,Supermarket,Rift Valley,2023-04,True,30
+C02079,Petrol Station,Rift Valley,2024-10,False,0
+C02080,Duka,Central,2024-07,False,0
+C02081,Duka,Nairobi,2023-05,False,0
+C02082,Duka,Nairobi,2025-12,False,0
+C02083,Duka,Central,2023-04,False,0
+C02084,Duka,Nairobi,2023-05,False,0
+C02085,Supermarket,Nairobi,2024-02,True,30
+C02086,Supermarket,Nairobi,2023-08,True,30
+C02087,Supermarket,Central,2023-04,True,30
+C02088,HoReCa,Rift Valley,2022-07,False,14
+C02089,Duka,Rift Valley,2023-09,False,0
+C02090,Supermarket,Nairobi,2022-07,True,30
+C02091,Petrol Station,Nyanza,2022-03,False,0
+C02092,Wholesaler,Western,2024-07,True,30
+C02093,HoReCa,Rift Valley,2022-06,False,14
+C02094,Supermarket,Nairobi,2025-06,True,30
+C02095,Duka,Western,2023-03,False,0
+C02096,Petrol Station,Western,2023-05,False,0
+C02097,Duka,Central,2022-05,False,0
+C02098,Duka,Western,2022-02,True,0
+C02099,Supermarket,Nairobi,2022-06,True,30
+C02100,Duka,Rift Valley,2023-09,False,0
+C02101,Duka,Central,2023-11,False,0
+C02102,Supermarket,Rift Valley,2023-09,True,30
+C02103,Duka,Rift Valley,2022-09,False,0
+C02104,Petrol Station,Central,2022-11,False,0
+C02105,Duka,Nairobi,2024-10,False,0
+C02106,Supermarket,Central,2026-01,True,30
+C02107,Wholesaler,Western,2025-07,True,30
+C02108,Duka,Rift Valley,2022-01,False,0
+C02109,Petrol Station,Rift Valley,2023-11,False,0
+C02110,HoReCa,Central,2024-03,False,14
+C02111,Wholesaler,Coast,2025-11,True,30
+C02112,Supermarket,Nairobi,2023-04,True,30
+C02113,HoReCa,Western,2025-11,False,14
+C02114,Duka,Central,2023-12,True,0
+C02115,HoReCa,Nairobi,2024-06,True,14
+C02116,Duka,Central,2023-03,False,0
+C02117,Duka,Rift Valley,2022-08,False,0
+C02118,Duka,Coast,2022-05,False,0
+C02119,Duka,Nyanza,2024-09,False,0
+C02120,Petrol Station,Nyanza,2022-10,False,0
+C02121,Duka,Coast,2025-11,False,0
+C02122,Duka,Rift Valley,2022-12,True,0
+C02123,HoReCa,Nairobi,2024-12,False,14
+C02124,HoReCa,Nairobi,2024-09,False,14
+C02125,Duka,Nyanza,2024-11,True,0
+C02126,HoReCa,Central,2024-10,False,14
+C02127,Duka,Nyanza,2024-10,True,0
+C02128,HoReCa,Central,2023-12,False,14
+C02129,Duka,Nairobi,2024-12,False,0
+C02130,Duka,Central,2022-10,True,0
+C02131,Petrol Station,Nairobi,2024-07,False,0
+C02132,Petrol Station,Nairobi,2023-09,False,0
+C02133,Wholesaler,Central,2025-09,False,30
+C02134,Duka,Coast,2022-09,True,0
+C02135,HoReCa,Coast,2022-07,False,14
+C02136,Duka,Western,2024-09,False,0
+C02137,Supermarket,Western,2022-06,True,30
+C02138,Duka,Rift Valley,2025-10,False,0
+C02139,Supermarket,Western,2025-09,True,30
+C02140,Duka,Central,2023-01,False,0
+C02141,Duka,Nyanza,2023-01,True,0
+C02142,Duka,Nyanza,2022-05,False,0
+C02143,HoReCa,Nyanza,2022-12,False,14
+C02144,Wholesaler,Central,2025-06,True,30
+C02145,HoReCa,Central,2023-04,False,14
+C02146,Petrol Station,Nyanza,2024-12,False,0
+C02147,Duka,Coast,2022-08,False,0
+C02148,Petrol Station,Coast,2022-08,True,0
+C02149,HoReCa,Rift Valley,2026-02,True,14
+C02150,Duka,Nairobi,2023-05,True,0
+C02151,Supermarket,Rift Valley,2022-01,True,30
+C02152,Duka,Nairobi,2023-12,False,0
+C02153,Duka,Nyanza,2024-01,True,0
+C02154,Duka,Coast,2024-03,True,0
+C02155,Supermarket,Rift Valley,2023-03,True,30
+C02156,Duka,Western,2022-04,False,0
+C02157,Petrol Station,Nairobi,2022-04,True,0
+C02158,Petrol Station,Nairobi,2024-04,False,0
+C02159,Duka,Coast,2024-04,True,0
+C02160,HoReCa,Nyanza,2022-04,False,14
+C02161,Supermarket,Nyanza,2023-02,True,30
+C02162,Duka,Nairobi,2024-06,False,0
+C02163,Supermarket,Nairobi,2024-02,True,30
+C02164,Duka,Western,2022-01,True,0
+C02165,Wholesaler,Western,2022-06,True,30
+C02166,HoReCa,Central,2023-01,False,14
+C02167,Duka,Central,2022-01,True,0
+C02168,Duka,Rift Valley,2023-12,True,0
+C02169,Duka,Nairobi,2026-02,False,0
+C02170,Duka,Central,2024-11,True,0
+C02171,Duka,Rift Valley,2023-05,False,0
+C02172,HoReCa,Nairobi,2023-03,True,14
+C02173,Duka,Nairobi,2024-12,False,0
+C02174,HoReCa,Rift Valley,2024-08,True,14
+C02175,Duka,Nairobi,2022-09,False,0
+C02176,Duka,Central,2025-12,False,0
+C02177,HoReCa,Nairobi,2023-08,True,14
+C02178,Petrol Station,Rift Valley,2023-09,True,0
+C02179,Duka,Nairobi,2023-12,False,0
+C02180,Duka,Nairobi,2024-11,False,0
+C02181,Wholesaler,Coast,2023-11,True,30
+C02182,Duka,Nairobi,2024-02,True,0
+C02183,Duka,Coast,2022-12,False,0
+C02184,Duka,Central,2022-07,False,0
+C02185,Duka,Rift Valley,2022-05,False,0
+C02186,Supermarket,Nyanza,2024-03,True,30
+C02187,Wholesaler,Central,2022-04,True,30
+C02188,Petrol Station,Rift Valley,2025-01,False,0
+C02189,Duka,Nairobi,2025-06,False,0
+C02190,HoReCa,Coast,2023-08,False,14
+C02191,Wholesaler,Nairobi,2024-07,True,30
+C02192,Petrol Station,Coast,2026-03,True,0
+C02193,Petrol Station,Central,2024-04,True,0
+C02194,Duka,Nyanza,2023-05,True,0
+C02195,Duka,Western,2025-01,False,0
+C02196,HoReCa,Western,2024-02,False,14
+C02197,Duka,Western,2023-06,True,0
+C02198,HoReCa,Nairobi,2022-11,True,14
+C02199,HoReCa,Rift Valley,2024-10,False,14
+C02200,Petrol Station,Nairobi,2025-06,True,0
+C02201,Duka,Nairobi,2024-11,True,0
+C02202,Wholesaler,Nairobi,2023-05,True,30
+C02203,Duka,Central,2023-01,False,0
+C02204,Duka,Coast,2023-05,False,0
+C02205,HoReCa,Nairobi,2024-12,False,14
+C02206,Duka,Nairobi,2022-01,True,0
+C02207,Supermarket,Coast,2026-01,False,30
+C02208,Duka,Rift Valley,2024-04,False,0
+C02209,Duka,Nairobi,2022-03,False,0
+C02210,HoReCa,Nairobi,2024-03,False,14
+C02211,HoReCa,Coast,2022-01,False,14
+C02212,Duka,Nairobi,2022-10,True,0
+C02213,Supermarket,Central,2023-11,True,30
+C02214,Duka,Coast,2024-01,False,0
+C02215,Duka,Coast,2024-09,False,0
+C02216,Duka,Coast,2022-12,False,0
+C02217,HoReCa,Nairobi,2022-04,True,14
+C02218,HoReCa,Nairobi,2023-10,True,14
+C02219,Duka,Nyanza,2024-10,True,0
+C02220,Duka,Nyanza,2023-01,False,0
+C02221,Duka,Nairobi,2023-01,False,0
+C02222,Duka,Nairobi,2024-12,True,0
+C02223,Petrol Station,Nairobi,2022-03,False,0
+C02224,Duka,Rift Valley,2025-11,False,0
+C02225,Duka,Central,2022-02,True,0
+C02226,Petrol Station,Coast,2024-01,False,0
+C02227,Petrol Station,Central,2024-02,True,0
+C02228,Duka,Rift Valley,2023-01,False,0
+C02229,Duka,Rift Valley,2023-10,False,0
+C02230,Duka,Central,2023-03,False,0
+C02231,Supermarket,Central,2022-01,True,30
+C02232,Duka,Rift Valley,2022-01,True,0
+C02233,Duka,Coast,2022-07,True,0
+C02234,Petrol Station,Coast,2025-12,False,0
+C02235,Duka,Central,2025-06,True,0
+C02236,Duka,Western,2025-06,False,0
+C02237,Duka,Nyanza,2024-07,False,0
+C02238,Duka,Nairobi,2024-10,True,0
+C02239,Duka,Rift Valley,2023-08,False,0
+C02240,Petrol Station,Coast,2023-04,True,0
+C02241,Petrol Station,Rift Valley,2022-08,False,0
+C02242,Petrol Station,Rift Valley,2024-05,True,0
+C02243,Duka,Rift Valley,2022-01,True,0
+C02244,Petrol Station,Central,2022-11,False,0
+C02245,Petrol Station,Nairobi,2024-04,False,0
+C02246,Duka,Rift Valley,2022-12,False,0
+C02247,Supermarket,Rift Valley,2025-09,False,30
+C02248,Wholesaler,Western,2023-08,True,30
+C02249,Duka,Nairobi,2024-01,False,0
+C02250,HoReCa,Nyanza,2024-02,False,14
+C02251,Wholesaler,Nairobi,2025-03,True,30
+C02252,Duka,Nairobi,2024-08,False,0
+C02253,HoReCa,Rift Valley,2025-01,True,14
+C02254,Duka,Rift Valley,2024-04,False,0
+C02255,Duka,Central,2022-11,True,0
+C02256,Duka,Nairobi,2023-09,False,0
+C02257,Duka,Central,2023-04,False,0
+C02258,Duka,Nyanza,2024-09,True,0
+C02259,Duka,Nairobi,2025-11,True,0
+C02260,Duka,Nairobi,2022-05,True,0
+C02261,Duka,Nairobi,2022-10,True,0
+C02262,Duka,Nairobi,2022-09,False,0
+C02263,HoReCa,Western,2023-02,False,14
+C02264,HoReCa,Rift Valley,2022-03,False,14
+C02265,Duka,Rift Valley,2024-06,False,0
+C02266,Duka,Rift Valley,2025-01,False,0
+C02267,Petrol Station,Rift Valley,2022-09,True,0
+C02268,Duka,Rift Valley,2025-05,False,0
+C02269,Wholesaler,Nairobi,2022-11,True,30
+C02270,HoReCa,Western,2022-08,False,14
+C02271,Supermarket,Nyanza,2022-01,True,30
+C02272,Petrol Station,Nairobi,2026-03,False,0
+C02273,Duka,Nairobi,2025-04,False,0
+C02274,Duka,Nairobi,2023-03,False,0
+C02275,Petrol Station,Nairobi,2026-01,False,0
+C02276,Supermarket,Nairobi,2022-08,True,30
+C02277,Duka,Central,2026-01,False,0
+C02278,Petrol Station,Central,2025-10,True,0
+C02279,Petrol Station,Nairobi,2025-01,True,0
+C02280,Petrol Station,Nyanza,2022-10,False,0
+C02281,Duka,Central,2024-12,False,0
+C02282,Duka,Rift Valley,2022-07,False,0
+C02283,HoReCa,Central,2025-11,True,14
+C02284,Duka,Central,2024-01,True,0
+C02285,Wholesaler,Nairobi,2023-04,True,30
+C02286,HoReCa,Central,2024-12,True,14
+C02287,Wholesaler,Central,2023-06,False,30
+C02288,Duka,Nairobi,2023-03,False,0
+C02289,HoReCa,Rift Valley,2026-03,False,14
+C02290,Petrol Station,Nairobi,2022-06,True,0
+C02291,Duka,Western,2022-05,True,0
+C02292,Duka,Nairobi,2022-01,True,0
+C02293,Wholesaler,Central,2025-05,True,30
+C02294,Duka,Nairobi,2024-04,False,0
+C02295,Duka,Central,2022-05,False,0
+C02296,Duka,Nairobi,2025-04,False,0
+C02297,HoReCa,Western,2024-01,False,14
+C02298,HoReCa,Nairobi,2023-01,False,14
+C02299,HoReCa,Western,2024-03,True,14
+C02300,Duka,Central,2022-07,True,0
+C02301,Duka,Nairobi,2026-01,False,0
+C02302,Petrol Station,Nairobi,2022-03,True,0
+C02303,Supermarket,Central,2023-11,False,30
+C02304,Petrol Station,Western,2023-03,False,0
+C02305,Duka,Central,2022-10,True,0
+C02306,Duka,Central,2025-10,False,0
+C02307,Wholesaler,Western,2024-10,False,30
+C02308,Duka,Nairobi,2023-06,True,0
+C02309,Duka,Coast,2023-04,True,0
+C02310,Duka,Nairobi,2025-05,False,0
+C02311,HoReCa,Western,2023-05,True,14
+C02312,Supermarket,Rift Valley,2024-02,True,30
+C02313,Supermarket,Nairobi,2025-05,True,30
+C02314,Supermarket,Western,2022-07,True,30
+C02315,Petrol Station,Rift Valley,2026-02,False,0
+C02316,Petrol Station,Nyanza,2023-12,False,0
+C02317,Supermarket,Central,2023-10,True,30
+C02318,Supermarket,Rift Valley,2022-03,True,30
+C02319,Duka,Rift Valley,2024-12,False,0
+C02320,HoReCa,Nairobi,2022-02,False,14
+C02321,HoReCa,Nairobi,2023-07,False,14
+C02322,Duka,Nairobi,2022-02,False,0
+C02323,Duka,Western,2022-06,True,0
+C02324,Duka,Nyanza,2023-04,False,0
+C02325,Duka,Nairobi,2025-06,False,0
+C02326,Supermarket,Western,2023-02,True,30
+C02327,Duka,Nairobi,2023-04,False,0
+C02328,Petrol Station,Rift Valley,2024-03,True,0
+C02329,Duka,Nyanza,2024-12,False,0
+C02330,Duka,Rift Valley,2026-03,False,0
+C02331,HoReCa,Nyanza,2026-03,False,14
+C02332,Wholesaler,Nairobi,2025-03,True,30
+C02333,HoReCa,Central,2024-08,False,14
+C02334,Petrol Station,Nyanza,2025-06,True,0
+C02335,Petrol Station,Nairobi,2022-01,True,0
+C02336,Wholesaler,Nyanza,2025-11,True,30
+C02337,Supermarket,Nairobi,2025-08,True,30
+C02338,Duka,Rift Valley,2025-01,False,0
+C02339,Duka,Rift Valley,2023-02,False,0
+C02340,Duka,Central,2023-12,True,0
+C02341,Duka,Rift Valley,2023-05,False,0
+C02342,Wholesaler,Nairobi,2025-02,False,30
+C02343,Duka,Nairobi,2025-12,False,0
+C02344,Wholesaler,Western,2023-07,False,30
+C02345,Petrol Station,Nairobi,2024-09,True,0
+C02346,Duka,Central,2023-05,False,0
+C02347,Wholesaler,Rift Valley,2024-07,True,30
+C02348,Duka,Coast,2024-09,False,0
+C02349,Duka,Rift Valley,2024-02,False,0
+C02350,Duka,Central,2025-10,False,0
+C02351,Duka,Coast,2025-09,False,0
+C02352,Duka,Central,2024-05,False,0
+C02353,Supermarket,Coast,2024-07,False,30
+C02354,HoReCa,Nairobi,2022-06,False,14
+C02355,HoReCa,Central,2023-06,False,14
+C02356,Petrol Station,Rift Valley,2022-05,False,0
+C02357,Petrol Station,Nyanza,2025-03,True,0
+C02358,HoReCa,Western,2026-03,False,14
+C02359,HoReCa,Nairobi,2025-10,False,14
+C02360,Supermarket,Nairobi,2023-02,True,30
+C02361,Duka,Western,2026-02,False,0
+C02362,HoReCa,Nairobi,2026-03,False,14
+C02363,Wholesaler,Nairobi,2024-06,True,30
+C02364,Petrol Station,Central,2024-09,True,0
+C02365,Duka,Nyanza,2022-05,False,0
+C02366,Petrol Station,Nairobi,2024-09,False,0
+C02367,Duka,Central,2024-10,False,0
+C02368,Duka,Rift Valley,2024-02,True,0
+C02369,Wholesaler,Nyanza,2022-03,True,30
+C02370,Duka,Nyanza,2023-04,False,0
+C02371,Supermarket,Rift Valley,2024-09,True,30
+C02372,Duka,Nyanza,2022-09,False,0
+C02373,Duka,Nairobi,2022-09,False,0
+C02374,HoReCa,Nairobi,2025-11,False,14
+C02375,HoReCa,Rift Valley,2022-06,True,14
+C02376,Duka,Nairobi,2025-10,False,0
+C02377,Duka,Rift Valley,2023-02,True,0
+C02378,HoReCa,Coast,2026-03,False,14
+C02379,Duka,Central,2025-09,True,0
+C02380,HoReCa,Nairobi,2024-09,False,14
+C02381,Petrol Station,Western,2025-07,False,0
+C02382,HoReCa,Rift Valley,2023-06,False,14
+C02383,Supermarket,Rift Valley,2025-12,True,30
+C02384,HoReCa,Western,2024-12,False,14
+C02385,Duka,Nairobi,2022-12,True,0
+C02386,HoReCa,Nairobi,2023-12,True,14
+C02387,Duka,Western,2024-07,False,0
+C02388,Duka,Central,2022-01,False,0
+C02389,Wholesaler,Rift Valley,2024-11,False,30
+C02390,Duka,Coast,2022-10,True,0
+C02391,HoReCa,Nairobi,2023-02,False,14
+C02392,Supermarket,Nyanza,2025-05,True,30
+C02393,Petrol Station,Western,2024-05,True,0
+C02394,Duka,Nyanza,2024-01,False,0
+C02395,HoReCa,Nairobi,2024-10,False,14
+C02396,Duka,Nairobi,2023-09,False,0
+C02397,Duka,Central,2024-10,False,0
+C02398,Supermarket,Coast,2022-11,False,30
+C02399,Petrol Station,Nairobi,2025-03,False,0
+C02400,Duka,Nairobi,2024-07,True,0
+C02401,Supermarket,Nairobi,2025-08,True,30
+C02402,Petrol Station,Nairobi,2025-06,False,0
+C02403,Duka,Nairobi,2023-03,False,0
+C02404,HoReCa,Rift Valley,2022-02,False,14
+C02405,HoReCa,Rift Valley,2024-01,False,14
+C02406,Wholesaler,Central,2024-09,True,30
+C02407,Duka,Nairobi,2024-11,False,0
+C02408,HoReCa,Nairobi,2024-11,True,14
+C02409,Petrol Station,Central,2026-02,True,0
+C02410,Duka,Nairobi,2026-01,False,0
+C02411,Duka,Nairobi,2022-05,True,0
+C02412,HoReCa,Rift Valley,2023-02,True,14
+C02413,Supermarket,Rift Valley,2022-12,False,30
+C02414,Duka,Western,2025-07,False,0
+C02415,Petrol Station,Rift Valley,2024-03,True,0
+C02416,Wholesaler,Western,2025-08,False,30
+C02417,Duka,Western,2024-07,False,0
+C02418,Duka,Nairobi,2025-02,True,0
+C02419,Wholesaler,Nairobi,2024-02,True,30
+C02420,Duka,Rift Valley,2025-01,False,0
+C02421,Wholesaler,Nairobi,2022-08,True,30
+C02422,Duka,Nairobi,2024-11,False,0
+C02423,Duka,Nairobi,2024-01,True,0
+C02424,HoReCa,Western,2024-01,True,14
+C02425,Duka,Nairobi,2022-05,False,0
+C02426,HoReCa,Nairobi,2025-06,True,14
+C02427,HoReCa,Rift Valley,2025-10,True,14
+C02428,HoReCa,Nairobi,2025-08,False,14
+C02429,Duka,Nairobi,2022-08,False,0
+C02430,HoReCa,Western,2025-07,True,14
+C02431,Duka,Central,2024-02,False,0
+C02432,Duka,Nairobi,2024-05,False,0
+C02433,Duka,Central,2023-03,False,0
+C02434,Supermarket,Central,2022-09,True,30
+C02435,HoReCa,Nyanza,2024-06,False,14
+C02436,Wholesaler,Nairobi,2023-12,True,30
+C02437,Petrol Station,Rift Valley,2025-12,False,0
+C02438,Duka,Nairobi,2022-02,True,0
+C02439,Duka,Coast,2025-06,False,0
+C02440,Duka,Nairobi,2025-11,False,0
+C02441,Duka,Nyanza,2025-01,False,0
+C02442,HoReCa,Western,2022-05,False,14
+C02443,HoReCa,Nyanza,2026-02,False,14
+C02444,Supermarket,Central,2022-10,True,30
+C02445,Duka,Central,2025-10,False,0
+C02446,Duka,Nyanza,2023-04,False,0
+C02447,Wholesaler,Central,2022-03,True,30
+C02448,Duka,Nairobi,2024-03,True,0
+C02449,Supermarket,Rift Valley,2024-02,True,30
+C02450,Duka,Nairobi,2024-12,True,0
+C02451,HoReCa,Central,2025-09,True,14
+C02452,Supermarket,Rift Valley,2022-09,True,30
+C02453,Supermarket,Central,2025-11,True,30
+C02454,Supermarket,Western,2025-10,True,30
+C02455,Duka,Coast,2025-03,False,0
+C02456,HoReCa,Nyanza,2023-07,False,14
+C02457,Duka,Central,2025-02,True,0
+C02458,Duka,Western,2023-11,True,0
+C02459,Duka,Nairobi,2024-12,False,0
+C02460,Duka,Rift Valley,2024-02,False,0
+C02461,Wholesaler,Nairobi,2024-02,True,30
+C02462,Duka,Coast,2024-10,False,0
+C02463,Wholesaler,Nairobi,2022-11,True,30
+C02464,HoReCa,Central,2023-04,False,14
+C02465,Duka,Coast,2022-06,False,0
+C02466,Duka,Rift Valley,2023-01,False,0
+C02467,Duka,Western,2025-11,False,0
+C02468,Duka,Nyanza,2022-06,False,0
+C02469,Duka,Nairobi,2023-10,False,0
+C02470,Wholesaler,Rift Valley,2022-09,True,30
+C02471,Duka,Coast,2023-02,True,0
+C02472,Wholesaler,Nairobi,2025-11,True,30
+C02473,Duka,Rift Valley,2024-01,True,0
+C02474,HoReCa,Nairobi,2022-05,False,14
+C02475,Petrol Station,Central,2023-08,False,0
+C02476,HoReCa,Central,2025-03,False,14
+C02477,Duka,Nairobi,2023-10,False,0
+C02478,Wholesaler,Nairobi,2022-03,True,30
+C02479,HoReCa,Rift Valley,2022-09,False,14
+C02480,Duka,Nairobi,2024-05,False,0
+C02481,Supermarket,Nairobi,2024-03,True,30
+C02482,Duka,Nairobi,2024-11,True,0
+C02483,Supermarket,Nairobi,2025-05,True,30
+C02484,Duka,Western,2022-12,False,0
+C02485,Duka,Coast,2025-09,False,0
+C02486,Duka,Western,2023-11,False,0
+C02487,Duka,Nyanza,2024-01,True,0
+C02488,Duka,Nairobi,2022-01,True,0
+C02489,Duka,Western,2025-09,True,0
+C02490,Duka,Coast,2024-10,True,0
+C02491,Petrol Station,Coast,2025-03,True,0
+C02492,Duka,Nairobi,2026-02,True,0
+C02493,Duka,Nairobi,2023-09,False,0
+C02494,Petrol Station,Central,2026-02,False,0
+C02495,Duka,Nairobi,2025-08,True,0
+C02496,HoReCa,Coast,2023-11,False,14
+C02497,Duka,Nairobi,2022-08,False,0
+C02498,Petrol Station,Central,2023-09,False,0
+C02499,Duka,Coast,2025-02,False,0
+C02500,Wholesaler,Coast,2025-09,True,30
+C02501,Duka,Rift Valley,2026-03,False,0
+C02502,Duka,Central,2022-11,False,0
+C02503,Duka,Rift Valley,2023-08,False,0
+C02504,Duka,Nairobi,2024-08,True,0
+C02505,Supermarket,Nairobi,2025-10,True,30
+C02506,Supermarket,Western,2024-07,True,30
+C02507,Wholesaler,Nairobi,2025-11,True,30
+C02508,Duka,Nairobi,2024-03,False,0
+C02509,Duka,Coast,2024-10,True,0
+C02510,Wholesaler,Nairobi,2026-01,True,30
+C02511,Duka,Western,2023-10,False,0
+C02512,Petrol Station,Nairobi,2024-08,False,0
+C02513,HoReCa,Rift Valley,2024-02,True,14
+C02514,Supermarket,Nairobi,2022-01,True,30
+C02515,Duka,Rift Valley,2024-05,False,0
+C02516,Duka,Rift Valley,2024-08,False,0
+C02517,Duka,Nyanza,2025-05,False,0
+C02518,Petrol Station,Nairobi,2022-10,True,0
+C02519,Duka,Western,2023-10,True,0
+C02520,Wholesaler,Rift Valley,2025-05,False,30
+C02521,Duka,Western,2023-09,False,0
+C02522,Duka,Coast,2024-03,False,0
+C02523,Duka,Western,2022-04,True,0
+C02524,Supermarket,Rift Valley,2024-06,True,30
+C02525,Petrol Station,Nairobi,2023-02,False,0
+C02526,Duka,Central,2025-11,False,0
+C02527,HoReCa,Coast,2025-08,True,14
+C02528,Duka,Nyanza,2025-03,False,0
+C02529,Duka,Central,2025-04,False,0
+C02530,Duka,Rift Valley,2022-07,True,0
+C02531,Duka,Nyanza,2022-11,False,0
+C02532,Duka,Nyanza,2022-02,True,0
+C02533,Wholesaler,Nairobi,2022-07,True,30
+C02534,Duka,Nairobi,2023-01,False,0
+C02535,Supermarket,Rift Valley,2024-03,True,30
+C02536,Wholesaler,Coast,2022-07,True,30
+C02537,Duka,Nairobi,2024-11,True,0
+C02538,HoReCa,Rift Valley,2022-04,True,14
+C02539,Supermarket,Coast,2023-04,False,30
+C02540,HoReCa,Rift Valley,2024-03,False,14
+C02541,HoReCa,Nairobi,2022-09,True,14
+C02542,HoReCa,Central,2022-05,True,14
+C02543,Supermarket,Nairobi,2023-03,True,30
+C02544,HoReCa,Nyanza,2026-01,False,14
+C02545,Wholesaler,Central,2022-11,True,30
+C02546,HoReCa,Western,2022-10,False,14
+C02547,Duka,Nairobi,2025-05,True,0
+C02548,Duka,Western,2023-12,True,0
+C02549,Wholesaler,Central,2023-09,True,30
+C02550,Duka,Western,2022-10,False,0
+C02551,Supermarket,Central,2024-09,True,30
+C02552,Supermarket,Nyanza,2024-09,True,30
+C02553,Duka,Western,2025-11,False,0
+C02554,Duka,Nairobi,2022-11,False,0
+C02555,HoReCa,Western,2022-06,False,14
+C02556,Duka,Nairobi,2026-01,False,0
+C02557,Duka,Nairobi,2023-08,False,0
+C02558,Petrol Station,Rift Valley,2024-03,True,0
+C02559,HoReCa,Central,2023-06,False,14
+C02560,Supermarket,Central,2023-07,True,30
+C02561,HoReCa,Nairobi,2024-06,True,14
+C02562,Duka,Nyanza,2024-09,False,0
+C02563,Wholesaler,Nairobi,2025-11,False,30
+C02564,Supermarket,Nairobi,2023-10,True,30
+C02565,Duka,Central,2025-12,True,0
+C02566,Duka,Nairobi,2023-02,False,0
+C02567,Supermarket,Western,2022-07,True,30
+C02568,Duka,Central,2022-01,True,0
+C02569,HoReCa,Nairobi,2023-06,False,14
+C02570,Petrol Station,Nairobi,2026-03,False,0
+C02571,Petrol Station,Coast,2024-05,False,0
+C02572,Supermarket,Nyanza,2024-08,True,30
+C02573,Duka,Nairobi,2025-08,True,0
+C02574,Duka,Coast,2025-07,True,0
+C02575,Supermarket,Nyanza,2022-08,True,30
+C02576,Duka,Nairobi,2024-02,True,0
+C02577,Duka,Nyanza,2024-04,False,0
+C02578,Wholesaler,Western,2025-12,True,30
+C02579,Duka,Nairobi,2024-09,False,0
+C02580,Wholesaler,Central,2023-08,True,30
+C02581,HoReCa,Western,2024-06,False,14
+C02582,Duka,Nairobi,2025-02,False,0
+C02583,Supermarket,Nairobi,2022-01,True,30
+C02584,HoReCa,Rift Valley,2023-02,False,14
+C02585,Duka,Nairobi,2024-02,False,0
+C02586,Duka,Nyanza,2023-07,True,0
+C02587,Duka,Nairobi,2023-08,False,0
+C02588,Petrol Station,Nairobi,2025-03,True,0
+C02589,Duka,Nyanza,2023-04,False,0
+C02590,Duka,Nairobi,2023-04,True,0
+C02591,Duka,Nyanza,2025-10,False,0
+C02592,Duka,Rift Valley,2023-08,False,0
+C02593,HoReCa,Rift Valley,2024-01,False,14
+C02594,Duka,Rift Valley,2023-10,True,0
+C02595,Wholesaler,Nyanza,2022-04,True,30
+C02596,Petrol Station,Coast,2025-01,False,0
+C02597,Duka,Rift Valley,2022-12,False,0
+C02598,Supermarket,Nyanza,2022-09,False,30
+C02599,Duka,Coast,2022-07,True,0
+C02600,Duka,Nyanza,2023-08,False,0
+C02601,Duka,Rift Valley,2022-05,False,0
+C02602,Wholesaler,Nairobi,2025-06,True,30
+C02603,Supermarket,Nairobi,2025-01,True,30
+C02604,HoReCa,Central,2023-01,True,14
+C02605,HoReCa,Nairobi,2022-11,False,14
+C02606,Supermarket,Rift Valley,2023-02,True,30
+C02607,Duka,Nairobi,2022-10,True,0
+C02608,Supermarket,Central,2026-03,False,30
+C02609,Duka,Nairobi,2024-07,False,0
+C02610,Duka,Central,2023-08,True,0
+C02611,Duka,Nairobi,2024-12,True,0
+C02612,Duka,Rift Valley,2024-05,False,0
+C02613,Petrol Station,Nairobi,2022-07,False,0
+C02614,Duka,Coast,2025-03,False,0
+C02615,Duka,Central,2026-01,True,0
+C02616,Duka,Nairobi,2022-05,False,0
+C02617,Duka,Central,2024-08,False,0
+C02618,Supermarket,Nairobi,2024-09,False,30
+C02619,Duka,Rift Valley,2025-12,False,0
+C02620,HoReCa,Nairobi,2022-09,False,14
+C02621,Duka,Coast,2022-12,False,0
+C02622,Duka,Nairobi,2024-12,False,0
+C02623,Duka,Rift Valley,2025-12,False,0
+C02624,Duka,Central,2026-03,False,0
+C02625,Supermarket,Nairobi,2024-09,True,30
+C02626,Duka,Coast,2024-06,True,0
+C02627,Duka,Nairobi,2023-06,False,0
+C02628,Duka,Coast,2023-10,False,0
+C02629,Duka,Central,2023-01,True,0
+C02630,Duka,Western,2024-08,False,0
+C02631,Wholesaler,Nairobi,2025-02,False,30
+C02632,Petrol Station,Western,2022-07,False,0
+C02633,Supermarket,Rift Valley,2023-05,True,30
+C02634,Supermarket,Nairobi,2025-06,True,30
+C02635,Duka,Coast,2023-08,False,0
+C02636,Duka,Western,2024-11,True,0
+C02637,Petrol Station,Nyanza,2023-05,True,0
+C02638,Duka,Nairobi,2023-02,True,0
+C02639,Duka,Western,2024-09,False,0
+C02640,Petrol Station,Rift Valley,2024-01,False,0
+C02641,HoReCa,Central,2024-01,True,14
+C02642,Wholesaler,Nairobi,2025-05,False,30
+C02643,Supermarket,Nairobi,2022-09,True,30
+C02644,Duka,Coast,2024-05,False,0
+C02645,Supermarket,Nairobi,2024-03,True,30
+C02646,Duka,Nairobi,2025-10,False,0
+C02647,Duka,Nairobi,2024-11,False,0
+C02648,Duka,Central,2025-05,False,0
+C02649,Supermarket,Nairobi,2022-10,False,30
+C02650,HoReCa,Nairobi,2022-12,True,14
+C02651,Wholesaler,Nairobi,2025-08,True,30
+C02652,Duka,Rift Valley,2023-11,False,0
+C02653,Wholesaler,Coast,2023-05,True,30
+C02654,Supermarket,Coast,2023-08,True,30
+C02655,Duka,Nairobi,2025-06,True,0
+C02656,Wholesaler,Rift Valley,2023-10,True,30
+C02657,Duka,Western,2025-01,False,0
+C02658,Wholesaler,Nairobi,2024-02,True,30
+C02659,Petrol Station,Nyanza,2024-07,True,0
+C02660,Supermarket,Coast,2023-03,True,30
+C02661,Wholesaler,Nairobi,2022-08,False,30
+C02662,Duka,Coast,2025-12,False,0
+C02663,Duka,Rift Valley,2022-11,True,0
+C02664,Duka,Central,2022-06,False,0
+C02665,Wholesaler,Nairobi,2025-03,True,30
+C02666,Duka,Western,2022-09,False,0
+C02667,Duka,Central,2023-05,False,0
+C02668,Petrol Station,Nairobi,2023-11,False,0
+C02669,Duka,Western,2024-10,False,0
+C02670,Duka,Rift Valley,2023-03,False,0
+C02671,Duka,Nyanza,2022-01,False,0
+C02672,Wholesaler,Central,2023-09,True,30
+C02673,Supermarket,Nairobi,2024-11,True,30
+C02674,Supermarket,Nairobi,2022-07,True,30
+C02675,Duka,Nyanza,2023-12,False,0
+C02676,Petrol Station,Western,2024-02,False,0
+C02677,Duka,Nairobi,2024-10,False,0
+C02678,Duka,Nairobi,2024-12,False,0
+C02679,Supermarket,Central,2022-03,True,30
+C02680,Petrol Station,Nairobi,2022-01,True,0
+C02681,Duka,Central,2025-05,False,0
+C02682,Duka,Rift Valley,2022-10,False,0
+C02683,Duka,Central,2024-11,True,0
+C02684,Petrol Station,Nairobi,2025-05,False,0
+C02685,Supermarket,Rift Valley,2022-03,True,30
+C02686,HoReCa,Western,2025-09,False,14
+C02687,Petrol Station,Western,2023-08,False,0
+C02688,HoReCa,Western,2024-03,False,14
+C02689,Wholesaler,Coast,2023-02,True,30
+C02690,Duka,Western,2024-05,False,0
+C02691,Duka,Nairobi,2023-07,False,0
+C02692,Duka,Coast,2026-02,False,0
+C02693,Duka,Western,2025-04,False,0
+C02694,HoReCa,Western,2024-05,False,14
+C02695,HoReCa,Coast,2024-12,True,14
+C02696,Wholesaler,Coast,2024-06,False,30
+C02697,Supermarket,Central,2022-04,True,30
+C02698,Wholesaler,Nairobi,2025-12,True,30
+C02699,Supermarket,Western,2025-06,True,30
+C02700,Duka,Nyanza,2024-10,False,0
+C02701,Petrol Station,Nairobi,2023-02,True,0
+C02702,Duka,Nairobi,2022-08,True,0
+C02703,Duka,Nairobi,2022-06,False,0
+C02704,Supermarket,Central,2022-08,True,30
+C02705,Duka,Coast,2022-07,False,0
+C02706,Duka,Nairobi,2024-03,False,0
+C02707,HoReCa,Nyanza,2025-04,False,14
+C02708,Duka,Rift Valley,2022-01,False,0
+C02709,Duka,Central,2023-02,False,0
+C02710,Supermarket,Nyanza,2025-02,True,30
+C02711,Duka,Coast,2026-03,False,0
+C02712,Duka,Coast,2025-03,True,0
+C02713,Petrol Station,Western,2022-03,False,0
+C02714,Duka,Nairobi,2022-02,False,0
+C02715,HoReCa,Coast,2023-11,False,14
+C02716,Petrol Station,Western,2025-05,True,0
+C02717,Petrol Station,Coast,2022-08,True,0
+C02718,Duka,Nairobi,2025-05,False,0
+C02719,Duka,Western,2024-09,False,0
+C02720,Duka,Coast,2023-06,False,0
+C02721,Supermarket,Nairobi,2025-11,True,30
+C02722,Supermarket,Rift Valley,2023-10,True,30
+C02723,HoReCa,Nairobi,2023-07,False,14
+C02724,Duka,Nairobi,2022-04,False,0
+C02725,Duka,Nairobi,2024-08,False,0
+C02726,HoReCa,Rift Valley,2022-05,True,14
+C02727,Wholesaler,Rift Valley,2023-06,True,30
+C02728,Duka,Rift Valley,2025-02,False,0
+C02729,Duka,Central,2024-09,True,0
+C02730,Duka,Rift Valley,2022-11,True,0
+C02731,Duka,Nairobi,2025-05,False,0
+C02732,Duka,Central,2023-02,True,0
+C02733,HoReCa,Coast,2022-01,False,14
+C02734,Duka,Central,2022-06,True,0
+C02735,HoReCa,Coast,2024-07,False,14
+C02736,Duka,Western,2025-02,True,0
+C02737,Duka,Coast,2023-05,True,0
+C02738,Duka,Rift Valley,2022-12,False,0
+C02739,Duka,Nyanza,2025-09,True,0
+C02740,Supermarket,Rift Valley,2024-04,True,30
+C02741,Duka,Central,2024-06,False,0
+C02742,HoReCa,Nairobi,2024-04,False,14
+C02743,Wholesaler,Nyanza,2022-01,False,30
+C02744,Duka,Nairobi,2026-01,False,0
+C02745,Duka,Coast,2024-02,False,0
+C02746,Duka,Nyanza,2023-06,False,0
+C02747,Wholesaler,Nyanza,2023-04,True,30
+C02748,Supermarket,Nairobi,2022-08,True,30
+C02749,Wholesaler,Coast,2023-11,False,30
+C02750,Duka,Rift Valley,2025-04,False,0
+C02751,HoReCa,Rift Valley,2025-11,True,14
+C02752,Petrol Station,Nyanza,2025-07,True,0
+C02753,HoReCa,Nairobi,2025-06,False,14
+C02754,Duka,Rift Valley,2022-12,False,0
+C02755,Duka,Rift Valley,2024-04,False,0
+C02756,Duka,Nairobi,2022-05,False,0
+C02757,Duka,Nyanza,2023-07,True,0
+C02758,Duka,Central,2026-02,False,0
+C02759,Duka,Nairobi,2022-09,True,0
+C02760,Duka,Nairobi,2024-04,True,0
+C02761,HoReCa,Coast,2023-04,False,14
+C02762,HoReCa,Nairobi,2022-05,True,14
+C02763,Wholesaler,Rift Valley,2022-05,True,30
+C02764,Duka,Nairobi,2025-09,True,0
+C02765,Supermarket,Nairobi,2024-10,True,30
+C02766,Petrol Station,Nyanza,2024-05,True,0
+C02767,Duka,Western,2024-08,False,0
+C02768,Duka,Rift Valley,2023-04,True,0
+C02769,Duka,Coast,2022-04,False,0
+C02770,Duka,Western,2025-05,True,0
+C02771,Petrol Station,Nairobi,2025-03,False,0
+C02772,Petrol Station,Rift Valley,2024-02,False,0
+C02773,Duka,Western,2022-10,True,0
+C02774,Wholesaler,Central,2024-02,True,30
+C02775,Duka,Coast,2022-06,False,0
+C02776,HoReCa,Coast,2022-07,False,14
+C02777,Petrol Station,Rift Valley,2026-01,False,0
+C02778,HoReCa,Central,2025-01,False,14
+C02779,Duka,Western,2022-06,True,0
+C02780,Duka,Central,2024-06,False,0
+C02781,Petrol Station,Nairobi,2025-05,False,0
+C02782,Petrol Station,Rift Valley,2022-02,False,0
+C02783,Wholesaler,Nyanza,2024-01,True,30
+C02784,Petrol Station,Western,2023-04,True,0
+C02785,Duka,Rift Valley,2023-05,True,0
+C02786,Duka,Nairobi,2022-05,False,0
+C02787,Petrol Station,Nyanza,2023-05,False,0
+C02788,Duka,Nairobi,2024-02,False,0
+C02789,Duka,Nairobi,2023-05,True,0
+C02790,Duka,Western,2022-12,True,0
+C02791,Duka,Western,2023-09,True,0
+C02792,Duka,Nairobi,2024-02,False,0
+C02793,HoReCa,Nyanza,2024-08,False,14
+C02794,HoReCa,Western,2023-09,False,14
+C02795,Duka,Central,2022-06,False,0
+C02796,Duka,Nairobi,2023-07,False,0
+C02797,HoReCa,Nairobi,2023-07,False,14
+C02798,HoReCa,Central,2022-04,False,14
+C02799,Duka,Central,2022-01,True,0
+C02800,HoReCa,Nairobi,2022-08,False,14
+C02801,HoReCa,Rift Valley,2023-12,False,14
+C02802,Duka,Nairobi,2024-04,True,0
+C02803,Supermarket,Nyanza,2025-03,True,30
+C02804,Duka,Nyanza,2025-03,True,0
+C02805,Duka,Nyanza,2024-03,False,0
+C02806,Duka,Nairobi,2025-04,False,0
+C02807,Supermarket,Nairobi,2024-09,True,30
+C02808,HoReCa,Rift Valley,2023-11,False,14
+C02809,Petrol Station,Central,2023-12,False,0
+C02810,Petrol Station,Rift Valley,2026-02,False,0
+C02811,Duka,Rift Valley,2023-01,True,0
+C02812,HoReCa,Rift Valley,2022-10,False,14
+C02813,Duka,Nairobi,2025-11,False,0
+C02814,Duka,Nairobi,2023-08,False,0
+C02815,Duka,Central,2022-08,False,0
+C02816,Duka,Nairobi,2023-11,True,0
+C02817,HoReCa,Nyanza,2025-08,False,14
+C02818,Duka,Nairobi,2024-12,True,0
+C02819,Duka,Central,2026-03,True,0
+C02820,Supermarket,Central,2023-04,True,30
+C02821,Petrol Station,Nairobi,2022-03,False,0
+C02822,Duka,Central,2025-03,True,0
+C02823,HoReCa,Western,2025-04,False,14
+C02824,HoReCa,Central,2023-07,False,14
+C02825,Duka,Central,2022-12,False,0
+C02826,HoReCa,Nyanza,2022-02,True,14
+C02827,Supermarket,Central,2022-05,True,30
+C02828,HoReCa,Nairobi,2022-06,False,14
+C02829,Duka,Rift Valley,2025-10,False,0
+C02830,Duka,Coast,2023-03,False,0
+C02831,Duka,Rift Valley,2024-09,False,0
+C02832,Duka,Nairobi,2023-11,False,0
+C02833,Petrol Station,Western,2023-03,True,0
+C02834,Supermarket,Rift Valley,2024-08,True,30
+C02835,Wholesaler,Nairobi,2023-08,True,30
+C02836,Duka,Rift Valley,2023-12,False,0
+C02837,Wholesaler,Western,2024-09,True,30
+C02838,Duka,Nyanza,2022-07,False,0
+C02839,Duka,Central,2022-05,True,0
+C02840,Petrol Station,Coast,2023-10,True,0
+C02841,HoReCa,Rift Valley,2022-04,True,14
+C02842,Duka,Western,2024-12,True,0
+C02843,Supermarket,Nyanza,2024-10,True,30
+C02844,Duka,Coast,2023-12,False,0
+C02845,HoReCa,Western,2022-05,True,14
+C02846,Duka,Coast,2025-08,False,0
+C02847,HoReCa,Nairobi,2025-07,False,14
+C02848,Petrol Station,Nairobi,2023-11,True,0
+C02849,Wholesaler,Rift Valley,2024-10,True,30
+C02850,Duka,Western,2025-08,True,0
+C02851,Duka,Central,2022-10,False,0
+C02852,Duka,Nyanza,2025-06,False,0
+C02853,Duka,Nairobi,2025-04,False,0
+C02854,Duka,Rift Valley,2022-12,False,0
+C02855,Wholesaler,Nairobi,2024-01,True,30
+C02856,Duka,Rift Valley,2022-06,False,0
+C02857,Duka,Coast,2022-10,True,0
+C02858,Petrol Station,Nairobi,2025-08,False,0
+C02859,Duka,Rift Valley,2022-08,False,0
+C02860,Petrol Station,Coast,2023-10,True,0
+C02861,Duka,Western,2024-10,True,0
+C02862,Duka,Nairobi,2025-09,True,0
+C02863,Supermarket,Central,2023-06,True,30
+C02864,HoReCa,Coast,2025-09,False,14
+C02865,Petrol Station,Nairobi,2022-11,False,0
+C02866,Duka,Nairobi,2025-12,False,0
+C02867,HoReCa,Nyanza,2022-12,False,14
+C02868,Duka,Coast,2024-04,False,0
+C02869,Duka,Nairobi,2023-09,False,0
+C02870,Duka,Nairobi,2023-11,True,0
+C02871,Duka,Nairobi,2024-06,False,0
+C02872,Duka,Western,2025-09,True,0
+C02873,Duka,Central,2026-02,True,0
+C02874,Wholesaler,Nairobi,2025-06,True,30
+C02875,Duka,Nairobi,2024-04,True,0
+C02876,Duka,Nairobi,2023-01,True,0
+C02877,Duka,Coast,2025-12,False,0
+C02878,Petrol Station,Nyanza,2022-02,True,0
+C02879,Duka,Rift Valley,2024-11,True,0
+C02880,Duka,Western,2022-04,True,0
+C02881,Duka,Coast,2022-01,False,0
+C02882,HoReCa,Rift Valley,2024-03,False,14
+C02883,Duka,Central,2024-11,False,0
+C02884,Supermarket,Nairobi,2022-12,True,30
+C02885,Wholesaler,Nairobi,2025-05,True,30
+C02886,Duka,Nairobi,2022-02,True,0
+C02887,HoReCa,Rift Valley,2023-10,False,14
+C02888,Petrol Station,Western,2025-06,True,0
+C02889,Duka,Rift Valley,2022-01,False,0
+C02890,Duka,Rift Valley,2022-10,False,0
+C02891,Supermarket,Nyanza,2022-08,False,30
+C02892,Duka,Western,2024-06,True,0
+C02893,HoReCa,Coast,2023-08,False,14
+C02894,Petrol Station,Rift Valley,2023-04,True,0
+C02895,Duka,Rift Valley,2026-02,False,0
+C02896,Wholesaler,Nairobi,2023-04,True,30
+C02897,Duka,Western,2022-02,True,0
+C02898,Wholesaler,Coast,2023-03,True,30
+C02899,Duka,Nairobi,2022-12,True,0
+C02900,Duka,Nairobi,2022-11,False,0
+C02901,Petrol Station,Central,2023-03,False,0
+C02902,Duka,Nyanza,2025-04,False,0
+C02903,HoReCa,Coast,2023-04,True,14
+C02904,Duka,Nyanza,2024-03,False,0
+C02905,HoReCa,Nairobi,2022-02,True,14
+C02906,Duka,Central,2022-01,False,0
+C02907,Duka,Nairobi,2023-01,False,0
+C02908,Duka,Coast,2022-08,False,0
+C02909,HoReCa,Rift Valley,2023-01,False,14
+C02910,Duka,Nairobi,2022-03,False,0
+C02911,Duka,Nyanza,2022-08,True,0
+C02912,HoReCa,Rift Valley,2023-01,True,14
+C02913,Wholesaler,Nyanza,2022-01,True,30
+C02914,Duka,Western,2023-10,True,0
+C02915,Supermarket,Nairobi,2025-09,True,30
+C02916,Duka,Rift Valley,2023-02,False,0
+C02917,Petrol Station,Nairobi,2022-09,False,0
+C02918,HoReCa,Nairobi,2024-02,False,14
+C02919,Duka,Nairobi,2023-11,False,0
+C02920,Supermarket,Western,2023-03,True,30
+C02921,Duka,Coast,2024-08,False,0
+C02922,Duka,Coast,2023-11,False,0
+C02923,HoReCa,Nyanza,2024-09,True,14
+C02924,Wholesaler,Rift Valley,2024-06,True,30
+C02925,Duka,Nairobi,2022-02,False,0
+C02926,HoReCa,Rift Valley,2026-03,False,14
+C02927,Petrol Station,Central,2025-11,False,0
+C02928,Duka,Western,2022-02,True,0
+C02929,Duka,Rift Valley,2024-01,True,0
+C02930,Duka,Nairobi,2022-03,True,0
+C02931,HoReCa,Rift Valley,2022-02,False,14
+C02932,Duka,Nairobi,2022-07,False,0
+C02933,HoReCa,Nairobi,2024-09,False,14
+C02934,Duka,Nairobi,2022-06,False,0
+C02935,Duka,Coast,2022-05,False,0
+C02936,Petrol Station,Nairobi,2023-12,True,0
+C02937,HoReCa,Coast,2023-11,False,14
+C02938,Duka,Nyanza,2022-01,False,0
+C02939,Duka,Coast,2022-06,False,0
+C02940,Wholesaler,Western,2023-05,True,30
+C02941,Wholesaler,Rift Valley,2023-07,False,30
+C02942,HoReCa,Nyanza,2025-06,False,14
+C02943,Wholesaler,Coast,2025-10,True,30
+C02944,Duka,Western,2023-02,False,0
+C02945,Duka,Nairobi,2024-06,False,0
+C02946,Duka,Central,2023-07,False,0
+C02947,Duka,Coast,2022-07,True,0
+C02948,Duka,Central,2025-05,False,0
+C02949,Wholesaler,Nairobi,2023-09,True,30
+C02950,Petrol Station,Rift Valley,2022-09,False,0
+C02951,HoReCa,Nairobi,2022-08,False,14
+C02952,Duka,Central,2025-11,True,0
+C02953,HoReCa,Nairobi,2023-03,True,14
+C02954,Duka,Rift Valley,2023-09,False,0
+C02955,Petrol Station,Nairobi,2024-05,False,0
+C02956,Duka,Rift Valley,2022-11,True,0
+C02957,Supermarket,Western,2023-04,False,30
+C02958,Duka,Nairobi,2023-02,False,0
+C02959,Supermarket,Nairobi,2022-08,True,30
+C02960,Petrol Station,Nairobi,2024-07,False,0
+C02961,HoReCa,Coast,2024-04,True,14
+C02962,Duka,Nairobi,2024-10,True,0
+C02963,Duka,Coast,2022-02,False,0
+C02964,Wholesaler,Nairobi,2023-09,True,30
+C02965,HoReCa,Rift Valley,2024-12,False,14
+C02966,Petrol Station,Western,2024-09,False,0
+C02967,HoReCa,Nairobi,2024-08,False,14
+C02968,Petrol Station,Nairobi,2024-03,True,0
+C02969,HoReCa,Western,2022-03,False,14
+C02970,Duka,Nairobi,2022-12,True,0
+C02971,Petrol Station,Nairobi,2024-01,False,0
+C02972,Duka,Western,2025-01,False,0
+C02973,Duka,Nairobi,2022-04,False,0
+C02974,Wholesaler,Central,2025-10,True,30
+C02975,Wholesaler,Nairobi,2023-01,True,30
+C02976,Wholesaler,Central,2023-11,True,30
+C02977,Supermarket,Coast,2024-12,True,30
+C02978,Duka,Nairobi,2023-11,False,0
+C02979,HoReCa,Central,2025-08,False,14
+C02980,HoReCa,Central,2024-10,True,14
+C02981,Duka,Central,2026-02,True,0
+C02982,Wholesaler,Central,2024-09,True,30
+C02983,Duka,Coast,2025-08,False,0
+C02984,Supermarket,Nyanza,2022-09,True,30
+C02985,Duka,Nyanza,2022-10,False,0
+C02986,Duka,Western,2022-07,False,0
+C02987,Duka,Nairobi,2026-02,False,0
+C02988,Duka,Nyanza,2024-03,True,0
+C02989,HoReCa,Central,2022-08,True,14
+C02990,Duka,Coast,2025-04,True,0
+C02991,Duka,Nairobi,2023-05,False,0
+C02992,Duka,Coast,2022-02,True,0
+C02993,Wholesaler,Nairobi,2022-12,True,30
+C02994,Petrol Station,Nyanza,2022-03,False,0
+C02995,Supermarket,Coast,2022-02,False,30
+C02996,Petrol Station,Rift Valley,2024-08,False,0
+C02997,Wholesaler,Western,2024-10,True,30
+C02998,HoReCa,Nairobi,2023-07,True,14
+C02999,Supermarket,Central,2026-02,False,30
+C03000,HoReCa,Central,2024-10,True,14
+C03001,Duka,Coast,2023-07,True,0
+C03002,Supermarket,Rift Valley,2025-09,True,30
+C03003,Duka,Nairobi,2022-07,False,0
+C03004,Duka,Rift Valley,2022-08,True,0
+C03005,Supermarket,Nairobi,2022-04,True,30
+C03006,Duka,Coast,2023-07,False,0
+C03007,Petrol Station,Central,2025-06,False,0
+C03008,Duka,Nyanza,2023-05,False,0
+C03009,Duka,Rift Valley,2023-02,False,0
+C03010,Duka,Rift Valley,2022-04,False,0
+C03011,Duka,Coast,2023-11,False,0
+C03012,Duka,Nairobi,2022-04,False,0
+C03013,Duka,Nairobi,2023-03,True,0
+C03014,Duka,Nairobi,2025-04,False,0
+C03015,Supermarket,Nyanza,2023-06,False,30
+C03016,Duka,Nairobi,2022-11,False,0
+C03017,Duka,Nairobi,2024-01,False,0
+C03018,Wholesaler,Nairobi,2025-05,True,30
+C03019,HoReCa,Coast,2023-12,True,14
+C03020,Supermarket,Central,2023-05,True,30
+C03021,Duka,Nairobi,2023-06,False,0
+C03022,Duka,Nairobi,2025-12,False,0
+C03023,Duka,Nyanza,2025-07,True,0
+C03024,Petrol Station,Rift Valley,2023-09,False,0
+C03025,Duka,Central,2023-09,False,0
+C03026,HoReCa,Nairobi,2023-07,False,14
+C03027,Duka,Nairobi,2022-04,False,0
+C03028,HoReCa,Central,2022-05,True,14
+C03029,Petrol Station,Coast,2022-09,False,0
+C03030,Wholesaler,Nairobi,2026-01,True,30
+C03031,HoReCa,Nairobi,2022-07,False,14
+C03032,HoReCa,Rift Valley,2022-07,False,14
+C03033,Duka,Rift Valley,2022-02,True,0
+C03034,Duka,Central,2024-12,True,0
+C03035,Petrol Station,Rift Valley,2023-10,False,0
+C03036,HoReCa,Nyanza,2025-02,True,14
+C03037,HoReCa,Western,2024-08,False,14
+C03038,Duka,Western,2022-07,False,0
+C03039,HoReCa,Coast,2024-04,True,14
+C03040,HoReCa,Nairobi,2022-04,True,14
+C03041,HoReCa,Nairobi,2024-12,False,14
+C03042,Petrol Station,Nairobi,2022-05,True,0
+C03043,Petrol Station,Nairobi,2023-05,False,0
+C03044,Petrol Station,Western,2022-06,True,0
+C03045,Duka,Coast,2022-08,False,0
+C03046,Duka,Central,2024-02,True,0
+C03047,Duka,Coast,2023-09,False,0
+C03048,Duka,Nyanza,2022-11,True,0
+C03049,Wholesaler,Nairobi,2025-12,True,30
+C03050,Duka,Nairobi,2023-06,False,0
+C03051,Duka,Nairobi,2024-03,True,0
+C03052,Petrol Station,Nyanza,2023-01,True,0
+C03053,Duka,Nairobi,2024-01,False,0
+C03054,HoReCa,Central,2022-02,False,14
+C03055,Supermarket,Nairobi,2022-07,True,30
+C03056,Duka,Central,2023-10,False,0
+C03057,Duka,Nairobi,2023-09,True,0
+C03058,HoReCa,Nairobi,2023-12,True,14
+C03059,Duka,Rift Valley,2025-08,False,0
+C03060,Petrol Station,Western,2023-06,True,0
+C03061,HoReCa,Coast,2023-03,False,14
+C03062,Supermarket,Nairobi,2024-09,False,30
+C03063,HoReCa,Central,2022-03,False,14
+C03064,Duka,Nairobi,2024-01,True,0
+C03065,Supermarket,Nyanza,2023-01,True,30
+C03066,HoReCa,Nairobi,2024-01,True,14
+C03067,Duka,Nairobi,2026-01,True,0
+C03068,Duka,Rift Valley,2023-01,False,0
+C03069,Petrol Station,Nairobi,2025-03,False,0
+C03070,Duka,Coast,2022-09,False,0
+C03071,Duka,Central,2023-09,True,0
+C03072,Duka,Rift Valley,2022-02,False,0
+C03073,Duka,Nairobi,2022-09,False,0
+C03074,Duka,Nairobi,2023-04,False,0
+C03075,Petrol Station,Rift Valley,2024-04,False,0
+C03076,Duka,Western,2025-10,True,0
+C03077,Duka,Nyanza,2023-07,False,0
+C03078,Duka,Central,2023-08,False,0
+C03079,Duka,Rift Valley,2023-06,True,0
+C03080,Duka,Western,2026-03,False,0
+C03081,Duka,Western,2024-05,False,0
+C03082,Supermarket,Coast,2024-06,True,30
+C03083,Petrol Station,Nairobi,2022-07,True,0
+C03084,Duka,Western,2022-11,True,0
+C03085,Supermarket,Nairobi,2023-02,True,30
+C03086,Duka,Rift Valley,2024-12,False,0
+C03087,Wholesaler,Nairobi,2026-01,True,30
+C03088,Petrol Station,Central,2023-09,False,0
+C03089,Duka,Rift Valley,2022-02,False,0
+C03090,Wholesaler,Central,2023-12,True,30
+C03091,HoReCa,Nairobi,2023-12,True,14
+C03092,Supermarket,Central,2022-04,True,30
+C03093,Duka,Nyanza,2022-04,False,0
+C03094,Duka,Nairobi,2023-05,True,0
+C03095,Supermarket,Western,2022-11,True,30
+C03096,Supermarket,Central,2023-01,True,30
+C03097,Duka,Nairobi,2025-04,True,0
+C03098,Duka,Rift Valley,2025-11,False,0
+C03099,Duka,Nairobi,2026-01,True,0
+C03100,Duka,Nyanza,2024-05,True,0
+C03101,Supermarket,Nairobi,2023-04,True,30
+C03102,Petrol Station,Rift Valley,2024-08,False,0
+C03103,HoReCa,Nairobi,2025-01,True,14
+C03104,Duka,Western,2022-04,False,0
+C03105,HoReCa,Nairobi,2025-09,False,14
+C03106,Duka,Coast,2024-07,False,0
+C03107,Duka,Nairobi,2024-09,False,0
+C03108,Duka,Rift Valley,2023-08,False,0
+C03109,Duka,Central,2024-05,False,0
+C03110,Duka,Rift Valley,2023-11,False,0
+C03111,HoReCa,Nyanza,2023-06,False,14
+C03112,Supermarket,Nairobi,2024-01,True,30
+C03113,Petrol Station,Nairobi,2025-04,True,0
+C03114,Wholesaler,Coast,2024-04,True,30
+C03115,Petrol Station,Nairobi,2024-01,False,0
+C03116,Supermarket,Western,2023-05,False,30
+C03117,Supermarket,Rift Valley,2026-02,True,30
+C03118,Petrol Station,Western,2022-01,False,0
+C03119,HoReCa,Nairobi,2022-05,False,14
+C03120,Duka,Nyanza,2022-11,False,0
+C03121,Duka,Nyanza,2022-08,True,0
+C03122,HoReCa,Central,2022-03,True,14
+C03123,Supermarket,Nairobi,2024-07,True,30
+C03124,Duka,Nairobi,2022-03,False,0
+C03125,Petrol Station,Nairobi,2026-03,True,0
+C03126,Supermarket,Nairobi,2023-08,True,30
+C03127,Duka,Coast,2022-09,False,0
+C03128,Wholesaler,Western,2024-02,False,30
+C03129,HoReCa,Central,2026-01,False,14
+C03130,Duka,Central,2022-03,True,0
+C03131,HoReCa,Nairobi,2023-07,False,14
+C03132,Duka,Western,2023-10,False,0
+C03133,HoReCa,Central,2024-10,False,14
+C03134,Duka,Central,2024-03,True,0
+C03135,Duka,Nairobi,2022-06,False,0
+C03136,Duka,Western,2022-11,True,0
+C03137,Duka,Nairobi,2023-07,False,0
+C03138,Duka,Nairobi,2024-12,True,0
+C03139,Duka,Central,2024-04,True,0
+C03140,Supermarket,Nairobi,2022-02,True,30
+C03141,HoReCa,Coast,2025-02,False,14
+C03142,Duka,Western,2025-02,True,0
+C03143,Supermarket,Nyanza,2026-01,True,30
+C03144,Supermarket,Nairobi,2023-03,True,30
+C03145,HoReCa,Rift Valley,2025-08,False,14
+C03146,Supermarket,Nairobi,2025-10,True,30
+C03147,Duka,Nairobi,2024-10,False,0
+C03148,Wholesaler,Nairobi,2023-11,True,30
+C03149,Duka,Central,2024-03,True,0
+C03150,Petrol Station,Nyanza,2025-04,False,0
+C03151,Petrol Station,Western,2023-09,False,0
+C03152,Duka,Central,2024-10,False,0
+C03153,HoReCa,Rift Valley,2022-11,False,14
+C03154,Duka,Coast,2022-01,False,0
+C03155,Wholesaler,Nairobi,2025-03,True,30
+C03156,Petrol Station,Central,2024-01,False,0
+C03157,Wholesaler,Coast,2022-08,True,30
+C03158,Supermarket,Central,2023-08,True,30
+C03159,Duka,Nairobi,2023-05,False,0
+C03160,Petrol Station,Nairobi,2023-11,False,0
+C03161,Duka,Rift Valley,2023-09,True,0
+C03162,Duka,Western,2023-05,False,0
+C03163,Supermarket,Nairobi,2025-11,True,30
+C03164,HoReCa,Nairobi,2024-10,False,14
+C03165,Duka,Nyanza,2023-06,False,0
+C03166,Duka,Western,2024-10,False,0
+C03167,Supermarket,Nairobi,2025-02,False,30
+C03168,Duka,Coast,2024-01,False,0
+C03169,Supermarket,Nairobi,2025-06,True,30
+C03170,Wholesaler,Nairobi,2025-04,True,30
+C03171,Duka,Western,2025-10,False,0
+C03172,Duka,Coast,2024-04,False,0
+C03173,Wholesaler,Rift Valley,2025-12,False,30
+C03174,Duka,Western,2022-10,False,0
+C03175,Duka,Rift Valley,2025-11,True,0
+C03176,Petrol Station,Central,2023-10,False,0
+C03177,Wholesaler,Coast,2022-12,True,30
+C03178,Duka,Nairobi,2024-06,False,0
+C03179,Duka,Coast,2025-05,False,0
+C03180,Supermarket,Central,2023-08,True,30
+C03181,Supermarket,Nyanza,2023-05,True,30
+C03182,Duka,Nyanza,2023-01,True,0
+C03183,Duka,Rift Valley,2022-10,False,0
+C03184,Duka,Nairobi,2023-03,True,0
+C03185,Petrol Station,Nyanza,2022-11,False,0
+C03186,HoReCa,Rift Valley,2025-12,False,14
+C03187,Petrol Station,Nairobi,2025-10,True,0
+C03188,Wholesaler,Nairobi,2022-11,True,30
+C03189,HoReCa,Coast,2024-03,False,14
+C03190,Petrol Station,Coast,2022-03,False,0
+C03191,HoReCa,Nairobi,2023-02,False,14
+C03192,Duka,Nyanza,2022-10,False,0
+C03193,Duka,Nairobi,2025-01,True,0
+C03194,HoReCa,Coast,2024-12,True,14
+C03195,Petrol Station,Nairobi,2022-12,False,0
+C03196,Duka,Nyanza,2022-04,False,0
+C03197,Wholesaler,Nairobi,2024-12,True,30
+C03198,Duka,Coast,2024-12,False,0
+C03199,Wholesaler,Rift Valley,2022-02,True,30
+C03200,Duka,Nairobi,2023-10,False,0
+C03201,Duka,Rift Valley,2023-08,True,0
+C03202,HoReCa,Coast,2024-02,True,14
+C03203,Wholesaler,Central,2023-04,True,30
+C03204,HoReCa,Nyanza,2025-08,False,14
+C03205,Duka,Rift Valley,2024-04,False,0
+C03206,HoReCa,Nairobi,2022-11,False,14
+C03207,Duka,Rift Valley,2026-01,False,0
+C03208,Duka,Western,2026-02,True,0
+C03209,Duka,Rift Valley,2022-01,False,0
+C03210,Duka,Nyanza,2025-10,False,0
+C03211,Wholesaler,Central,2024-01,True,30
+C03212,Petrol Station,Western,2023-07,True,0
+C03213,Supermarket,Coast,2023-08,True,30
+C03214,Duka,Nairobi,2025-03,False,0
+C03215,Duka,Nairobi,2024-02,False,0
+C03216,HoReCa,Rift Valley,2025-07,False,14
+C03217,Duka,Nyanza,2023-05,False,0
+C03218,HoReCa,Nairobi,2022-03,True,14
+C03219,Duka,Coast,2025-11,False,0
+C03220,HoReCa,Western,2025-11,True,14
+C03221,Wholesaler,Western,2024-02,True,30
+C03222,Duka,Coast,2024-06,False,0
+C03223,Duka,Coast,2024-04,False,0
+C03224,Supermarket,Nairobi,2024-10,True,30
+C03225,Wholesaler,Coast,2024-01,True,30
+C03226,Duka,Rift Valley,2022-05,False,0
+C03227,Duka,Coast,2022-06,False,0
+C03228,HoReCa,Nairobi,2022-02,True,14
+C03229,Duka,Nyanza,2024-06,False,0
+C03230,HoReCa,Nairobi,2022-03,True,14
+C03231,Duka,Nairobi,2023-03,False,0
+C03232,Wholesaler,Coast,2022-08,False,30
+C03233,Petrol Station,Nairobi,2025-07,False,0
+C03234,Duka,Rift Valley,2024-01,False,0
+C03235,Petrol Station,Nyanza,2023-06,False,0
+C03236,Petrol Station,Nairobi,2022-11,False,0
+C03237,Supermarket,Nairobi,2025-04,True,30
+C03238,Duka,Central,2025-10,True,0
+C03239,HoReCa,Rift Valley,2025-12,False,14
+C03240,Supermarket,Western,2024-09,True,30
+C03241,Duka,Nairobi,2022-10,False,0
+C03242,Duka,Central,2025-09,False,0
+C03243,Duka,Central,2022-05,True,0
+C03244,Duka,Nyanza,2025-04,True,0
+C03245,Duka,Coast,2023-07,False,0
+C03246,Duka,Nyanza,2025-09,False,0
+C03247,Wholesaler,Central,2026-03,True,30
+C03248,Wholesaler,Nyanza,2023-07,True,30
+C03249,Duka,Nairobi,2022-11,False,0
+C03250,Wholesaler,Nyanza,2025-12,True,30
+C03251,Duka,Central,2022-04,False,0
+C03252,Duka,Rift Valley,2023-08,True,0
+C03253,Duka,Nairobi,2023-11,False,0
+C03254,Duka,Nairobi,2024-03,True,0
+C03255,Duka,Rift Valley,2025-10,False,0
+C03256,Supermarket,Rift Valley,2022-12,True,30
+C03257,Duka,Central,2023-10,False,0
+C03258,Supermarket,Western,2025-03,False,30
+C03259,HoReCa,Coast,2025-11,False,14
+C03260,Petrol Station,Rift Valley,2025-09,True,0
+C03261,Duka,Nairobi,2022-03,False,0
+C03262,Wholesaler,Rift Valley,2023-12,True,30
+C03263,Duka,Nairobi,2023-12,True,0
+C03264,Supermarket,Nyanza,2025-10,True,30
+C03265,Duka,Nairobi,2024-06,False,0
+C03266,Duka,Rift Valley,2022-12,False,0
+C03267,Petrol Station,Rift Valley,2024-05,False,0
+C03268,Duka,Rift Valley,2023-11,False,0
+C03269,Supermarket,Western,2023-05,True,30
+C03270,HoReCa,Nairobi,2023-04,True,14
+C03271,Supermarket,Rift Valley,2025-01,False,30
+C03272,HoReCa,Central,2023-10,False,14
+C03273,Duka,Nyanza,2022-03,True,0
+C03274,Duka,Rift Valley,2025-04,False,0
+C03275,Duka,Coast,2025-05,False,0
+C03276,Wholesaler,Nairobi,2022-12,True,30
+C03277,Wholesaler,Nairobi,2025-04,True,30
+C03278,Duka,Rift Valley,2022-10,False,0
+C03279,Duka,Nairobi,2025-10,False,0
+C03280,Supermarket,Nairobi,2022-04,True,30
+C03281,Petrol Station,Coast,2022-02,False,0
+C03282,Duka,Nairobi,2024-03,False,0
+C03283,Duka,Rift Valley,2022-07,False,0
+C03284,HoReCa,Nairobi,2022-04,False,14
+C03285,HoReCa,Rift Valley,2022-11,False,14
+C03286,Wholesaler,Nairobi,2022-08,True,30
+C03287,HoReCa,Nyanza,2025-05,True,14
+C03288,Duka,Western,2023-11,False,0
+C03289,HoReCa,Rift Valley,2025-08,True,14
+C03290,Duka,Western,2025-11,True,0
+C03291,Duka,Coast,2024-09,True,0
+C03292,Supermarket,Nairobi,2022-08,True,30
+C03293,HoReCa,Rift Valley,2024-02,True,14
+C03294,Petrol Station,Nairobi,2024-02,True,0
+C03295,Duka,Nairobi,2023-04,False,0
+C03296,Supermarket,Western,2024-03,True,30
+C03297,Petrol Station,Nairobi,2023-04,False,0
+C03298,Petrol Station,Nairobi,2023-08,False,0
+C03299,Supermarket,Nyanza,2025-04,True,30
+C03300,Duka,Nairobi,2025-03,True,0
+C03301,Duka,Central,2022-05,True,0
+C03302,Duka,Coast,2024-12,False,0
+C03303,Duka,Nyanza,2024-01,True,0
+C03304,Duka,Nairobi,2023-10,True,0
+C03305,Supermarket,Rift Valley,2025-03,True,30
+C03306,Duka,Rift Valley,2023-03,False,0
+C03307,Duka,Coast,2024-08,False,0
+C03308,Supermarket,Nyanza,2022-08,True,30
+C03309,Duka,Central,2025-12,False,0
+C03310,Petrol Station,Coast,2023-04,True,0
+C03311,Duka,Central,2023-09,False,0
+C03312,Duka,Central,2024-08,False,0
+C03313,HoReCa,Central,2022-08,False,14
+C03314,Duka,Nairobi,2025-04,False,0
+C03315,Duka,Rift Valley,2022-09,False,0
+C03316,HoReCa,Western,2025-07,False,14
+C03317,Petrol Station,Nairobi,2024-08,False,0
+C03318,Duka,Coast,2023-11,True,0
+C03319,Petrol Station,Nairobi,2024-06,False,0
+C03320,Duka,Nairobi,2024-11,False,0
+C03321,HoReCa,Nairobi,2023-10,True,14
+C03322,HoReCa,Coast,2023-12,False,14
+C03323,Duka,Western,2024-08,True,0
+C03324,Supermarket,Nairobi,2025-08,True,30
+C03325,Duka,Rift Valley,2024-08,False,0
+C03326,Supermarket,Rift Valley,2022-12,True,30
+C03327,Duka,Coast,2023-10,False,0
+C03328,Duka,Nairobi,2025-09,False,0
+C03329,Duka,Rift Valley,2025-09,False,0
+C03330,Duka,Rift Valley,2025-10,True,0
+C03331,HoReCa,Central,2022-02,False,14
+C03332,Duka,Rift Valley,2024-07,True,0
+C03333,Duka,Coast,2025-04,True,0
+C03334,Duka,Western,2023-04,False,0
+C03335,Supermarket,Rift Valley,2025-07,True,30
+C03336,Wholesaler,Nairobi,2024-05,True,30
+C03337,Duka,Nairobi,2024-01,False,0
+C03338,Duka,Rift Valley,2023-09,True,0
+C03339,Supermarket,Rift Valley,2023-12,True,30
+C03340,Wholesaler,Nyanza,2025-10,False,30
+C03341,Duka,Western,2024-04,False,0
+C03342,Duka,Nairobi,2024-07,True,0
+C03343,Supermarket,Nyanza,2025-05,True,30
+C03344,Duka,Central,2025-04,False,0
+C03345,HoReCa,Central,2024-05,True,14
+C03346,Wholesaler,Nairobi,2022-06,True,30
+C03347,Supermarket,Central,2023-03,True,30
+C03348,Supermarket,Nairobi,2022-11,True,30
+C03349,Petrol Station,Coast,2025-01,True,0
+C03350,Duka,Nairobi,2025-12,False,0
+C03351,HoReCa,Central,2022-08,False,14
+C03352,Duka,Rift Valley,2024-06,True,0
+C03353,Duka,Nairobi,2025-02,False,0
+C03354,HoReCa,Rift Valley,2022-12,True,14
+C03355,HoReCa,Coast,2025-11,False,14
+C03356,Supermarket,Rift Valley,2025-04,True,30
+C03357,Petrol Station,Central,2023-12,True,0
+C03358,Duka,Nairobi,2023-05,False,0
+C03359,Duka,Nairobi,2025-12,False,0
+C03360,Supermarket,Nairobi,2022-08,True,30
+C03361,Duka,Nairobi,2022-10,False,0
+C03362,Duka,Central,2024-05,False,0
+C03363,HoReCa,Western,2022-01,False,14
+C03364,HoReCa,Coast,2024-01,False,14
+C03365,Supermarket,Central,2025-11,True,30
+C03366,Duka,Central,2024-08,False,0
+C03367,Duka,Nairobi,2022-11,True,0
+C03368,HoReCa,Coast,2024-01,False,14
+C03369,Petrol Station,Central,2022-03,False,0
+C03370,Wholesaler,Nairobi,2022-12,True,30
+C03371,Duka,Nairobi,2023-01,True,0
+C03372,Duka,Western,2026-02,False,0
+C03373,Duka,Rift Valley,2024-04,True,0
+C03374,Duka,Nairobi,2024-07,False,0
+C03375,Petrol Station,Rift Valley,2022-09,True,0
+C03376,Duka,Nairobi,2026-01,False,0
+C03377,Duka,Nyanza,2025-01,False,0
+C03378,Duka,Nairobi,2024-01,True,0
+C03379,Supermarket,Central,2025-07,True,30
+C03380,Supermarket,Nyanza,2022-07,True,30
+C03381,Duka,Nairobi,2023-11,True,0
+C03382,Duka,Nyanza,2023-08,False,0
+C03383,Duka,Nyanza,2024-11,False,0
+C03384,Supermarket,Central,2025-05,True,30
+C03385,Duka,Central,2024-01,True,0
+C03386,Petrol Station,Nairobi,2025-02,True,0
+C03387,Petrol Station,Nairobi,2025-12,True,0
+C03388,Duka,Central,2022-10,True,0
+C03389,HoReCa,Central,2022-01,False,14
+C03390,Duka,Nairobi,2024-10,False,0
+C03391,Duka,Nyanza,2025-11,False,0
+C03392,Duka,Western,2023-09,False,0
+C03393,Supermarket,Nairobi,2025-05,True,30
+C03394,Duka,Western,2023-09,True,0
+C03395,HoReCa,Nairobi,2022-10,True,14
+C03396,HoReCa,Nairobi,2024-01,True,14
+C03397,Petrol Station,Western,2025-12,False,0
+C03398,Petrol Station,Western,2024-10,False,0
+C03399,Duka,Central,2023-07,False,0
+C03400,HoReCa,Rift Valley,2023-05,False,14
+C03401,Wholesaler,Nyanza,2022-12,True,30
+C03402,Duka,Rift Valley,2024-05,True,0
+C03403,Supermarket,Coast,2025-06,True,30
+C03404,Duka,Nairobi,2025-05,False,0
+C03405,Duka,Western,2024-02,False,0
+C03406,HoReCa,Central,2024-11,True,14
+C03407,Wholesaler,Central,2025-11,True,30
+C03408,Duka,Western,2024-04,False,0
+C03409,Wholesaler,Coast,2023-01,True,30
+C03410,Duka,Nairobi,2025-06,False,0
+C03411,Supermarket,Nairobi,2022-10,True,30
+C03412,Duka,Nyanza,2024-02,True,0
+C03413,Duka,Nairobi,2023-10,False,0
+C03414,HoReCa,Central,2022-09,False,14
+C03415,Petrol Station,Nairobi,2024-09,False,0
+C03416,Duka,Nairobi,2025-04,False,0
+C03417,Duka,Nairobi,2022-11,True,0
+C03418,Duka,Nairobi,2024-04,False,0
+C03419,Supermarket,Nairobi,2025-05,True,30
+C03420,HoReCa,Nairobi,2022-12,True,14
+C03421,Duka,Western,2024-07,True,0
+C03422,Petrol Station,Central,2022-05,True,0
+C03423,Wholesaler,Nairobi,2025-01,True,30
+C03424,Petrol Station,Nyanza,2024-09,False,0
+C03425,Petrol Station,Coast,2022-09,False,0
+C03426,Wholesaler,Coast,2024-05,False,30
+C03427,Duka,Nairobi,2023-04,True,0
+C03428,Wholesaler,Nairobi,2022-10,False,30
+C03429,Duka,Rift Valley,2022-12,False,0
+C03430,Supermarket,Western,2023-11,True,30
+C03431,Duka,Rift Valley,2024-06,False,0
+C03432,Duka,Central,2024-10,False,0
+C03433,Duka,Coast,2025-10,False,0
+C03434,Duka,Western,2026-02,False,0
+C03435,Petrol Station,Western,2024-11,True,0
+C03436,Duka,Central,2023-03,False,0
+C03437,Duka,Nairobi,2024-02,False,0
+C03438,Duka,Western,2023-10,False,0
+C03439,HoReCa,Nairobi,2025-09,True,14
+C03440,Petrol Station,Nairobi,2022-11,False,0
+C03441,Duka,Nairobi,2022-03,False,0
+C03442,Duka,Nairobi,2023-04,False,0
+C03443,Duka,Nyanza,2024-05,True,0
+C03444,Petrol Station,Nyanza,2023-12,False,0
+C03445,Duka,Nairobi,2022-03,False,0
+C03446,Duka,Nairobi,2026-01,False,0
+C03447,Duka,Central,2024-08,True,0
+C03448,Wholesaler,Nairobi,2024-08,True,30
+C03449,Duka,Nairobi,2024-05,False,0
+C03450,HoReCa,Nairobi,2025-10,False,14
+C03451,HoReCa,Nairobi,2024-07,True,14
+C03452,HoReCa,Nairobi,2024-01,True,14
+C03453,Duka,Coast,2022-09,False,0
+C03454,Wholesaler,Nairobi,2023-04,False,30
+C03455,Petrol Station,Nairobi,2022-10,False,0
+C03456,HoReCa,Rift Valley,2023-01,True,14
+C03457,Duka,Rift Valley,2025-07,True,0
+C03458,Duka,Rift Valley,2024-10,True,0
+C03459,Supermarket,Central,2023-01,True,30
+C03460,Duka,Nairobi,2022-01,True,0
+C03461,Duka,Nairobi,2022-10,False,0
+C03462,Duka,Rift Valley,2022-10,True,0
+C03463,Duka,Western,2023-06,False,0
+C03464,Wholesaler,Nairobi,2023-02,True,30
+C03465,Duka,Coast,2022-07,False,0
+C03466,Duka,Coast,2023-06,False,0
+C03467,Duka,Nairobi,2022-06,True,0
+C03468,HoReCa,Central,2025-04,False,14
+C03469,Duka,Coast,2025-01,False,0
+C03470,Duka,Central,2024-02,False,0
+C03471,HoReCa,Nyanza,2023-03,True,14
+C03472,HoReCa,Nairobi,2026-03,False,14
+C03473,Duka,Nairobi,2024-07,False,0
+C03474,Duka,Western,2024-08,False,0
+C03475,Petrol Station,Central,2025-11,False,0
+C03476,Duka,Central,2024-12,False,0
+C03477,HoReCa,Nairobi,2023-02,True,14
+C03478,Supermarket,Nairobi,2024-03,True,30
+C03479,HoReCa,Western,2024-08,True,14
+C03480,Duka,Rift Valley,2022-09,False,0
+C03481,Duka,Nairobi,2025-07,False,0
+C03482,Duka,Coast,2024-07,True,0
+C03483,Wholesaler,Nairobi,2025-12,False,30
+C03484,Petrol Station,Western,2022-12,False,0
+C03485,Duka,Central,2024-12,False,0
+C03486,Duka,Coast,2024-04,False,0
+C03487,HoReCa,Nyanza,2022-08,False,14
+C03488,Wholesaler,Nairobi,2023-05,True,30
+C03489,HoReCa,Coast,2023-12,True,14
+C03490,Duka,Nairobi,2023-07,True,0
+C03491,HoReCa,Nairobi,2025-09,True,14
+C03492,Petrol Station,Nairobi,2025-04,False,0
+C03493,Wholesaler,Central,2024-09,False,30
+C03494,Duka,Western,2025-01,True,0
+C03495,Supermarket,Central,2022-01,True,30
+C03496,Duka,Rift Valley,2022-02,False,0
+C03497,Petrol Station,Nairobi,2023-09,False,0
+C03498,Supermarket,Coast,2023-02,True,30
+C03499,Duka,Central,2024-02,True,0
+C03500,Duka,Nairobi,2024-01,False,0
+C03501,Duka,Rift Valley,2026-02,False,0
+C03502,Petrol Station,Rift Valley,2024-12,False,0
+C03503,Wholesaler,Nairobi,2022-06,True,30
+C03504,HoReCa,Nairobi,2022-07,True,14
+C03505,Wholesaler,Rift Valley,2024-08,True,30
+C03506,Duka,Rift Valley,2024-12,False,0
+C03507,Wholesaler,Coast,2022-09,True,30
+C03508,Duka,Nairobi,2023-10,True,0
+C03509,Duka,Central,2024-09,True,0
+C03510,Duka,Rift Valley,2023-11,False,0
+C03511,Supermarket,Rift Valley,2022-04,True,30
+C03512,Supermarket,Central,2024-03,True,30
+C03513,Petrol Station,Coast,2025-10,False,0
+C03514,Duka,Nairobi,2022-08,False,0
+C03515,HoReCa,Central,2025-05,True,14
+C03516,Duka,Western,2023-08,False,0
+C03517,HoReCa,Nairobi,2023-06,True,14
+C03518,Wholesaler,Coast,2025-07,True,30
+C03519,Duka,Nairobi,2022-10,True,0
+C03520,Duka,Nairobi,2022-04,True,0
+C03521,Duka,Nairobi,2022-03,False,0
+C03522,Supermarket,Western,2023-11,True,30
+C03523,HoReCa,Coast,2023-01,False,14
+C03524,Duka,Coast,2024-12,False,0
+C03525,Duka,Nyanza,2025-07,False,0
+C03526,HoReCa,Rift Valley,2022-07,True,14
+C03527,Duka,Central,2023-05,False,0
+C03528,Wholesaler,Nairobi,2023-02,True,30
+C03529,Petrol Station,Central,2025-03,True,0
+C03530,Supermarket,Rift Valley,2024-03,True,30
+C03531,HoReCa,Nairobi,2024-08,False,14
+C03532,Duka,Nairobi,2022-06,False,0
+C03533,Wholesaler,Coast,2026-01,True,30
+C03534,Wholesaler,Central,2024-09,True,30
+C03535,Supermarket,Nairobi,2024-05,True,30
+C03536,Duka,Nairobi,2023-03,True,0
+C03537,Duka,Western,2024-02,False,0
+C03538,Supermarket,Nairobi,2022-02,True,30
+C03539,Duka,Rift Valley,2023-03,False,0
+C03540,Supermarket,Coast,2022-03,True,30
+C03541,Supermarket,Nyanza,2022-06,True,30
+C03542,Petrol Station,Western,2024-02,False,0
+C03543,Petrol Station,Coast,2024-09,False,0
+C03544,Supermarket,Nairobi,2022-03,True,30
+C03545,Petrol Station,Nairobi,2025-06,False,0
+C03546,Wholesaler,Western,2022-05,True,30
+C03547,Supermarket,Nyanza,2023-03,True,30
+C03548,Duka,Rift Valley,2023-06,False,0
+C03549,HoReCa,Central,2025-11,False,14
+C03550,Duka,Central,2022-01,True,0
+C03551,Duka,Western,2023-04,False,0
+C03552,Wholesaler,Coast,2025-10,False,30
+C03553,HoReCa,Nairobi,2022-12,False,14
+C03554,Duka,Coast,2024-07,False,0
+C03555,Petrol Station,Nairobi,2022-12,False,0
+C03556,HoReCa,Nairobi,2025-04,True,14
+C03557,Duka,Central,2024-04,False,0
+C03558,HoReCa,Nairobi,2024-04,True,14
+C03559,Duka,Rift Valley,2022-01,False,0
+C03560,HoReCa,Central,2024-09,True,14
+C03561,Duka,Nairobi,2024-06,False,0
+C03562,Duka,Nyanza,2024-02,True,0
+C03563,Duka,Central,2022-05,False,0
+C03564,Supermarket,Nyanza,2025-10,False,30
+C03565,Supermarket,Nairobi,2024-04,True,30
+C03566,Duka,Western,2022-06,True,0
+C03567,HoReCa,Nairobi,2024-07,True,14
+C03568,Duka,Rift Valley,2025-06,False,0
+C03569,Duka,Western,2025-06,False,0
+C03570,Wholesaler,Central,2025-09,True,30
+C03571,HoReCa,Nyanza,2022-07,False,14
+C03572,Petrol Station,Rift Valley,2025-03,False,0
+C03573,Duka,Nairobi,2023-11,False,0
+C03574,Petrol Station,Nyanza,2024-11,False,0
+C03575,Duka,Central,2026-02,False,0
+C03576,Duka,Nairobi,2025-11,False,0
+C03577,Wholesaler,Central,2022-08,False,30
+C03578,Duka,Nyanza,2025-02,True,0
+C03579,Wholesaler,Western,2022-05,True,30
+C03580,Duka,Rift Valley,2025-07,False,0
+C03581,Petrol Station,Coast,2024-07,False,0
+C03582,HoReCa,Rift Valley,2025-10,True,14
+C03583,Duka,Central,2022-01,False,0
+C03584,Wholesaler,Nyanza,2022-04,True,30
+C03585,Duka,Rift Valley,2026-03,False,0
+C03586,Supermarket,Nyanza,2023-05,True,30
+C03587,HoReCa,Western,2024-12,False,14
+C03588,Supermarket,Coast,2022-09,True,30
+C03589,Duka,Coast,2023-07,False,0
+C03590,Duka,Coast,2025-03,True,0
+C03591,Duka,Nyanza,2026-02,False,0
+C03592,HoReCa,Coast,2022-06,True,14
+C03593,HoReCa,Nairobi,2025-04,False,14
+C03594,Duka,Nyanza,2025-12,False,0
+C03595,Duka,Coast,2024-07,False,0
+C03596,Duka,Central,2024-10,True,0
+C03597,Duka,Nairobi,2025-01,False,0
+C03598,Petrol Station,Nairobi,2022-06,False,0
+C03599,HoReCa,Central,2025-09,False,14
+C03600,Duka,Nairobi,2022-12,True,0
+C03601,Wholesaler,Western,2022-01,True,30
+C03602,Duka,Nairobi,2024-06,False,0
+C03603,Duka,Nairobi,2024-06,True,0
+C03604,Supermarket,Central,2022-12,True,30
+C03605,Duka,Central,2022-10,False,0
+C03606,Supermarket,Nairobi,2024-05,True,30
+C03607,Supermarket,Central,2025-08,True,30
+C03608,Duka,Nairobi,2024-01,True,0
+C03609,Duka,Nairobi,2025-06,False,0
+C03610,Supermarket,Nairobi,2025-07,True,30
+C03611,Wholesaler,Rift Valley,2024-07,True,30
+C03612,Petrol Station,Nyanza,2023-04,False,0
+C03613,Duka,Nairobi,2025-12,True,0
+C03614,Petrol Station,Western,2023-05,False,0
+C03615,Duka,Western,2024-12,False,0
+C03616,HoReCa,Rift Valley,2025-04,True,14
+C03617,Duka,Rift Valley,2023-01,True,0
+C03618,Petrol Station,Western,2022-10,False,0
+C03619,Duka,Nairobi,2024-07,False,0
+C03620,Duka,Nairobi,2023-11,False,0
+C03621,Supermarket,Rift Valley,2024-11,True,30
+C03622,HoReCa,Western,2022-04,False,14
+C03623,HoReCa,Nairobi,2022-02,True,14
+C03624,Petrol Station,Nairobi,2023-09,False,0
+C03625,HoReCa,Rift Valley,2022-05,False,14
+C03626,Petrol Station,Central,2023-09,False,0
+C03627,Duka,Coast,2024-03,False,0
+C03628,Duka,Central,2023-06,False,0
+C03629,Duka,Western,2023-02,True,0
+C03630,HoReCa,Nairobi,2024-05,False,14
+C03631,Duka,Nairobi,2022-04,False,0
+C03632,Supermarket,Coast,2026-01,True,30
+C03633,Duka,Nyanza,2022-08,False,0
+C03634,HoReCa,Nyanza,2022-09,False,14
+C03635,Duka,Nairobi,2022-11,True,0
+C03636,Duka,Nyanza,2023-10,False,0
+C03637,Duka,Central,2023-12,False,0
+C03638,Wholesaler,Nairobi,2024-12,True,30
+C03639,Wholesaler,Central,2024-12,True,30
+C03640,HoReCa,Western,2024-10,False,14
+C03641,Duka,Central,2022-07,False,0
+C03642,Duka,Rift Valley,2022-05,False,0
+C03643,Duka,Coast,2024-01,False,0
+C03644,Duka,Nairobi,2022-02,True,0
+C03645,Wholesaler,Rift Valley,2024-12,True,30
+C03646,HoReCa,Nairobi,2022-04,False,14
+C03647,Duka,Western,2025-07,True,0
+C03648,Duka,Central,2024-02,True,0
+C03649,Petrol Station,Nyanza,2025-04,False,0
+C03650,Petrol Station,Rift Valley,2026-01,True,0
+C03651,Duka,Rift Valley,2024-03,False,0
+C03652,HoReCa,Coast,2024-04,False,14
+C03653,Duka,Western,2024-01,True,0
+C03654,HoReCa,Nairobi,2023-09,False,14
+C03655,Duka,Coast,2022-04,False,0
+C03656,HoReCa,Nairobi,2022-10,False,14
+C03657,Duka,Rift Valley,2025-01,False,0
+C03658,Supermarket,Nairobi,2024-03,True,30
+C03659,Wholesaler,Central,2022-08,True,30
+C03660,HoReCa,Nairobi,2025-08,False,14
+C03661,Duka,Western,2024-08,False,0
+C03662,Supermarket,Coast,2025-10,True,30
+C03663,Duka,Nyanza,2023-08,False,0
+C03664,Duka,Nairobi,2024-09,False,0
+C03665,Supermarket,Rift Valley,2023-11,True,30
+C03666,Duka,Rift Valley,2023-10,False,0
+C03667,Supermarket,Nairobi,2022-07,True,30
+C03668,Petrol Station,Western,2024-11,False,0
+C03669,Duka,Coast,2023-03,True,0
+C03670,Duka,Nairobi,2023-08,False,0
+C03671,Duka,Western,2025-03,False,0
+C03672,Duka,Central,2022-12,False,0
+C03673,Duka,Central,2025-09,False,0
+C03674,Petrol Station,Coast,2024-10,True,0
+C03675,HoReCa,Nairobi,2022-09,True,14
+C03676,Duka,Rift Valley,2025-09,True,0
+C03677,HoReCa,Rift Valley,2025-07,False,14
+C03678,Duka,Nyanza,2025-11,True,0
+C03679,Supermarket,Central,2024-05,True,30
+C03680,Duka,Nyanza,2024-01,False,0
+C03681,HoReCa,Nairobi,2023-01,True,14
+C03682,Supermarket,Coast,2023-09,False,30
+C03683,HoReCa,Rift Valley,2024-02,True,14
+C03684,HoReCa,Nairobi,2026-03,False,14
+C03685,Petrol Station,Coast,2026-03,False,0
+C03686,Wholesaler,Nyanza,2023-06,True,30
+C03687,Wholesaler,Rift Valley,2022-11,True,30
+C03688,Duka,Western,2023-08,False,0
+C03689,Supermarket,Western,2022-07,True,30
+C03690,Duka,Nairobi,2022-12,True,0
+C03691,HoReCa,Nyanza,2024-12,False,14
+C03692,Duka,Nairobi,2025-04,False,0
+C03693,Duka,Nairobi,2024-03,True,0
+C03694,Duka,Nairobi,2023-03,True,0
+C03695,Duka,Coast,2022-04,False,0
+C03696,Petrol Station,Nairobi,2024-03,False,0
+C03697,Wholesaler,Nairobi,2024-08,True,30
+C03698,Duka,Central,2025-02,False,0
+C03699,Petrol Station,Rift Valley,2023-04,True,0
+C03700,Petrol Station,Nyanza,2025-05,True,0
+C03701,Supermarket,Western,2025-04,True,30
+C03702,Duka,Nyanza,2022-11,False,0
+C03703,Duka,Coast,2023-01,False,0
+C03704,Petrol Station,Nairobi,2025-09,True,0
+C03705,Wholesaler,Nyanza,2024-05,True,30
+C03706,Duka,Central,2025-06,True,0
+C03707,Supermarket,Rift Valley,2024-11,True,30
+C03708,Wholesaler,Nairobi,2025-10,True,30
+C03709,Duka,Central,2024-11,True,0
+C03710,Supermarket,Nyanza,2024-04,True,30
+C03711,Petrol Station,Central,2025-11,False,0
+C03712,Duka,Central,2025-09,False,0
+C03713,Wholesaler,Coast,2024-03,True,30
+C03714,HoReCa,Coast,2022-11,True,14
+C03715,Supermarket,Nairobi,2025-09,False,30
+C03716,Supermarket,Central,2023-08,True,30
+C03717,Duka,Nairobi,2023-07,True,0
+C03718,Supermarket,Nairobi,2022-11,True,30
+C03719,HoReCa,Nairobi,2025-03,True,14
+C03720,HoReCa,Nyanza,2025-10,False,14
+C03721,Wholesaler,Western,2022-07,False,30
+C03722,Wholesaler,Nairobi,2023-12,True,30
+C03723,HoReCa,Nairobi,2022-04,False,14
+C03724,Duka,Nairobi,2022-07,False,0
+C03725,Supermarket,Central,2023-08,True,30
+C03726,Petrol Station,Nairobi,2025-06,False,0
+C03727,Duka,Nairobi,2025-09,True,0
+C03728,HoReCa,Coast,2024-01,False,14
+C03729,Duka,Nairobi,2024-07,True,0
+C03730,Duka,Nairobi,2023-03,False,0
+C03731,Duka,Western,2025-10,False,0
+C03732,HoReCa,Nairobi,2022-11,False,14
+C03733,Wholesaler,Nairobi,2025-06,True,30
+C03734,HoReCa,Nairobi,2022-07,False,14
+C03735,Duka,Rift Valley,2022-07,True,0
+C03736,Duka,Nairobi,2023-12,False,0
+C03737,Duka,Rift Valley,2025-03,False,0
+C03738,Petrol Station,Central,2024-08,True,0
+C03739,Duka,Central,2023-01,False,0
+C03740,HoReCa,Nairobi,2025-09,False,14
+C03741,Duka,Central,2022-10,False,0
+C03742,Supermarket,Western,2022-10,True,30
+C03743,HoReCa,Coast,2022-07,True,14
+C03744,Duka,Nairobi,2022-12,False,0
+C03745,Supermarket,Rift Valley,2022-06,True,30
+C03746,Duka,Rift Valley,2025-05,False,0
+C03747,Petrol Station,Coast,2024-03,False,0
+C03748,Petrol Station,Rift Valley,2025-12,True,0
+C03749,Duka,Rift Valley,2025-12,False,0
+C03750,Duka,Nairobi,2023-01,True,0
+C03751,Wholesaler,Central,2023-06,False,30
+C03752,HoReCa,Nyanza,2024-11,False,14
+C03753,Wholesaler,Nairobi,2025-01,True,30
+C03754,HoReCa,Coast,2026-03,True,14
+C03755,HoReCa,Rift Valley,2024-07,False,14
+C03756,Duka,Central,2024-04,False,0
+C03757,Supermarket,Coast,2026-02,False,30
+C03758,Duka,Nyanza,2024-11,False,0
+C03759,Duka,Nairobi,2023-12,True,0
+C03760,Duka,Central,2025-12,False,0
+C03761,Petrol Station,Nairobi,2022-01,True,0
+C03762,HoReCa,Coast,2024-05,True,14
+C03763,Petrol Station,Nairobi,2025-02,False,0
+C03764,Duka,Nyanza,2022-12,True,0
+C03765,Duka,Rift Valley,2022-02,False,0
+C03766,Duka,Rift Valley,2022-08,False,0
+C03767,Duka,Western,2023-08,False,0
+C03768,HoReCa,Nairobi,2023-03,True,14
+C03769,Supermarket,Nyanza,2025-08,False,30
+C03770,Supermarket,Central,2022-09,True,30
+C03771,HoReCa,Central,2022-02,False,14
+C03772,Duka,Nyanza,2024-12,False,0
+C03773,HoReCa,Central,2022-02,False,14
+C03774,Petrol Station,Western,2024-02,False,0
+C03775,Supermarket,Coast,2023-10,True,30
+C03776,Wholesaler,Rift Valley,2024-08,True,30
+C03777,HoReCa,Nairobi,2023-07,True,14
+C03778,Duka,Nairobi,2026-02,False,0
+C03779,Duka,Western,2025-03,False,0
+C03780,Duka,Western,2023-12,False,0
+C03781,Petrol Station,Nairobi,2026-01,True,0
+C03782,Duka,Central,2022-10,False,0
+C03783,Supermarket,Central,2022-04,True,30
+C03784,Duka,Central,2022-09,True,0
+C03785,Petrol Station,Central,2024-01,True,0
+C03786,Duka,Coast,2022-10,True,0
+C03787,Duka,Nairobi,2023-12,True,0
+C03788,Duka,Central,2022-06,False,0
+C03789,Duka,Nairobi,2025-11,False,0
+C03790,Wholesaler,Rift Valley,2024-06,True,30
+C03791,Supermarket,Coast,2025-02,False,30
+C03792,Duka,Central,2025-06,True,0
+C03793,Duka,Nairobi,2024-01,True,0
+C03794,Duka,Rift Valley,2022-12,True,0
+C03795,Supermarket,Nairobi,2024-01,True,30
+C03796,HoReCa,Nairobi,2022-01,False,14
+C03797,Duka,Nairobi,2025-07,False,0
+C03798,Supermarket,Nairobi,2024-02,True,30
+C03799,HoReCa,Nairobi,2022-04,False,14
+C03800,Duka,Coast,2024-08,False,0
+C03801,HoReCa,Central,2024-10,False,14
+C03802,Duka,Western,2022-11,False,0
+C03803,HoReCa,Central,2024-11,False,14
+C03804,Wholesaler,Central,2024-10,True,30
+C03805,Wholesaler,Rift Valley,2022-12,True,30
+C03806,Duka,Rift Valley,2024-07,False,0
+C03807,HoReCa,Nairobi,2023-01,False,14
+C03808,Duka,Rift Valley,2025-03,False,0
+C03809,Duka,Nairobi,2022-02,False,0
+C03810,HoReCa,Central,2023-02,True,14
+C03811,Duka,Nyanza,2025-02,True,0
+C03812,HoReCa,Central,2022-03,False,14
+C03813,Duka,Coast,2023-05,False,0
+C03814,Petrol Station,Nairobi,2023-09,True,0
+C03815,Duka,Western,2023-09,True,0
+C03816,HoReCa,Central,2024-12,False,14
+C03817,Duka,Coast,2024-02,True,0
+C03818,Supermarket,Coast,2026-02,True,30
+C03819,HoReCa,Nairobi,2023-05,False,14
+C03820,Duka,Nairobi,2024-06,False,0
+C03821,Duka,Rift Valley,2023-03,False,0
+C03822,Duka,Nairobi,2024-09,True,0
+C03823,Supermarket,Central,2024-05,True,30
+C03824,Duka,Rift Valley,2023-08,True,0
+C03825,Duka,Rift Valley,2025-11,True,0
+C03826,Supermarket,Central,2024-12,True,30
+C03827,Supermarket,Central,2025-10,True,30
+C03828,HoReCa,Central,2024-03,False,14
+C03829,Duka,Nyanza,2022-09,True,0
+C03830,Supermarket,Coast,2024-12,True,30
+C03831,HoReCa,Central,2025-07,False,14
+C03832,Wholesaler,Rift Valley,2022-01,True,30
+C03833,HoReCa,Rift Valley,2023-11,False,14
+C03834,Duka,Central,2026-02,True,0
+C03835,Wholesaler,Rift Valley,2025-04,True,30
+C03836,Duka,Nairobi,2023-05,False,0
+C03837,Duka,Nairobi,2023-12,True,0
+C03838,Duka,Rift Valley,2025-09,True,0
+C03839,Duka,Nairobi,2023-03,False,0
+C03840,Duka,Central,2025-05,False,0
+C03841,Duka,Nairobi,2023-05,False,0
+C03842,Duka,Rift Valley,2024-05,True,0
+C03843,HoReCa,Western,2026-03,False,14
+C03844,Duka,Rift Valley,2024-07,False,0
+C03845,Supermarket,Coast,2025-02,True,30
+C03846,Petrol Station,Central,2022-04,False,0
+C03847,Duka,Western,2024-08,False,0
+C03848,Duka,Nairobi,2024-10,False,0
+C03849,Supermarket,Nyanza,2025-05,True,30
+C03850,Duka,Nyanza,2025-07,False,0
+C03851,Wholesaler,Nairobi,2023-06,True,30
+C03852,Duka,Coast,2025-10,True,0
+C03853,Petrol Station,Coast,2022-08,True,0
+C03854,Petrol Station,Nyanza,2022-04,False,0
+C03855,Duka,Central,2024-09,False,0
+C03856,Duka,Nairobi,2026-01,False,0
+C03857,Wholesaler,Central,2024-10,False,30
+C03858,Supermarket,Rift Valley,2024-02,True,30
+C03859,Petrol Station,Nairobi,2022-09,True,0
+C03860,Petrol Station,Nairobi,2024-06,False,0
+C03861,HoReCa,Nairobi,2023-07,False,14
+C03862,Duka,Central,2024-02,False,0
+C03863,Supermarket,Nairobi,2024-10,True,30
+C03864,Duka,Nairobi,2025-06,False,0
+C03865,HoReCa,Nairobi,2025-08,False,14
+C03866,Duka,Central,2024-08,True,0
+C03867,HoReCa,Nairobi,2025-09,False,14
+C03868,Duka,Coast,2023-03,False,0
+C03869,HoReCa,Coast,2022-02,True,14
+C03870,Supermarket,Western,2022-02,True,30
+C03871,Supermarket,Nairobi,2024-08,True,30
+C03872,Supermarket,Western,2023-09,True,30
+C03873,Duka,Western,2024-02,False,0
+C03874,Wholesaler,Rift Valley,2023-06,True,30
+C03875,Duka,Western,2023-06,False,0
+C03876,Supermarket,Central,2022-05,True,30
+C03877,HoReCa,Western,2025-12,True,14
+C03878,Duka,Central,2024-05,False,0
+C03879,Duka,Central,2023-08,True,0
+C03880,Supermarket,Western,2025-11,False,30
+C03881,Duka,Nairobi,2025-07,True,0
+C03882,Duka,Nyanza,2025-09,False,0
+C03883,Wholesaler,Western,2023-01,True,30
+C03884,HoReCa,Rift Valley,2022-06,True,14
+C03885,HoReCa,Central,2026-01,True,14
+C03886,HoReCa,Nairobi,2024-10,False,14
+C03887,Supermarket,Coast,2023-07,True,30
+C03888,HoReCa,Central,2023-11,False,14
+C03889,Petrol Station,Nairobi,2022-11,False,0
+C03890,Supermarket,Rift Valley,2024-06,True,30
+C03891,Wholesaler,Central,2025-08,True,30
+C03892,Duka,Nairobi,2024-01,False,0
+C03893,Wholesaler,Central,2026-01,True,30
+C03894,HoReCa,Nyanza,2024-11,False,14
+C03895,HoReCa,Western,2025-10,True,14
+C03896,Petrol Station,Coast,2023-07,True,0
+C03897,Petrol Station,Rift Valley,2022-11,False,0
+C03898,Duka,Rift Valley,2024-03,False,0
+C03899,Supermarket,Central,2022-07,True,30
+C03900,Supermarket,Nyanza,2022-03,True,30
+C03901,Duka,Central,2023-09,False,0
+C03902,Petrol Station,Coast,2023-04,False,0
+C03903,Petrol Station,Western,2024-11,False,0
+C03904,Duka,Nairobi,2023-04,True,0
+C03905,Duka,Nairobi,2024-06,False,0
+C03906,Petrol Station,Central,2023-01,True,0
+C03907,Duka,Rift Valley,2025-04,True,0
+C03908,Duka,Rift Valley,2024-02,False,0
+C03909,Duka,Nairobi,2023-01,False,0
+C03910,Petrol Station,Nyanza,2022-05,False,0
+C03911,Duka,Central,2023-02,False,0
+C03912,Wholesaler,Western,2023-01,False,30
+C03913,Duka,Nairobi,2025-01,True,0
+C03914,Duka,Nairobi,2023-02,True,0
+C03915,HoReCa,Central,2024-07,False,14
+C03916,HoReCa,Nairobi,2023-07,False,14
+C03917,Duka,Coast,2023-05,False,0
+C03918,Duka,Rift Valley,2023-02,False,0
+C03919,Duka,Coast,2022-06,True,0
+C03920,Supermarket,Western,2026-02,True,30
+C03921,Supermarket,Central,2023-06,True,30
+C03922,HoReCa,Central,2024-02,True,14
+C03923,Duka,Rift Valley,2023-04,False,0
+C03924,Wholesaler,Coast,2024-11,True,30
+C03925,Duka,Rift Valley,2024-05,False,0
+C03926,Duka,Nyanza,2022-05,True,0
+C03927,Duka,Central,2022-07,False,0
+C03928,Duka,Rift Valley,2025-11,False,0
+C03929,Duka,Nairobi,2022-11,True,0
+C03930,Duka,Central,2024-09,True,0
+C03931,Duka,Nairobi,2025-10,True,0
+C03932,Petrol Station,Central,2025-10,False,0
+C03933,Petrol Station,Central,2025-11,False,0
+C03934,Wholesaler,Central,2022-09,True,30
+C03935,Duka,Nairobi,2023-12,False,0
+C03936,Duka,Rift Valley,2023-04,False,0
+C03937,Supermarket,Rift Valley,2024-10,True,30
+C03938,Duka,Nyanza,2022-05,False,0
+C03939,Duka,Rift Valley,2026-02,False,0
+C03940,Duka,Western,2026-03,True,0
+C03941,Duka,Nyanza,2022-12,False,0
+C03942,Duka,Nairobi,2025-11,False,0
+C03943,HoReCa,Western,2026-02,False,14
+C03944,Duka,Rift Valley,2022-12,False,0
+C03945,HoReCa,Western,2025-01,True,14
+C03946,Wholesaler,Central,2024-04,True,30
+C03947,Supermarket,Nairobi,2024-10,False,30
+C03948,Duka,Central,2025-05,True,0
+C03949,Duka,Central,2023-08,True,0
+C03950,HoReCa,Nairobi,2025-02,False,14
+C03951,Duka,Nairobi,2025-09,False,0
+C03952,Duka,Nairobi,2025-08,True,0
+C03953,Wholesaler,Coast,2025-08,True,30
+C03954,Petrol Station,Nairobi,2022-08,True,0
+C03955,HoReCa,Central,2024-10,False,14
+C03956,Duka,Central,2023-05,False,0
+C03957,HoReCa,Rift Valley,2023-01,False,14
+C03958,HoReCa,Rift Valley,2022-10,False,14
+C03959,Supermarket,Central,2022-07,True,30
+C03960,Duka,Nairobi,2024-04,True,0
+C03961,Duka,Nairobi,2024-06,True,0
+C03962,HoReCa,Western,2022-09,True,14
+C03963,Duka,Nairobi,2025-12,False,0
+C03964,Duka,Rift Valley,2024-05,False,0
+C03965,Wholesaler,Nairobi,2022-07,True,30
+C03966,Wholesaler,Central,2022-01,False,30
+C03967,Petrol Station,Nairobi,2022-02,False,0
+C03968,Duka,Coast,2023-12,True,0
+C03969,Wholesaler,Nyanza,2023-11,True,30
+C03970,Wholesaler,Nairobi,2024-04,True,30
+C03971,Supermarket,Rift Valley,2024-10,True,30
+C03972,Supermarket,Nairobi,2024-02,True,30
+C03973,Wholesaler,Central,2025-06,True,30
+C03974,Petrol Station,Nairobi,2025-03,False,0
+C03975,Duka,Central,2025-02,False,0
+C03976,Duka,Nairobi,2025-02,True,0
+C03977,Duka,Nairobi,2022-10,False,0
+C03978,Duka,Rift Valley,2023-02,False,0
+C03979,HoReCa,Central,2023-11,True,14
+C03980,Duka,Rift Valley,2025-11,False,0
+C03981,Supermarket,Coast,2023-09,True,30
+C03982,Wholesaler,Nairobi,2023-12,True,30
+C03983,Duka,Nairobi,2024-12,False,0
+C03984,Supermarket,Central,2024-04,True,30
+C03985,Duka,Central,2025-10,False,0
+C03986,Duka,Central,2023-12,True,0
+C03987,Duka,Nairobi,2026-01,True,0
+C03988,HoReCa,Western,2022-09,False,14
+C03989,Supermarket,Nairobi,2023-05,False,30
+C03990,Duka,Nairobi,2025-09,True,0
+C03991,Duka,Nairobi,2022-01,False,0
+C03992,Duka,Rift Valley,2025-08,False,0
+C03993,Duka,Nyanza,2025-01,True,0
+C03994,Wholesaler,Rift Valley,2022-05,True,30
+C03995,Duka,Nairobi,2022-04,False,0
+C03996,Wholesaler,Nairobi,2025-07,False,30
+C03997,Duka,Nairobi,2022-09,True,0
+C03998,Supermarket,Nairobi,2023-09,True,30
+C03999,Duka,Nairobi,2023-12,True,0
+C04000,Duka,Nyanza,2024-11,False,0
