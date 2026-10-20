@@ -1,0 +1,35 @@
+name: Python pipeline
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  notebook:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+    - uses: actions/checkout@v5
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v6
+      with:
+        python-version: "3.12"
+        cache: pip
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Build the notebook
+      run: python python/build_notebook.py
+    - name: Execute the notebook end to end
+      run: jupyter nbconvert --to notebook --execute --inplace python/segmentation_and_churn.ipynb
+    - name: Upload notebook and Python outputs
+      uses: actions/upload-artifact@v4
+      with:
+        name: python-outputs
+        path: |
+          python/segmentation_and_churn.ipynb
+          outputs/python/
